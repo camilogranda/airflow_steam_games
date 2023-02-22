@@ -1405,3 +1405,960 @@
 [2023-02-22 00:13:41,319] {logging_mixin.py:115} INFO - [2023-02-22 00:13:41,319] {dag.py:2420} INFO - Sync 1 DAGs
 [2023-02-22 00:13:41,348] {logging_mixin.py:115} INFO - [2023-02-22 00:13:41,348] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
 [2023-02-22 00:13:41,373] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.656 seconds
+[2023-02-22 00:44:52,114] {processor.py:153} INFO - Started process (PID=74020) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:44:52,117] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:44:52,118] {logging_mixin.py:115} INFO - [2023-02-22 00:44:52,118] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:44:53,196] {logging_mixin.py:115} INFO - [2023-02-22 00:44:53,192] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:44:53,197] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:44:53,226] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.118 seconds
+[2023-02-22 00:45:23,733] {processor.py:153} INFO - Started process (PID=74049) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:45:23,743] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:45:23,744] {logging_mixin.py:115} INFO - [2023-02-22 00:45:23,744] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:45:25,804] {logging_mixin.py:115} INFO - [2023-02-22 00:45:25,785] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:45:25,806] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:45:25,836] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.111 seconds
+[2023-02-22 00:45:58,628] {processor.py:153} INFO - Started process (PID=74223) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:45:58,636] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:45:58,646] {logging_mixin.py:115} INFO - [2023-02-22 00:45:58,645] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:46:42,171] {logging_mixin.py:115} INFO - [2023-02-22 00:46:42,171] {timeout.py:67} ERROR - Process timed out, PID: 74223
+[2023-02-22 00:46:42,252] {logging_mixin.py:115} INFO - [2023-02-22 00:46:42,186] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 6, in <module>
+    import steam_new_releases as scraper
+  File "/home/milo/13-airflow/airflowhome/dags/steam_new_releases.py", line 1, in <module>
+    from selectolax.parser import HTMLParser
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/selectolax/__init__.py", line 9, in <module>
+    from . import lexbor
+  File "<frozen importlib._bootstrap>", line 398, in parent
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /home/milo/13-airflow/airflowhome/dags/steam_dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 74223
+[2023-02-22 00:46:42,259] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:46:42,384] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 44.054 seconds
+[2023-02-22 00:47:13,108] {processor.py:153} INFO - Started process (PID=74397) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:47:13,109] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:47:13,110] {logging_mixin.py:115} INFO - [2023-02-22 00:47:13,110] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:47:43,173] {logging_mixin.py:115} INFO - [2023-02-22 00:47:43,157] {timeout.py:67} ERROR - Process timed out, PID: 74397
+[2023-02-22 00:47:43,178] {logging_mixin.py:115} WARNING - --- Logging error ---
+[2023-02-22 00:47:43,530] {logging_mixin.py:115} WARNING - Traceback (most recent call last):
+[2023-02-22 00:47:43,616] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+[2023-02-22 00:47:43,708] {logging_mixin.py:115} WARNING -   File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+[2023-02-22 00:47:43,716] {logging_mixin.py:115} WARNING -   File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+[2023-02-22 00:47:43,716] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+[2023-02-22 00:47:43,716] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+[2023-02-22 00:47:43,716] {logging_mixin.py:115} WARNING - airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:47:43,716] {logging_mixin.py:115} WARNING - 
+During handling of the above exception, another exception occurred:
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING - Traceback (most recent call last):
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/logging/__init__.py", line 671, in format
+    record.exc_text = self.formatException(record.exc_info)
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/logging/__init__.py", line 621, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/traceback.py", line 515, in __init__
+    exc_value.__suppress_context__ if exc_value else False
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING - airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /home/milo/13-airflow/airflowhome/dags/steam_dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 74397
+[2023-02-22 00:47:43,717] {logging_mixin.py:115} WARNING - Call stack:
+[2023-02-22 00:47:44,373] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/bin/airflow", line 8, in <module>
+    sys.exit(main())
+[2023-02-22 00:47:45,351] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/__main__.py", line 38, in main
+    args.func(args)
+[2023-02-22 00:47:45,357] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/cli/cli_parser.py", line 51, in command
+    return func(*args, **kwargs)
+[2023-02-22 00:47:45,357] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/utils/cli.py", line 99, in wrapper
+    return f(*args, **kwargs)
+[2023-02-22 00:47:45,357] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/cli/commands/scheduler_command.py", line 75, in scheduler
+    _run_scheduler_job(args=args)
+[2023-02-22 00:47:45,357] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/cli/commands/scheduler_command.py", line 46, in _run_scheduler_job
+    job.run()
+[2023-02-22 00:47:45,357] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/jobs/base_job.py", line 244, in run
+    self._execute()
+[2023-02-22 00:47:45,357] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/jobs/scheduler_job.py", line 747, in _execute
+    self.processor_agent.start()
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/dag_processing/manager.py", line 158, in start
+    process.start()
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/context.py", line 277, in _Popen
+    return Popen(process_obj)
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/popen_fork.py", line 71, in _launch
+    code = process_obj._bootstrap(parent_sentinel=child_r)
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/dag_processing/manager.py", line 255, in _run_processor_manager
+    processor_manager.start()
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/dag_processing/manager.py", line 486, in start
+    return self._run_parsing_loop()
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/dag_processing/manager.py", line 600, in _run_parsing_loop
+    self.start_new_processes()
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/dag_processing/manager.py", line 984, in start_new_processes
+    processor.start()
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/dag_processing/processor.py", line 194, in start
+    process.start()
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+[2023-02-22 00:47:45,358] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/context.py", line 277, in _Popen
+    return Popen(process_obj)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/popen_fork.py", line 71, in _launch
+    code = process_obj._bootstrap(parent_sentinel=child_r)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/.pyenv/versions/3.9.12/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/dag_processing/processor.py", line 155, in _run_file_processor
+    result: Tuple[int, int] = dag_file_processor.process_file(
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/utils/session.py", line 71, in wrapper
+    return func(*args, session=session, **kwargs)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/dag_processing/processor.py", line 644, in process_file
+    dagbag = DagBag(file_path, include_examples=False, include_smart_sensor=False)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 131, in __init__
+    self.collect_dags(
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 523, in collect_dags
+    found_dags = self.process_file(filepath, only_if_updated=only_if_updated, safe_mode=safe_mode)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 287, in process_file
+    mods = self._load_modules_from_file(filepath, safe_mode)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 347, in _load_modules_from_file
+    return parse(mod_name, filepath)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING -   File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 321, in parse
+    self.log.exception("Failed to import: %s", filepath)
+[2023-02-22 00:47:45,359] {logging_mixin.py:115} WARNING - Message: 'Failed to import: %s'
+Arguments: ('/home/milo/13-airflow/airflowhome/dags/steam_dag.py',)
+[2023-02-22 00:47:45,371] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:47:45,491] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 32.385 seconds
+[2023-02-22 00:51:01,903] {processor.py:153} INFO - Started process (PID=74472) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:51:01,904] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:51:01,905] {logging_mixin.py:115} INFO - [2023-02-22 00:51:01,905] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:51:02,900] {logging_mixin.py:115} INFO - [2023-02-22 00:51:02,896] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:51:02,901] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:51:02,926] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.032 seconds
+[2023-02-22 00:51:33,442] {processor.py:153} INFO - Started process (PID=74540) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:51:33,443] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:51:33,444] {logging_mixin.py:115} INFO - [2023-02-22 00:51:33,444] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:51:34,023] {logging_mixin.py:115} INFO - [2023-02-22 00:51:34,022] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:51:34,024] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:51:34,047] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.614 seconds
+[2023-02-22 00:52:04,247] {processor.py:153} INFO - Started process (PID=74623) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:52:04,250] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:52:04,251] {logging_mixin.py:115} INFO - [2023-02-22 00:52:04,251] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:52:04,792] {logging_mixin.py:115} INFO - [2023-02-22 00:52:04,791] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:52:04,792] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:52:04,820] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.578 seconds
+[2023-02-22 00:52:34,938] {processor.py:153} INFO - Started process (PID=74716) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:52:34,940] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:52:34,941] {logging_mixin.py:115} INFO - [2023-02-22 00:52:34,941] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:52:35,515] {logging_mixin.py:115} INFO - [2023-02-22 00:52:35,514] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:52:35,516] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:52:35,542] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.610 seconds
+[2023-02-22 00:53:05,752] {processor.py:153} INFO - Started process (PID=74907) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:53:05,753] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:53:05,753] {logging_mixin.py:115} INFO - [2023-02-22 00:53:05,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:53:06,333] {logging_mixin.py:115} INFO - [2023-02-22 00:53:06,331] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:53:06,333] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:53:08,508] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.764 seconds
+[2023-02-22 00:53:39,809] {processor.py:153} INFO - Started process (PID=74990) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:53:39,811] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:53:39,812] {logging_mixin.py:115} INFO - [2023-02-22 00:53:39,812] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:53:40,364] {logging_mixin.py:115} INFO - [2023-02-22 00:53:40,363] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:53:40,365] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:53:40,390] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.587 seconds
+[2023-02-22 00:54:11,300] {processor.py:153} INFO - Started process (PID=75042) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:54:11,304] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:54:11,305] {logging_mixin.py:115} INFO - [2023-02-22 00:54:11,304] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:54:11,842] {logging_mixin.py:115} INFO - [2023-02-22 00:54:11,841] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:54:11,842] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:54:11,871] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.577 seconds
+[2023-02-22 00:54:42,262] {processor.py:153} INFO - Started process (PID=75120) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:54:42,263] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:54:42,264] {logging_mixin.py:115} INFO - [2023-02-22 00:54:42,263] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:54:42,883] {logging_mixin.py:115} INFO - [2023-02-22 00:54:42,881] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:54:42,883] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:54:42,911] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.656 seconds
+[2023-02-22 00:55:13,815] {processor.py:153} INFO - Started process (PID=75255) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:55:13,817] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:55:13,818] {logging_mixin.py:115} INFO - [2023-02-22 00:55:13,818] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:55:14,547] {logging_mixin.py:115} INFO - [2023-02-22 00:55:14,545] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:55:14,547] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:55:16,421] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.613 seconds
+[2023-02-22 00:55:46,840] {processor.py:153} INFO - Started process (PID=75364) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:55:46,842] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:55:46,844] {logging_mixin.py:115} INFO - [2023-02-22 00:55:46,843] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:55:47,397] {logging_mixin.py:115} INFO - [2023-02-22 00:55:47,395] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:55:47,397] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:55:47,420] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.587 seconds
+[2023-02-22 00:56:18,366] {processor.py:153} INFO - Started process (PID=75564) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:56:18,367] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:56:18,368] {logging_mixin.py:115} INFO - [2023-02-22 00:56:18,368] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:56:18,954] {logging_mixin.py:115} INFO - [2023-02-22 00:56:18,952] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:56:18,954] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:56:19,115] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.755 seconds
+[2023-02-22 00:56:49,516] {processor.py:153} INFO - Started process (PID=75768) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:56:49,518] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:56:49,519] {logging_mixin.py:115} INFO - [2023-02-22 00:56:49,519] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:56:50,105] {logging_mixin.py:115} INFO - [2023-02-22 00:56:50,104] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:56:50,106] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:56:50,129] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.619 seconds
+[2023-02-22 00:57:20,388] {processor.py:153} INFO - Started process (PID=75851) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:57:20,389] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:57:20,390] {logging_mixin.py:115} INFO - [2023-02-22 00:57:20,390] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:57:20,937] {logging_mixin.py:115} INFO - [2023-02-22 00:57:20,936] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:57:20,938] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:57:20,993] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.610 seconds
+[2023-02-22 00:57:51,124] {processor.py:153} INFO - Started process (PID=76031) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:57:51,125] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:57:51,126] {logging_mixin.py:115} INFO - [2023-02-22 00:57:51,126] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:57:51,670] {logging_mixin.py:115} INFO - [2023-02-22 00:57:51,669] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 62, in <module>
+    notification = EmailOperator(task_id="notification",
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 373, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'html_content'
+[2023-02-22 00:57:51,671] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:57:51,703] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.585 seconds
+[2023-02-22 00:58:21,982] {processor.py:153} INFO - Started process (PID=76138) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:58:21,983] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:58:21,984] {logging_mixin.py:115} INFO - [2023-02-22 00:58:21,984] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:58:21,989] {logging_mixin.py:115} INFO - [2023-02-22 00:58:21,988] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 66
+    files=[f"/home/milo/13-airflow/airflowhome/files/*{date}.json"])
+    ^
+SyntaxError: invalid syntax
+[2023-02-22 00:58:21,990] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:58:22,026] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.050 seconds
+[2023-02-22 00:58:52,528] {processor.py:153} INFO - Started process (PID=76226) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:58:52,530] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:58:52,531] {logging_mixin.py:115} INFO - [2023-02-22 00:58:52,531] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:58:52,538] {logging_mixin.py:115} INFO - [2023-02-22 00:58:52,537] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 66
+    files=[f"/home/milo/13-airflow/airflowhome/files/*{date}.json"])
+    ^
+SyntaxError: invalid syntax
+[2023-02-22 00:58:52,539] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:58:52,575] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.054 seconds
+[2023-02-22 00:59:22,789] {processor.py:153} INFO - Started process (PID=76285) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:59:22,804] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:59:22,806] {logging_mixin.py:115} INFO - [2023-02-22 00:59:22,805] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:59:22,811] {logging_mixin.py:115} INFO - [2023-02-22 00:59:22,810] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 66
+    files=[f"/home/milo/13-airflow/airflowhome/files/*{date}.json"])
+    ^
+SyntaxError: invalid syntax
+[2023-02-22 00:59:22,812] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:59:22,844] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.061 seconds
+[2023-02-22 00:59:53,395] {processor.py:153} INFO - Started process (PID=76339) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:59:53,398] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 00:59:53,401] {logging_mixin.py:115} INFO - [2023-02-22 00:59:53,401] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:59:53,407] {logging_mixin.py:115} INFO - [2023-02-22 00:59:53,406] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 66
+    files=[f"/home/milo/13-airflow/airflowhome/files/*{date}.json"])
+    ^
+SyntaxError: invalid syntax
+[2023-02-22 00:59:53,407] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 00:59:53,447] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.057 seconds
+[2023-02-22 01:00:23,830] {processor.py:153} INFO - Started process (PID=76446) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:00:23,831] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:00:23,832] {logging_mixin.py:115} INFO - [2023-02-22 01:00:23,831] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:00:24,540] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:00:24,613] {logging_mixin.py:115} INFO - [2023-02-22 01:00:24,613] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:00:24,646] {logging_mixin.py:115} INFO - [2023-02-22 01:00:24,646] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:00:24,683] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.860 seconds
+[2023-02-22 01:00:56,875] {processor.py:153} INFO - Started process (PID=76511) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:00:56,876] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:00:56,877] {logging_mixin.py:115} INFO - [2023-02-22 01:00:56,877] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:00:57,518] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:00:57,537] {logging_mixin.py:115} INFO - [2023-02-22 01:00:57,537] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:00:57,563] {logging_mixin.py:115} INFO - [2023-02-22 01:00:57,563] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:00:57,583] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.714 seconds
+[2023-02-22 01:01:27,701] {processor.py:153} INFO - Started process (PID=76577) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:01:27,702] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:01:27,703] {logging_mixin.py:115} INFO - [2023-02-22 01:01:27,703] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:01:28,409] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:01:28,433] {logging_mixin.py:115} INFO - [2023-02-22 01:01:28,433] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:01:28,476] {logging_mixin.py:115} INFO - [2023-02-22 01:01:28,476] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:01:28,497] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.804 seconds
+[2023-02-22 01:02:04,958] {processor.py:153} INFO - Started process (PID=76661) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:02:04,959] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:02:04,960] {logging_mixin.py:115} INFO - [2023-02-22 01:02:04,960] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:02:05,516] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:02:05,537] {logging_mixin.py:115} INFO - [2023-02-22 01:02:05,536] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:02:05,563] {logging_mixin.py:115} INFO - [2023-02-22 01:02:05,562] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:02:05,582] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.630 seconds
+[2023-02-22 01:02:36,265] {processor.py:153} INFO - Started process (PID=76733) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:02:36,269] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:02:36,271] {logging_mixin.py:115} INFO - [2023-02-22 01:02:36,271] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:02:36,932] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:02:36,954] {logging_mixin.py:115} INFO - [2023-02-22 01:02:36,954] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:02:36,980] {logging_mixin.py:115} INFO - [2023-02-22 01:02:36,980] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:02:38,004] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.751 seconds
+[2023-02-22 01:03:08,100] {processor.py:153} INFO - Started process (PID=76795) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:03:08,102] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:03:08,103] {logging_mixin.py:115} INFO - [2023-02-22 01:03:08,102] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:03:08,654] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:03:08,674] {logging_mixin.py:115} INFO - [2023-02-22 01:03:08,674] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:03:08,700] {logging_mixin.py:115} INFO - [2023-02-22 01:03:08,699] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:03:08,719] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.626 seconds
+[2023-02-22 01:03:50,514] {processor.py:153} INFO - Started process (PID=76866) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:03:50,515] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:03:50,517] {logging_mixin.py:115} INFO - [2023-02-22 01:03:50,516] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:03:51,058] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:03:51,077] {logging_mixin.py:115} INFO - [2023-02-22 01:03:51,077] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:03:51,104] {logging_mixin.py:115} INFO - [2023-02-22 01:03:51,103] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:03:53,317] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.809 seconds
+[2023-02-22 01:04:29,847] {processor.py:153} INFO - Started process (PID=76945) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:04:29,849] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:04:29,850] {logging_mixin.py:115} INFO - [2023-02-22 01:04:29,850] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:04:30,447] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:04:30,468] {logging_mixin.py:115} INFO - [2023-02-22 01:04:30,468] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:04:30,499] {logging_mixin.py:115} INFO - [2023-02-22 01:04:30,499] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:04:30,564] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.723 seconds
+[2023-02-22 01:05:01,477] {processor.py:153} INFO - Started process (PID=77153) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:05:01,479] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:05:01,482] {logging_mixin.py:115} INFO - [2023-02-22 01:05:01,481] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:05:02,121] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:05:02,140] {logging_mixin.py:115} INFO - [2023-02-22 01:05:02,140] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:05:02,169] {logging_mixin.py:115} INFO - [2023-02-22 01:05:02,168] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:05:02,200] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.730 seconds
+[2023-02-22 01:05:33,626] {processor.py:153} INFO - Started process (PID=77358) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:05:33,627] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:05:33,628] {logging_mixin.py:115} INFO - [2023-02-22 01:05:33,627] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:05:34,196] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:05:34,216] {logging_mixin.py:115} INFO - [2023-02-22 01:05:34,216] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:05:34,246] {logging_mixin.py:115} INFO - [2023-02-22 01:05:34,246] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:05:34,286] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.669 seconds
+[2023-02-22 01:06:04,485] {processor.py:153} INFO - Started process (PID=77567) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:06:04,486] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:06:04,487] {logging_mixin.py:115} INFO - [2023-02-22 01:06:04,487] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:06:05,047] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:06:05,116] {logging_mixin.py:115} INFO - [2023-02-22 01:06:05,116] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:06:05,141] {logging_mixin.py:115} INFO - [2023-02-22 01:06:05,141] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:06:06,886] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.408 seconds
+[2023-02-22 01:06:37,322] {processor.py:153} INFO - Started process (PID=77657) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:06:37,325] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:06:37,326] {logging_mixin.py:115} INFO - [2023-02-22 01:06:37,325] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:06:37,880] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:06:37,900] {logging_mixin.py:115} INFO - [2023-02-22 01:06:37,899] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:06:37,928] {logging_mixin.py:115} INFO - [2023-02-22 01:06:37,928] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:06:37,949] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.632 seconds
+[2023-02-22 01:07:13,073] {processor.py:153} INFO - Started process (PID=77740) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:07:13,074] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:07:13,075] {logging_mixin.py:115} INFO - [2023-02-22 01:07:13,075] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:07:13,653] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:07:13,675] {logging_mixin.py:115} INFO - [2023-02-22 01:07:13,675] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:07:13,705] {logging_mixin.py:115} INFO - [2023-02-22 01:07:13,704] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:07:13,730] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.663 seconds
+[2023-02-22 01:07:44,758] {processor.py:153} INFO - Started process (PID=77820) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:07:44,760] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:07:44,761] {logging_mixin.py:115} INFO - [2023-02-22 01:07:44,760] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:07:45,329] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:07:45,349] {logging_mixin.py:115} INFO - [2023-02-22 01:07:45,349] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:07:45,376] {logging_mixin.py:115} INFO - [2023-02-22 01:07:45,376] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:07:45,396] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.644 seconds
+[2023-02-22 01:08:15,653] {processor.py:153} INFO - Started process (PID=77882) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:08:15,655] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:08:15,656] {logging_mixin.py:115} INFO - [2023-02-22 01:08:15,656] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:08:16,202] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:08:16,222] {logging_mixin.py:115} INFO - [2023-02-22 01:08:16,222] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:08:16,250] {logging_mixin.py:115} INFO - [2023-02-22 01:08:16,250] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:08:16,270] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.623 seconds
+[2023-02-22 01:08:46,495] {processor.py:153} INFO - Started process (PID=77942) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:08:46,497] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:08:46,498] {logging_mixin.py:115} INFO - [2023-02-22 01:08:46,498] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:08:47,098] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:08:47,119] {logging_mixin.py:115} INFO - [2023-02-22 01:08:47,119] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:08:47,149] {logging_mixin.py:115} INFO - [2023-02-22 01:08:47,149] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:08:47,173] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.684 seconds
+[2023-02-22 01:09:17,331] {processor.py:153} INFO - Started process (PID=78011) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:09:17,440] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:09:17,442] {logging_mixin.py:115} INFO - [2023-02-22 01:09:17,441] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:09:17,980] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:09:18,000] {logging_mixin.py:115} INFO - [2023-02-22 01:09:18,000] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:09:18,027] {logging_mixin.py:115} INFO - [2023-02-22 01:09:18,027] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:09:20,539] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 3.214 seconds
+[2023-02-22 01:09:50,711] {processor.py:153} INFO - Started process (PID=78106) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:09:50,712] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:09:50,713] {logging_mixin.py:115} INFO - [2023-02-22 01:09:50,713] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:09:51,286] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:09:51,309] {logging_mixin.py:115} INFO - [2023-02-22 01:09:51,308] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:09:51,344] {logging_mixin.py:115} INFO - [2023-02-22 01:09:51,344] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:09:51,369] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.665 seconds
+[2023-02-22 01:10:26,699] {processor.py:153} INFO - Started process (PID=78288) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:10:26,701] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:10:26,702] {logging_mixin.py:115} INFO - [2023-02-22 01:10:26,702] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:10:26,708] {logging_mixin.py:115} INFO - [2023-02-22 01:10:26,707] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 67
+    dag=dag)
+    ^
+SyntaxError: invalid syntax
+[2023-02-22 01:10:26,710] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:10:26,748] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.055 seconds
+[2023-02-22 01:10:57,457] {processor.py:153} INFO - Started process (PID=78354) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:10:57,458] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:10:57,459] {logging_mixin.py:115} INFO - [2023-02-22 01:10:57,459] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:10:57,465] {logging_mixin.py:115} INFO - [2023-02-22 01:10:57,463] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 67
+    dag=dag)
+    ^
+SyntaxError: invalid syntax
+[2023-02-22 01:10:57,465] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:10:57,500] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.050 seconds
+[2023-02-22 01:11:29,898] {processor.py:153} INFO - Started process (PID=78418) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:11:29,900] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:11:29,901] {logging_mixin.py:115} INFO - [2023-02-22 01:11:29,901] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:11:29,907] {logging_mixin.py:115} INFO - [2023-02-22 01:11:29,906] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 67
+    dag=dag)
+    ^
+SyntaxError: invalid syntax
+[2023-02-22 01:11:29,907] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:11:29,946] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.053 seconds
+[2023-02-22 01:12:00,704] {processor.py:153} INFO - Started process (PID=78508) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:12:00,705] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:12:00,706] {logging_mixin.py:115} INFO - [2023-02-22 01:12:00,706] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:12:01,258] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:12:01,327] {logging_mixin.py:115} INFO - [2023-02-22 01:12:01,327] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:12:01,352] {logging_mixin.py:115} INFO - [2023-02-22 01:12:01,352] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:12:01,611] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.913 seconds
+[2023-02-22 01:12:33,285] {processor.py:153} INFO - Started process (PID=78574) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:12:33,293] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:12:33,294] {logging_mixin.py:115} INFO - [2023-02-22 01:12:33,294] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:12:33,873] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:12:33,903] {logging_mixin.py:115} INFO - [2023-02-22 01:12:33,903] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:12:33,935] {logging_mixin.py:115} INFO - [2023-02-22 01:12:33,935] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:12:34,322] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.044 seconds
+[2023-02-22 01:13:10,563] {processor.py:153} INFO - Started process (PID=78663) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:13:10,564] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:13:10,566] {logging_mixin.py:115} INFO - [2023-02-22 01:13:10,565] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:13:11,159] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:13:11,180] {logging_mixin.py:115} INFO - [2023-02-22 01:13:11,179] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:13:11,205] {logging_mixin.py:115} INFO - [2023-02-22 01:13:11,205] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:13:11,226] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.670 seconds
+[2023-02-22 01:13:41,708] {processor.py:153} INFO - Started process (PID=78735) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:13:41,709] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:13:41,710] {logging_mixin.py:115} INFO - [2023-02-22 01:13:41,710] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:13:42,272] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:13:42,292] {logging_mixin.py:115} INFO - [2023-02-22 01:13:42,291] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:13:42,317] {logging_mixin.py:115} INFO - [2023-02-22 01:13:42,317] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:13:42,336] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.636 seconds
+[2023-02-22 01:14:13,252] {processor.py:153} INFO - Started process (PID=78800) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:14:13,254] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:14:13,255] {logging_mixin.py:115} INFO - [2023-02-22 01:14:13,255] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:14:13,803] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:14:13,822] {logging_mixin.py:115} INFO - [2023-02-22 01:14:13,822] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:14:13,848] {logging_mixin.py:115} INFO - [2023-02-22 01:14:13,848] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:14:13,867] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.621 seconds
+[2023-02-22 01:14:44,669] {processor.py:153} INFO - Started process (PID=78860) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:14:44,672] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:14:44,674] {logging_mixin.py:115} INFO - [2023-02-22 01:14:44,673] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:14:45,301] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:14:45,352] {logging_mixin.py:115} INFO - [2023-02-22 01:14:45,352] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:14:45,431] {logging_mixin.py:115} INFO - [2023-02-22 01:14:45,431] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:14:45,512] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.853 seconds
+[2023-02-22 01:15:16,224] {processor.py:153} INFO - Started process (PID=78930) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:15:16,225] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:15:16,226] {logging_mixin.py:115} INFO - [2023-02-22 01:15:16,225] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:15:17,029] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:15:17,050] {logging_mixin.py:115} INFO - [2023-02-22 01:15:17,050] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:15:17,076] {logging_mixin.py:115} INFO - [2023-02-22 01:15:17,076] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:15:17,095] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.885 seconds
+[2023-02-22 01:15:47,429] {processor.py:153} INFO - Started process (PID=78996) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:15:47,431] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:15:47,432] {logging_mixin.py:115} INFO - [2023-02-22 01:15:47,431] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:15:47,972] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:15:47,992] {logging_mixin.py:115} INFO - [2023-02-22 01:15:47,992] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:15:48,017] {logging_mixin.py:115} INFO - [2023-02-22 01:15:48,017] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:15:48,036] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.612 seconds
+[2023-02-22 01:16:18,380] {processor.py:153} INFO - Started process (PID=79055) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:16:18,381] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:16:18,382] {logging_mixin.py:115} INFO - [2023-02-22 01:16:18,382] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:16:18,926] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:16:18,946] {logging_mixin.py:115} INFO - [2023-02-22 01:16:18,945] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:16:18,972] {logging_mixin.py:115} INFO - [2023-02-22 01:16:18,971] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:16:18,992] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.618 seconds
+[2023-02-22 01:16:49,373] {processor.py:153} INFO - Started process (PID=79121) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:16:49,375] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:16:49,376] {logging_mixin.py:115} INFO - [2023-02-22 01:16:49,375] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:16:49,924] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:16:49,944] {logging_mixin.py:115} INFO - [2023-02-22 01:16:49,944] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:16:49,973] {logging_mixin.py:115} INFO - [2023-02-22 01:16:49,973] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:16:49,992] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.627 seconds
+[2023-02-22 01:17:20,424] {processor.py:153} INFO - Started process (PID=79183) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:17:20,425] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:17:20,427] {logging_mixin.py:115} INFO - [2023-02-22 01:17:20,427] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:17:20,977] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:17:20,996] {logging_mixin.py:115} INFO - [2023-02-22 01:17:20,996] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:17:21,021] {logging_mixin.py:115} INFO - [2023-02-22 01:17:21,021] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:17:21,040] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.622 seconds
+[2023-02-22 01:17:51,334] {processor.py:153} INFO - Started process (PID=79249) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:17:51,356] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:17:51,357] {logging_mixin.py:115} INFO - [2023-02-22 01:17:51,356] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:17:52,163] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:17:52,182] {logging_mixin.py:115} INFO - [2023-02-22 01:17:52,182] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:17:52,210] {logging_mixin.py:115} INFO - [2023-02-22 01:17:52,210] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:17:52,230] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.902 seconds
+[2023-02-22 01:18:22,681] {processor.py:153} INFO - Started process (PID=79308) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:18:22,683] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:18:22,684] {logging_mixin.py:115} INFO - [2023-02-22 01:18:22,684] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:18:23,663] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:18:23,697] {logging_mixin.py:115} INFO - [2023-02-22 01:18:23,697] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:18:23,746] {logging_mixin.py:115} INFO - [2023-02-22 01:18:23,746] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:18:23,794] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.122 seconds
+[2023-02-22 01:18:53,935] {processor.py:153} INFO - Started process (PID=79374) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:18:53,936] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:18:53,937] {logging_mixin.py:115} INFO - [2023-02-22 01:18:53,937] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:18:54,710] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:18:54,731] {logging_mixin.py:115} INFO - [2023-02-22 01:18:54,731] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:18:54,758] {logging_mixin.py:115} INFO - [2023-02-22 01:18:54,758] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:18:55,609] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.680 seconds
+[2023-02-22 01:19:26,106] {processor.py:153} INFO - Started process (PID=79433) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:19:26,108] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:19:26,110] {logging_mixin.py:115} INFO - [2023-02-22 01:19:26,110] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:19:26,691] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:19:26,716] {logging_mixin.py:115} INFO - [2023-02-22 01:19:26,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:19:26,746] {logging_mixin.py:115} INFO - [2023-02-22 01:19:26,745] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:19:26,769] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.668 seconds
+[2023-02-22 01:19:57,115] {processor.py:153} INFO - Started process (PID=79493) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:19:57,116] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:19:57,117] {logging_mixin.py:115} INFO - [2023-02-22 01:19:57,117] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:19:58,160] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:19:58,182] {logging_mixin.py:115} INFO - [2023-02-22 01:19:58,182] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:19:58,210] {logging_mixin.py:115} INFO - [2023-02-22 01:19:58,210] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:19:58,232] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.123 seconds
+[2023-02-22 01:20:28,843] {processor.py:153} INFO - Started process (PID=79560) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:20:28,847] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:20:28,848] {logging_mixin.py:115} INFO - [2023-02-22 01:20:28,848] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:20:29,855] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:20:29,879] {logging_mixin.py:115} INFO - [2023-02-22 01:20:29,879] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:20:29,928] {logging_mixin.py:115} INFO - [2023-02-22 01:20:29,928] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:20:29,965] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.136 seconds
+[2023-02-22 01:21:00,363] {processor.py:153} INFO - Started process (PID=79619) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:21:00,366] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:21:00,370] {logging_mixin.py:115} INFO - [2023-02-22 01:21:00,369] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:21:01,071] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:21:01,091] {logging_mixin.py:115} INFO - [2023-02-22 01:21:01,091] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:21:01,117] {logging_mixin.py:115} INFO - [2023-02-22 01:21:01,116] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:21:01,136] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.779 seconds
+[2023-02-22 01:21:31,507] {processor.py:153} INFO - Started process (PID=79685) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:21:31,511] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:21:31,514] {logging_mixin.py:115} INFO - [2023-02-22 01:21:31,514] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:21:32,407] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:21:32,440] {logging_mixin.py:115} INFO - [2023-02-22 01:21:32,439] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:21:32,483] {logging_mixin.py:115} INFO - [2023-02-22 01:21:32,483] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:21:32,530] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.029 seconds
+[2023-02-22 01:22:02,755] {processor.py:153} INFO - Started process (PID=79744) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:22:02,756] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:22:02,757] {logging_mixin.py:115} INFO - [2023-02-22 01:22:02,757] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:22:03,461] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:22:03,488] {logging_mixin.py:115} INFO - [2023-02-22 01:22:03,488] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:22:03,518] {logging_mixin.py:115} INFO - [2023-02-22 01:22:03,518] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:22:05,803] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 3.060 seconds
+[2023-02-22 01:22:36,295] {processor.py:153} INFO - Started process (PID=79811) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:22:36,296] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:22:36,297] {logging_mixin.py:115} INFO - [2023-02-22 01:22:36,296] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:22:36,963] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:22:36,984] {logging_mixin.py:115} INFO - [2023-02-22 01:22:36,984] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:22:37,010] {logging_mixin.py:115} INFO - [2023-02-22 01:22:37,010] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:22:38,225] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.939 seconds
+[2023-02-22 01:23:08,634] {processor.py:153} INFO - Started process (PID=79876) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:23:08,688] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:23:08,689] {logging_mixin.py:115} INFO - [2023-02-22 01:23:08,689] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:23:09,363] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:23:09,388] {logging_mixin.py:115} INFO - [2023-02-22 01:23:09,387] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:23:09,418] {logging_mixin.py:115} INFO - [2023-02-22 01:23:09,418] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:23:12,195] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 3.568 seconds
+[2023-02-22 01:23:44,583] {processor.py:153} INFO - Started process (PID=79942) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:23:44,585] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:23:44,587] {logging_mixin.py:115} INFO - [2023-02-22 01:23:44,587] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:23:45,232] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:23:45,257] {logging_mixin.py:115} INFO - [2023-02-22 01:23:45,257] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:23:45,282] {logging_mixin.py:115} INFO - [2023-02-22 01:23:45,282] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:23:45,307] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.730 seconds
+[2023-02-22 01:24:17,171] {processor.py:153} INFO - Started process (PID=80007) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:24:17,173] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:24:17,174] {logging_mixin.py:115} INFO - [2023-02-22 01:24:17,174] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:24:17,721] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:24:17,740] {logging_mixin.py:115} INFO - [2023-02-22 01:24:17,740] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:24:17,767] {logging_mixin.py:115} INFO - [2023-02-22 01:24:17,767] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:24:17,788] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.622 seconds
+[2023-02-22 01:24:49,094] {processor.py:153} INFO - Started process (PID=80067) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:24:49,095] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:24:49,096] {logging_mixin.py:115} INFO - [2023-02-22 01:24:49,096] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:24:49,950] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:24:50,074] {logging_mixin.py:115} INFO - [2023-02-22 01:24:50,073] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:24:50,134] {logging_mixin.py:115} INFO - [2023-02-22 01:24:50,134] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:24:51,815] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.726 seconds
+[2023-02-22 01:25:22,207] {processor.py:153} INFO - Started process (PID=80135) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:25:22,208] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:25:22,209] {logging_mixin.py:115} INFO - [2023-02-22 01:25:22,209] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:25:22,793] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:25:23,947] {logging_mixin.py:115} INFO - [2023-02-22 01:25:23,947] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:25:23,980] {logging_mixin.py:115} INFO - [2023-02-22 01:25:23,979] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:25:24,696] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.494 seconds
+[2023-02-22 01:25:54,870] {processor.py:153} INFO - Started process (PID=80195) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:25:54,880] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:25:54,881] {logging_mixin.py:115} INFO - [2023-02-22 01:25:54,881] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:25:56,326] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:25:56,376] {logging_mixin.py:115} INFO - [2023-02-22 01:25:56,376] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:25:56,457] {logging_mixin.py:115} INFO - [2023-02-22 01:25:56,457] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:25:56,531] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.658 seconds
+[2023-02-22 01:26:27,451] {processor.py:153} INFO - Started process (PID=80260) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:26:27,539] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:26:27,540] {logging_mixin.py:115} INFO - [2023-02-22 01:26:27,540] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:26:28,137] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:26:28,158] {logging_mixin.py:115} INFO - [2023-02-22 01:26:28,158] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:26:28,185] {logging_mixin.py:115} INFO - [2023-02-22 01:26:28,184] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:26:29,113] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.668 seconds
+[2023-02-22 01:26:59,218] {processor.py:153} INFO - Started process (PID=80320) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:26:59,220] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:26:59,222] {logging_mixin.py:115} INFO - [2023-02-22 01:26:59,222] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:26:59,902] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:26:59,926] {logging_mixin.py:115} INFO - [2023-02-22 01:26:59,926] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:26:59,985] {logging_mixin.py:115} INFO - [2023-02-22 01:26:59,985] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:27:00,014] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.804 seconds
+[2023-02-22 01:27:30,142] {processor.py:153} INFO - Started process (PID=80380) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:27:30,143] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:27:30,145] {logging_mixin.py:115} INFO - [2023-02-22 01:27:30,144] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:27:30,909] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:27:30,930] {logging_mixin.py:115} INFO - [2023-02-22 01:27:30,930] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:27:30,965] {logging_mixin.py:115} INFO - [2023-02-22 01:27:30,965] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:27:30,985] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.852 seconds
+[2023-02-22 01:28:01,179] {processor.py:153} INFO - Started process (PID=80439) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:28:01,179] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:28:01,181] {logging_mixin.py:115} INFO - [2023-02-22 01:28:01,181] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:28:01,733] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:28:01,759] {logging_mixin.py:115} INFO - [2023-02-22 01:28:01,759] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:28:01,788] {logging_mixin.py:115} INFO - [2023-02-22 01:28:01,788] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:28:01,809] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.636 seconds
+[2023-02-22 01:28:32,018] {processor.py:153} INFO - Started process (PID=80499) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:28:32,020] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:28:32,023] {logging_mixin.py:115} INFO - [2023-02-22 01:28:32,023] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:28:32,725] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:28:32,748] {logging_mixin.py:115} INFO - [2023-02-22 01:28:32,747] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:28:32,776] {logging_mixin.py:115} INFO - [2023-02-22 01:28:32,775] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:28:32,795] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.782 seconds
+[2023-02-22 01:29:02,977] {processor.py:153} INFO - Started process (PID=80564) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:29:02,980] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:29:02,981] {logging_mixin.py:115} INFO - [2023-02-22 01:29:02,981] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:29:03,615] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:29:03,644] {logging_mixin.py:115} INFO - [2023-02-22 01:29:03,644] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:29:03,707] {logging_mixin.py:115} INFO - [2023-02-22 01:29:03,707] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:29:03,735] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.772 seconds
+[2023-02-22 01:29:33,917] {processor.py:153} INFO - Started process (PID=80648) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:29:33,918] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:29:33,919] {logging_mixin.py:115} INFO - [2023-02-22 01:29:33,919] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:29:34,667] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:29:34,687] {logging_mixin.py:115} INFO - [2023-02-22 01:29:34,687] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:29:34,726] {logging_mixin.py:115} INFO - [2023-02-22 01:29:34,726] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:29:34,761] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.856 seconds
+[2023-02-22 01:30:04,977] {processor.py:153} INFO - Started process (PID=80783) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:30:04,978] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:30:04,980] {logging_mixin.py:115} INFO - [2023-02-22 01:30:04,980] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:30:05,601] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:30:05,622] {logging_mixin.py:115} INFO - [2023-02-22 01:30:05,622] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:30:05,653] {logging_mixin.py:115} INFO - [2023-02-22 01:30:05,653] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:30:05,676] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.705 seconds
+[2023-02-22 01:30:35,918] {processor.py:153} INFO - Started process (PID=80939) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:30:35,919] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:30:35,920] {logging_mixin.py:115} INFO - [2023-02-22 01:30:35,920] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:30:36,468] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:30:36,488] {logging_mixin.py:115} INFO - [2023-02-22 01:30:36,488] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:30:36,516] {logging_mixin.py:115} INFO - [2023-02-22 01:30:36,515] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:30:36,536] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.623 seconds
+[2023-02-22 01:31:06,771] {processor.py:153} INFO - Started process (PID=81142) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:31:06,772] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:31:06,773] {logging_mixin.py:115} INFO - [2023-02-22 01:31:06,773] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:31:07,351] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:31:07,371] {logging_mixin.py:115} INFO - [2023-02-22 01:31:07,370] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:31:07,402] {logging_mixin.py:115} INFO - [2023-02-22 01:31:07,402] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:31:07,426] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.662 seconds
+[2023-02-22 01:31:40,711] {processor.py:153} INFO - Started process (PID=81304) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:31:40,713] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:31:40,714] {logging_mixin.py:115} INFO - [2023-02-22 01:31:40,714] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:31:41,312] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:31:41,334] {logging_mixin.py:115} INFO - [2023-02-22 01:31:41,334] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:31:41,360] {logging_mixin.py:115} INFO - [2023-02-22 01:31:41,359] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:31:43,409] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.704 seconds
+[2023-02-22 01:32:16,613] {processor.py:153} INFO - Started process (PID=81416) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:32:16,615] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:32:16,616] {logging_mixin.py:115} INFO - [2023-02-22 01:32:16,616] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:32:17,265] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:32:17,288] {logging_mixin.py:115} INFO - [2023-02-22 01:32:17,288] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:32:17,318] {logging_mixin.py:115} INFO - [2023-02-22 01:32:17,318] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:32:17,339] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.732 seconds
+[2023-02-22 01:32:47,561] {processor.py:153} INFO - Started process (PID=81506) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:32:47,562] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:32:47,563] {logging_mixin.py:115} INFO - [2023-02-22 01:32:47,563] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:32:48,195] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:32:48,216] {logging_mixin.py:115} INFO - [2023-02-22 01:32:48,216] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:32:48,241] {logging_mixin.py:115} INFO - [2023-02-22 01:32:48,241] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:32:50,152] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.597 seconds
+[2023-02-22 01:33:21,889] {processor.py:153} INFO - Started process (PID=81571) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:33:21,890] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:33:21,891] {logging_mixin.py:115} INFO - [2023-02-22 01:33:21,891] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:33:22,484] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:33:22,504] {logging_mixin.py:115} INFO - [2023-02-22 01:33:22,504] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:33:22,529] {logging_mixin.py:115} INFO - [2023-02-22 01:33:22,529] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:33:24,083] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 2.199 seconds
+[2023-02-22 01:33:56,611] {processor.py:153} INFO - Started process (PID=81643) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:33:56,618] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:33:56,619] {logging_mixin.py:115} INFO - [2023-02-22 01:33:56,619] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:33:57,304] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:33:57,347] {logging_mixin.py:115} INFO - [2023-02-22 01:33:57,347] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:33:57,388] {logging_mixin.py:115} INFO - [2023-02-22 01:33:57,388] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:33:57,422] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.815 seconds
+[2023-02-22 01:34:28,503] {processor.py:153} INFO - Started process (PID=81707) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:34:28,504] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:34:28,505] {logging_mixin.py:115} INFO - [2023-02-22 01:34:28,505] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:34:29,062] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:34:29,083] {logging_mixin.py:115} INFO - [2023-02-22 01:34:29,082] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:34:29,111] {logging_mixin.py:115} INFO - [2023-02-22 01:34:29,110] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:34:29,957] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 1.459 seconds
+[2023-02-22 01:35:00,395] {processor.py:153} INFO - Started process (PID=81876) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:35:00,397] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:35:00,398] {logging_mixin.py:115} INFO - [2023-02-22 01:35:00,398] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:35:00,990] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:35:01,013] {logging_mixin.py:115} INFO - [2023-02-22 01:35:01,012] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:35:01,041] {logging_mixin.py:115} INFO - [2023-02-22 01:35:01,041] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:35:01,062] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.674 seconds
+[2023-02-22 01:35:31,321] {processor.py:153} INFO - Started process (PID=82084) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:35:31,324] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:35:31,325] {logging_mixin.py:115} INFO - [2023-02-22 01:35:31,325] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:35:31,887] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:35:31,908] {logging_mixin.py:115} INFO - [2023-02-22 01:35:31,908] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:35:31,933] {logging_mixin.py:115} INFO - [2023-02-22 01:35:31,933] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:35:31,962] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.647 seconds
+[2023-02-22 01:36:02,189] {processor.py:153} INFO - Started process (PID=82260) to work on /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:36:02,191] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/steam_dag.py for tasks to queue
+[2023-02-22 01:36:02,193] {logging_mixin.py:115} INFO - [2023-02-22 01:36:02,192] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:36:02,735] {processor.py:651} INFO - DAG(s) dict_keys(['steam_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/steam_dag.py
+[2023-02-22 01:36:02,802] {logging_mixin.py:115} INFO - [2023-02-22 01:36:02,801] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:36:02,828] {logging_mixin.py:115} INFO - [2023-02-22 01:36:02,827] {dag.py:2968} INFO - Setting next_dagrun for steam_dag to None, run_after=None
+[2023-02-22 01:36:02,853] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/steam_dag.py took 0.670 seconds

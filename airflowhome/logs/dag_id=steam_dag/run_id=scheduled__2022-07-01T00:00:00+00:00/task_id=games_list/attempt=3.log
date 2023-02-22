@@ -1,0 +1,28 @@
+[2023-02-22 01:01:56,562] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.games_list scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-22 01:01:56,579] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.games_list scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-22 01:01:56,579] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-22 01:01:56,579] {taskinstance.py:1377} INFO - Starting attempt 3 of 3
+[2023-02-22 01:01:56,579] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-22 01:01:56,708] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): games_list> on 2022-07-01 00:00:00+00:00
+[2023-02-22 01:01:56,713] {standard_task_runner.py:52} INFO - Started process 76636 to run task
+[2023-02-22 01:01:56,725] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'steam_dag', 'games_list', 'scheduled__2022-07-01T00:00:00+00:00', '--job-id', '1490', '--raw', '--subdir', 'DAGS_FOLDER/steam_dag.py', '--cfg-path', '/tmp/tmpqs393k_0', '--error-file', '/tmp/tmpxr8csjc3']
+[2023-02-22 01:01:56,728] {standard_task_runner.py:80} INFO - Job 1490: Subtask games_list
+[2023-02-22 01:01:56,866] {task_command.py:371} INFO - Running <TaskInstance: steam_dag.games_list scheduled__2022-07-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-22 01:01:57,194] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=steam_dag
+AIRFLOW_CTX_TASK_ID=games_list
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=3
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-01T00:00:00+00:00
+[2023-02-22 01:01:57,195] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-22 01:01:57,197] {subprocess.py:74} INFO - Running command: ['bash', '-c', "echo 'Games Fetched!'"]
+[2023-02-22 01:01:57,211] {subprocess.py:85} INFO - Output:
+[2023-02-22 01:01:57,220] {subprocess.py:92} INFO - Games Fetched!
+[2023-02-22 01:01:57,221] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-22 01:01:57,256] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=steam_dag, task_id=games_list, execution_date=20220701T000000, start_date=20230222T060156, end_date=20230222T060157
+[2023-02-22 01:01:57,301] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-22 01:01:57,474] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

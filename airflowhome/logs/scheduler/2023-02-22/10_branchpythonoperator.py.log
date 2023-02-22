@@ -1405,3 +1405,619 @@
 [2023-02-22 00:13:46,826] {logging_mixin.py:115} INFO - [2023-02-22 00:13:46,826] {dag.py:2420} INFO - Sync 1 DAGs
 [2023-02-22 00:13:46,872] {logging_mixin.py:115} INFO - [2023-02-22 00:13:46,872] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
 [2023-02-22 00:13:46,906] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.156 seconds
+[2023-02-22 00:44:56,116] {processor.py:153} INFO - Started process (PID=74031) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:44:56,120] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:44:56,121] {logging_mixin.py:115} INFO - [2023-02-22 00:44:56,121] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:44:56,214] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:44:56,331] {logging_mixin.py:115} INFO - [2023-02-22 00:44:56,330] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:44:56,474] {logging_mixin.py:115} INFO - [2023-02-22 00:44:56,474] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:44:56,551] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.443 seconds
+[2023-02-22 00:45:28,769] {processor.py:153} INFO - Started process (PID=74076) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:45:28,792] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:45:28,794] {logging_mixin.py:115} INFO - [2023-02-22 00:45:28,794] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:45:29,038] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:45:29,151] {logging_mixin.py:115} INFO - [2023-02-22 00:45:29,151] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:45:29,361] {logging_mixin.py:115} INFO - [2023-02-22 00:45:29,361] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:45:29,470] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.728 seconds
+[2023-02-22 00:46:45,345] {processor.py:153} INFO - Started process (PID=74246) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:46:45,373] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:46:45,374] {logging_mixin.py:115} INFO - [2023-02-22 00:46:45,374] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:46:45,612] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:46:45,776] {logging_mixin.py:115} INFO - [2023-02-22 00:46:45,776] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:46:45,933] {logging_mixin.py:115} INFO - [2023-02-22 00:46:45,933] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:46:46,055] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.735 seconds
+[2023-02-22 00:47:48,459] {processor.py:153} INFO - Started process (PID=74400) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:47:48,460] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:47:48,462] {logging_mixin.py:115} INFO - [2023-02-22 00:47:48,461] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:47:48,546] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:47:48,642] {logging_mixin.py:115} INFO - [2023-02-22 00:47:48,642] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:47:48,767] {logging_mixin.py:115} INFO - [2023-02-22 00:47:48,766] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:47:48,805] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.360 seconds
+[2023-02-22 00:51:03,409] {processor.py:153} INFO - Started process (PID=74474) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:51:03,410] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:51:03,412] {logging_mixin.py:115} INFO - [2023-02-22 00:51:03,411] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:51:03,436] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:51:03,470] {logging_mixin.py:115} INFO - [2023-02-22 00:51:03,470] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:51:03,517] {logging_mixin.py:115} INFO - [2023-02-22 00:51:03,517] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:51:03,549] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.146 seconds
+[2023-02-22 00:51:35,589] {processor.py:153} INFO - Started process (PID=74548) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:51:35,598] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:51:35,599] {logging_mixin.py:115} INFO - [2023-02-22 00:51:35,599] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:51:35,650] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:51:35,729] {logging_mixin.py:115} INFO - [2023-02-22 00:51:35,728] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:51:35,840] {logging_mixin.py:115} INFO - [2023-02-22 00:51:35,840] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:51:35,906] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.328 seconds
+[2023-02-22 00:52:06,384] {processor.py:153} INFO - Started process (PID=74625) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:52:06,385] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:52:06,386] {logging_mixin.py:115} INFO - [2023-02-22 00:52:06,386] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:52:06,407] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:52:06,472] {logging_mixin.py:115} INFO - [2023-02-22 00:52:06,472] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:52:06,537] {logging_mixin.py:115} INFO - [2023-02-22 00:52:06,536] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:52:06,559] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.181 seconds
+[2023-02-22 00:52:37,162] {processor.py:153} INFO - Started process (PID=74718) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:52:37,164] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:52:37,165] {logging_mixin.py:115} INFO - [2023-02-22 00:52:37,165] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:52:37,186] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:52:37,214] {logging_mixin.py:115} INFO - [2023-02-22 00:52:37,214] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:52:37,251] {logging_mixin.py:115} INFO - [2023-02-22 00:52:37,251] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:52:37,273] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.117 seconds
+[2023-02-22 00:53:10,910] {processor.py:153} INFO - Started process (PID=74941) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:53:10,914] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:53:10,915] {logging_mixin.py:115} INFO - [2023-02-22 00:53:10,915] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:53:10,937] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:53:10,978] {logging_mixin.py:115} INFO - [2023-02-22 00:53:10,977] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:53:11,012] {logging_mixin.py:115} INFO - [2023-02-22 00:53:11,012] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:53:11,035] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.132 seconds
+[2023-02-22 00:53:41,821] {processor.py:153} INFO - Started process (PID=74992) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:53:41,822] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:53:41,823] {logging_mixin.py:115} INFO - [2023-02-22 00:53:41,822] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:53:41,843] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:53:41,872] {logging_mixin.py:115} INFO - [2023-02-22 00:53:41,872] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:53:41,906] {logging_mixin.py:115} INFO - [2023-02-22 00:53:41,906] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:53:41,927] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.112 seconds
+[2023-02-22 00:54:14,970] {processor.py:153} INFO - Started process (PID=75051) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:54:14,971] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:54:14,973] {logging_mixin.py:115} INFO - [2023-02-22 00:54:14,972] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:54:14,994] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:54:15,024] {logging_mixin.py:115} INFO - [2023-02-22 00:54:15,024] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:54:15,062] {logging_mixin.py:115} INFO - [2023-02-22 00:54:15,062] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:54:15,086] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.122 seconds
+[2023-02-22 00:54:45,387] {processor.py:153} INFO - Started process (PID=75130) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:54:45,388] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:54:45,389] {logging_mixin.py:115} INFO - [2023-02-22 00:54:45,388] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:54:45,409] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:54:45,439] {logging_mixin.py:115} INFO - [2023-02-22 00:54:45,439] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:54:45,478] {logging_mixin.py:115} INFO - [2023-02-22 00:54:45,477] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:54:45,502] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.121 seconds
+[2023-02-22 00:55:19,005] {processor.py:153} INFO - Started process (PID=75266) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:55:19,007] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:55:19,008] {logging_mixin.py:115} INFO - [2023-02-22 00:55:19,008] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:55:19,030] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:55:19,059] {logging_mixin.py:115} INFO - [2023-02-22 00:55:19,059] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:55:19,100] {logging_mixin.py:115} INFO - [2023-02-22 00:55:19,100] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:55:19,126] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.126 seconds
+[2023-02-22 00:55:49,437] {processor.py:153} INFO - Started process (PID=75393) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:55:49,438] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:55:49,439] {logging_mixin.py:115} INFO - [2023-02-22 00:55:49,439] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:55:49,464] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:55:49,492] {logging_mixin.py:115} INFO - [2023-02-22 00:55:49,492] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:55:49,531] {logging_mixin.py:115} INFO - [2023-02-22 00:55:49,530] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:55:50,881] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 1.449 seconds
+[2023-02-22 00:56:21,992] {processor.py:153} INFO - Started process (PID=75596) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:56:21,994] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:56:21,995] {logging_mixin.py:115} INFO - [2023-02-22 00:56:21,995] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:56:22,018] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:56:22,050] {logging_mixin.py:115} INFO - [2023-02-22 00:56:22,050] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:56:22,090] {logging_mixin.py:115} INFO - [2023-02-22 00:56:22,090] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:56:22,750] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.765 seconds
+[2023-02-22 00:56:53,725] {processor.py:153} INFO - Started process (PID=75800) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:56:53,726] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:56:53,728] {logging_mixin.py:115} INFO - [2023-02-22 00:56:53,727] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:56:53,755] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:56:53,784] {logging_mixin.py:115} INFO - [2023-02-22 00:56:53,784] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:56:53,824] {logging_mixin.py:115} INFO - [2023-02-22 00:56:53,824] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:56:53,846] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.131 seconds
+[2023-02-22 00:57:24,570] {processor.py:153} INFO - Started process (PID=75859) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:57:24,573] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:57:24,574] {logging_mixin.py:115} INFO - [2023-02-22 00:57:24,574] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:57:24,606] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:57:24,647] {logging_mixin.py:115} INFO - [2023-02-22 00:57:24,647] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:57:24,737] {logging_mixin.py:115} INFO - [2023-02-22 00:57:24,736] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:57:24,791] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.227 seconds
+[2023-02-22 00:57:55,126] {processor.py:153} INFO - Started process (PID=76063) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:57:55,129] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:57:55,130] {logging_mixin.py:115} INFO - [2023-02-22 00:57:55,129] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:57:55,152] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:57:55,180] {logging_mixin.py:115} INFO - [2023-02-22 00:57:55,180] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:57:55,218] {logging_mixin.py:115} INFO - [2023-02-22 00:57:55,218] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:57:55,241] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.120 seconds
+[2023-02-22 00:58:25,797] {processor.py:153} INFO - Started process (PID=76146) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:58:25,801] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:58:25,804] {logging_mixin.py:115} INFO - [2023-02-22 00:58:25,804] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:58:25,829] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:58:25,859] {logging_mixin.py:115} INFO - [2023-02-22 00:58:25,859] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:58:25,896] {logging_mixin.py:115} INFO - [2023-02-22 00:58:25,896] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:58:25,920] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.129 seconds
+[2023-02-22 00:58:56,253] {processor.py:153} INFO - Started process (PID=76231) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:58:56,254] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:58:56,255] {logging_mixin.py:115} INFO - [2023-02-22 00:58:56,255] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:58:56,302] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:58:56,337] {logging_mixin.py:115} INFO - [2023-02-22 00:58:56,337] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:58:56,384] {logging_mixin.py:115} INFO - [2023-02-22 00:58:56,384] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:58:56,406] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.170 seconds
+[2023-02-22 00:59:26,570] {processor.py:153} INFO - Started process (PID=76288) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:59:26,583] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:59:26,584] {logging_mixin.py:115} INFO - [2023-02-22 00:59:26,584] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:59:26,606] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:59:26,637] {logging_mixin.py:115} INFO - [2023-02-22 00:59:26,637] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:59:26,683] {logging_mixin.py:115} INFO - [2023-02-22 00:59:26,683] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:59:26,708] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.144 seconds
+[2023-02-22 00:59:57,270] {processor.py:153} INFO - Started process (PID=76347) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:59:57,271] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 00:59:57,272] {logging_mixin.py:115} INFO - [2023-02-22 00:59:57,272] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:59:57,296] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 00:59:57,326] {logging_mixin.py:115} INFO - [2023-02-22 00:59:57,325] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:59:57,365] {logging_mixin.py:115} INFO - [2023-02-22 00:59:57,364] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 00:59:57,387] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.125 seconds
+[2023-02-22 01:00:28,094] {processor.py:153} INFO - Started process (PID=76455) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:00:28,096] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:00:28,097] {logging_mixin.py:115} INFO - [2023-02-22 01:00:28,097] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:00:28,120] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:00:28,149] {logging_mixin.py:115} INFO - [2023-02-22 01:00:28,149] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:00:28,188] {logging_mixin.py:115} INFO - [2023-02-22 01:00:28,188] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:00:28,211] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.124 seconds
+[2023-02-22 01:01:00,869] {processor.py:153} INFO - Started process (PID=76520) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:01:00,871] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:01:00,872] {logging_mixin.py:115} INFO - [2023-02-22 01:01:00,872] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:01:00,893] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:01:00,923] {logging_mixin.py:115} INFO - [2023-02-22 01:01:00,922] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:01:00,962] {logging_mixin.py:115} INFO - [2023-02-22 01:01:00,962] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:01:00,986] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.123 seconds
+[2023-02-22 01:01:31,835] {processor.py:153} INFO - Started process (PID=76586) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:01:31,837] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:01:31,838] {logging_mixin.py:115} INFO - [2023-02-22 01:01:31,838] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:01:31,865] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:01:31,899] {logging_mixin.py:115} INFO - [2023-02-22 01:01:31,898] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:01:31,943] {logging_mixin.py:115} INFO - [2023-02-22 01:01:31,943] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:01:31,975] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.148 seconds
+[2023-02-22 01:02:12,800] {processor.py:153} INFO - Started process (PID=76680) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:02:12,805] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:02:12,806] {logging_mixin.py:115} INFO - [2023-02-22 01:02:12,806] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:02:12,828] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:02:12,859] {logging_mixin.py:115} INFO - [2023-02-22 01:02:12,859] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:02:12,895] {logging_mixin.py:115} INFO - [2023-02-22 01:02:12,895] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:02:12,916] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.122 seconds
+[2023-02-22 01:02:44,238] {processor.py:153} INFO - Started process (PID=76744) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:02:44,239] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:02:44,240] {logging_mixin.py:115} INFO - [2023-02-22 01:02:44,240] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:02:44,262] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:02:44,291] {logging_mixin.py:115} INFO - [2023-02-22 01:02:44,291] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:02:44,325] {logging_mixin.py:115} INFO - [2023-02-22 01:02:44,324] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:02:44,347] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.116 seconds
+[2023-02-22 01:03:17,988] {processor.py:153} INFO - Started process (PID=76809) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:03:17,989] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:03:17,990] {logging_mixin.py:115} INFO - [2023-02-22 01:03:17,990] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:03:18,012] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:03:18,041] {logging_mixin.py:115} INFO - [2023-02-22 01:03:18,041] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:03:18,078] {logging_mixin.py:115} INFO - [2023-02-22 01:03:18,078] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:03:18,100] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.118 seconds
+[2023-02-22 01:03:58,265] {processor.py:153} INFO - Started process (PID=76880) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:03:58,267] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:03:58,269] {logging_mixin.py:115} INFO - [2023-02-22 01:03:58,269] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:03:58,290] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:03:58,318] {logging_mixin.py:115} INFO - [2023-02-22 01:03:58,318] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:03:58,353] {logging_mixin.py:115} INFO - [2023-02-22 01:03:58,353] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:03:58,375] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.115 seconds
+[2023-02-22 01:04:33,029] {processor.py:153} INFO - Started process (PID=76951) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:04:33,100] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:04:33,102] {logging_mixin.py:115} INFO - [2023-02-22 01:04:33,102] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:04:33,132] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:04:33,177] {logging_mixin.py:115} INFO - [2023-02-22 01:04:33,177] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:04:33,221] {logging_mixin.py:115} INFO - [2023-02-22 01:04:33,221] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:04:35,491] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 2.470 seconds
+[2023-02-22 01:05:05,629] {processor.py:153} INFO - Started process (PID=77188) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:05:05,631] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:05:05,632] {logging_mixin.py:115} INFO - [2023-02-22 01:05:05,632] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:05:05,652] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:05:05,685] {logging_mixin.py:115} INFO - [2023-02-22 01:05:05,684] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:05:05,725] {logging_mixin.py:115} INFO - [2023-02-22 01:05:05,725] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:05:05,751] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.130 seconds
+[2023-02-22 01:05:40,505] {processor.py:153} INFO - Started process (PID=77398) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:05:40,508] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:05:40,509] {logging_mixin.py:115} INFO - [2023-02-22 01:05:40,509] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:05:40,533] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:05:40,562] {logging_mixin.py:115} INFO - [2023-02-22 01:05:40,561] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:05:40,606] {logging_mixin.py:115} INFO - [2023-02-22 01:05:40,606] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:05:41,665] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 1.167 seconds
+[2023-02-22 01:06:15,008] {processor.py:153} INFO - Started process (PID=77609) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:06:15,010] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:06:15,015] {logging_mixin.py:115} INFO - [2023-02-22 01:06:15,014] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:06:15,037] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:06:15,068] {logging_mixin.py:115} INFO - [2023-02-22 01:06:15,067] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:06:15,115] {logging_mixin.py:115} INFO - [2023-02-22 01:06:15,115] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:06:15,141] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.140 seconds
+[2023-02-22 01:06:46,125] {processor.py:153} INFO - Started process (PID=77676) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:06:46,126] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:06:46,127] {logging_mixin.py:115} INFO - [2023-02-22 01:06:46,127] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:06:46,149] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:06:46,218] {logging_mixin.py:115} INFO - [2023-02-22 01:06:46,218] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:06:46,259] {logging_mixin.py:115} INFO - [2023-02-22 01:06:46,258] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:06:46,287] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.168 seconds
+[2023-02-22 01:07:24,659] {processor.py:153} INFO - Started process (PID=77772) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:07:24,662] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:07:24,663] {logging_mixin.py:115} INFO - [2023-02-22 01:07:24,663] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:07:24,685] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:07:24,724] {logging_mixin.py:115} INFO - [2023-02-22 01:07:24,723] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:07:24,766] {logging_mixin.py:115} INFO - [2023-02-22 01:07:24,766] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:07:24,796] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.143 seconds
+[2023-02-22 01:07:54,954] {processor.py:153} INFO - Started process (PID=77838) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:07:54,955] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:07:54,956] {logging_mixin.py:115} INFO - [2023-02-22 01:07:54,956] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:07:54,995] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:07:55,025] {logging_mixin.py:115} INFO - [2023-02-22 01:07:55,025] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:07:55,061] {logging_mixin.py:115} INFO - [2023-02-22 01:07:55,060] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:07:55,081] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.140 seconds
+[2023-02-22 01:08:25,963] {processor.py:153} INFO - Started process (PID=77897) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:08:26,037] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:08:26,038] {logging_mixin.py:115} INFO - [2023-02-22 01:08:26,038] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:08:26,088] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:08:26,145] {logging_mixin.py:115} INFO - [2023-02-22 01:08:26,145] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:08:26,197] {logging_mixin.py:115} INFO - [2023-02-22 01:08:26,197] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:08:26,247] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.290 seconds
+[2023-02-22 01:08:56,651] {processor.py:153} INFO - Started process (PID=77965) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:08:56,652] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:08:56,653] {logging_mixin.py:115} INFO - [2023-02-22 01:08:56,652] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:08:56,673] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:08:56,702] {logging_mixin.py:115} INFO - [2023-02-22 01:08:56,702] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:08:56,741] {logging_mixin.py:115} INFO - [2023-02-22 01:08:56,741] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:08:56,813] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.169 seconds
+[2023-02-22 01:09:27,517] {processor.py:153} INFO - Started process (PID=78027) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:09:27,519] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:09:27,520] {logging_mixin.py:115} INFO - [2023-02-22 01:09:27,520] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:09:27,542] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:09:27,572] {logging_mixin.py:115} INFO - [2023-02-22 01:09:27,572] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:09:27,613] {logging_mixin.py:115} INFO - [2023-02-22 01:09:27,613] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:09:27,635] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.127 seconds
+[2023-02-22 01:09:59,374] {processor.py:153} INFO - Started process (PID=78121) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:09:59,375] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:09:59,377] {logging_mixin.py:115} INFO - [2023-02-22 01:09:59,376] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:09:59,402] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:09:59,441] {logging_mixin.py:115} INFO - [2023-02-22 01:09:59,441] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:09:59,492] {logging_mixin.py:115} INFO - [2023-02-22 01:09:59,492] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:09:59,521] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.157 seconds
+[2023-02-22 01:10:34,742] {processor.py:153} INFO - Started process (PID=78307) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:10:34,744] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:10:34,745] {logging_mixin.py:115} INFO - [2023-02-22 01:10:34,745] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:10:34,768] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:10:34,797] {logging_mixin.py:115} INFO - [2023-02-22 01:10:34,796] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:10:34,835] {logging_mixin.py:115} INFO - [2023-02-22 01:10:34,835] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:10:34,857] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.123 seconds
+[2023-02-22 01:11:08,678] {processor.py:153} INFO - Started process (PID=78372) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:11:08,694] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:11:08,696] {logging_mixin.py:115} INFO - [2023-02-22 01:11:08,695] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:11:08,748] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:11:09,042] {logging_mixin.py:115} INFO - [2023-02-22 01:11:09,042] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:11:09,082] {logging_mixin.py:115} INFO - [2023-02-22 01:11:09,082] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:11:09,109] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.441 seconds
+[2023-02-22 01:11:39,436] {processor.py:153} INFO - Started process (PID=78466) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:11:39,439] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:11:39,440] {logging_mixin.py:115} INFO - [2023-02-22 01:11:39,440] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:11:39,462] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:11:39,494] {logging_mixin.py:115} INFO - [2023-02-22 01:11:39,494] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:11:39,529] {logging_mixin.py:115} INFO - [2023-02-22 01:11:39,529] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:11:39,553] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.123 seconds
+[2023-02-22 01:12:12,635] {processor.py:153} INFO - Started process (PID=78531) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:12:12,637] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:12:12,637] {logging_mixin.py:115} INFO - [2023-02-22 01:12:12,637] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:12:12,657] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:12:12,688] {logging_mixin.py:115} INFO - [2023-02-22 01:12:12,687] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:12:12,724] {logging_mixin.py:115} INFO - [2023-02-22 01:12:12,724] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:12:13,556] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.928 seconds
+[2023-02-22 01:12:44,579] {processor.py:153} INFO - Started process (PID=78597) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:12:44,590] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:12:44,592] {logging_mixin.py:115} INFO - [2023-02-22 01:12:44,591] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:12:44,661] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:12:44,744] {logging_mixin.py:115} INFO - [2023-02-22 01:12:44,744] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:12:44,829] {logging_mixin.py:115} INFO - [2023-02-22 01:12:44,828] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:12:44,866] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.312 seconds
+[2023-02-22 01:13:21,625] {processor.py:153} INFO - Started process (PID=78687) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:13:21,630] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:13:21,632] {logging_mixin.py:115} INFO - [2023-02-22 01:13:21,632] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:13:21,655] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:13:21,685] {logging_mixin.py:115} INFO - [2023-02-22 01:13:21,684] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:13:21,722] {logging_mixin.py:115} INFO - [2023-02-22 01:13:21,722] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:13:21,746] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.127 seconds
+[2023-02-22 01:13:52,228] {processor.py:153} INFO - Started process (PID=78758) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:13:52,229] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:13:52,230] {logging_mixin.py:115} INFO - [2023-02-22 01:13:52,230] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:13:52,249] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:13:52,278] {logging_mixin.py:115} INFO - [2023-02-22 01:13:52,278] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:13:52,313] {logging_mixin.py:115} INFO - [2023-02-22 01:13:52,313] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:13:52,335] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.113 seconds
+[2023-02-22 01:14:22,759] {processor.py:153} INFO - Started process (PID=78817) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:14:22,762] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:14:22,763] {logging_mixin.py:115} INFO - [2023-02-22 01:14:22,762] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:14:22,782] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:14:22,811] {logging_mixin.py:115} INFO - [2023-02-22 01:14:22,811] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:14:22,844] {logging_mixin.py:115} INFO - [2023-02-22 01:14:22,844] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:14:22,867] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.114 seconds
+[2023-02-22 01:14:53,579] {processor.py:153} INFO - Started process (PID=78885) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:14:53,580] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:14:53,582] {logging_mixin.py:115} INFO - [2023-02-22 01:14:53,582] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:14:53,674] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:14:53,717] {logging_mixin.py:115} INFO - [2023-02-22 01:14:53,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:14:53,755] {logging_mixin.py:115} INFO - [2023-02-22 01:14:53,755] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:14:53,810] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.249 seconds
+[2023-02-22 01:15:24,169] {processor.py:153} INFO - Started process (PID=78947) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:15:24,171] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:15:24,172] {logging_mixin.py:115} INFO - [2023-02-22 01:15:24,171] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:15:24,193] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:15:24,222] {logging_mixin.py:115} INFO - [2023-02-22 01:15:24,222] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:15:24,257] {logging_mixin.py:115} INFO - [2023-02-22 01:15:24,257] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:15:24,281] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.118 seconds
+[2023-02-22 01:15:54,670] {processor.py:153} INFO - Started process (PID=79007) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:15:54,671] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:15:54,672] {logging_mixin.py:115} INFO - [2023-02-22 01:15:54,672] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:15:54,692] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:15:54,725] {logging_mixin.py:115} INFO - [2023-02-22 01:15:54,725] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:15:54,764] {logging_mixin.py:115} INFO - [2023-02-22 01:15:54,764] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:15:54,786] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.123 seconds
+[2023-02-22 01:16:25,169] {processor.py:153} INFO - Started process (PID=79071) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:16:25,171] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:16:25,172] {logging_mixin.py:115} INFO - [2023-02-22 01:16:25,172] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:16:25,194] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:16:25,223] {logging_mixin.py:115} INFO - [2023-02-22 01:16:25,222] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:16:25,259] {logging_mixin.py:115} INFO - [2023-02-22 01:16:25,259] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:16:25,280] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.117 seconds
+[2023-02-22 01:16:55,671] {processor.py:153} INFO - Started process (PID=79131) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:16:55,672] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:16:55,673] {logging_mixin.py:115} INFO - [2023-02-22 01:16:55,673] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:16:55,694] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:16:55,726] {logging_mixin.py:115} INFO - [2023-02-22 01:16:55,726] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:16:55,760] {logging_mixin.py:115} INFO - [2023-02-22 01:16:55,760] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:16:55,781] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.116 seconds
+[2023-02-22 01:17:25,922] {processor.py:153} INFO - Started process (PID=79199) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:17:25,925] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:17:25,926] {logging_mixin.py:115} INFO - [2023-02-22 01:17:25,926] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:17:25,947] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:17:25,978] {logging_mixin.py:115} INFO - [2023-02-22 01:17:25,978] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:17:26,015] {logging_mixin.py:115} INFO - [2023-02-22 01:17:26,015] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:17:26,038] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.122 seconds
+[2023-02-22 01:17:56,338] {processor.py:153} INFO - Started process (PID=79259) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:17:56,339] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:17:56,339] {logging_mixin.py:115} INFO - [2023-02-22 01:17:56,339] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:17:56,359] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:17:56,389] {logging_mixin.py:115} INFO - [2023-02-22 01:17:56,389] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:17:56,423] {logging_mixin.py:115} INFO - [2023-02-22 01:17:56,423] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:17:56,445] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.113 seconds
+[2023-02-22 01:18:26,832] {processor.py:153} INFO - Started process (PID=79317) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:18:26,834] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:18:26,835] {logging_mixin.py:115} INFO - [2023-02-22 01:18:26,835] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:18:26,857] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:18:26,887] {logging_mixin.py:115} INFO - [2023-02-22 01:18:26,887] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:18:26,923] {logging_mixin.py:115} INFO - [2023-02-22 01:18:26,923] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:18:26,947] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.121 seconds
+[2023-02-22 01:18:59,269] {processor.py:153} INFO - Started process (PID=79383) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:18:59,271] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:18:59,272] {logging_mixin.py:115} INFO - [2023-02-22 01:18:59,272] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:18:59,295] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:18:59,362] {logging_mixin.py:115} INFO - [2023-02-22 01:18:59,362] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:18:59,457] {logging_mixin.py:115} INFO - [2023-02-22 01:18:59,457] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:18:59,553] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.292 seconds
+[2023-02-22 01:19:29,768] {processor.py:153} INFO - Started process (PID=79443) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:19:29,770] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:19:29,771] {logging_mixin.py:115} INFO - [2023-02-22 01:19:29,771] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:19:29,792] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:19:29,820] {logging_mixin.py:115} INFO - [2023-02-22 01:19:29,820] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:19:29,856] {logging_mixin.py:115} INFO - [2023-02-22 01:19:29,856] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:19:29,878] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.116 seconds
+[2023-02-22 01:20:00,997] {processor.py:153} INFO - Started process (PID=79502) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:20:00,998] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:20:01,000] {logging_mixin.py:115} INFO - [2023-02-22 01:20:00,999] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:20:01,021] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:20:01,050] {logging_mixin.py:115} INFO - [2023-02-22 01:20:01,050] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:20:01,090] {logging_mixin.py:115} INFO - [2023-02-22 01:20:01,090] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:20:01,118] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.126 seconds
+[2023-02-22 01:20:32,946] {processor.py:153} INFO - Started process (PID=79569) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:20:32,951] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:20:32,952] {logging_mixin.py:115} INFO - [2023-02-22 01:20:32,952] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:20:32,975] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:20:33,004] {logging_mixin.py:115} INFO - [2023-02-22 01:20:33,004] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:20:33,043] {logging_mixin.py:115} INFO - [2023-02-22 01:20:33,043] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:20:33,066] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.126 seconds
+[2023-02-22 01:21:04,898] {processor.py:153} INFO - Started process (PID=79628) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:21:04,900] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:21:04,901] {logging_mixin.py:115} INFO - [2023-02-22 01:21:04,901] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:21:04,922] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:21:04,952] {logging_mixin.py:115} INFO - [2023-02-22 01:21:04,952] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:21:04,987] {logging_mixin.py:115} INFO - [2023-02-22 01:21:04,987] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:21:05,009] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.117 seconds
+[2023-02-22 01:21:35,885] {processor.py:153} INFO - Started process (PID=79694) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:21:35,886] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:21:35,887] {logging_mixin.py:115} INFO - [2023-02-22 01:21:35,887] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:21:35,936] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:21:36,016] {logging_mixin.py:115} INFO - [2023-02-22 01:21:36,016] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:21:36,070] {logging_mixin.py:115} INFO - [2023-02-22 01:21:36,070] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:21:36,102] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.232 seconds
+[2023-02-22 01:22:11,047] {processor.py:153} INFO - Started process (PID=79758) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:22:11,051] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:22:11,052] {logging_mixin.py:115} INFO - [2023-02-22 01:22:11,052] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:22:11,077] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:22:11,108] {logging_mixin.py:115} INFO - [2023-02-22 01:22:11,108] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:22:11,154] {logging_mixin.py:115} INFO - [2023-02-22 01:22:11,154] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:22:11,175] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.135 seconds
+[2023-02-22 01:22:42,104] {processor.py:153} INFO - Started process (PID=79819) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:22:42,105] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:22:42,106] {logging_mixin.py:115} INFO - [2023-02-22 01:22:42,106] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:22:42,128] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:22:42,161] {logging_mixin.py:115} INFO - [2023-02-22 01:22:42,161] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:22:42,212] {logging_mixin.py:115} INFO - [2023-02-22 01:22:42,212] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:22:42,251] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.154 seconds
+[2023-02-22 01:23:17,366] {processor.py:153} INFO - Started process (PID=79890) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:23:17,369] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:23:17,370] {logging_mixin.py:115} INFO - [2023-02-22 01:23:17,370] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:23:17,393] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:23:17,431] {logging_mixin.py:115} INFO - [2023-02-22 01:23:17,431] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:23:17,479] {logging_mixin.py:115} INFO - [2023-02-22 01:23:17,477] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:23:17,507] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.151 seconds
+[2023-02-22 01:23:48,522] {processor.py:153} INFO - Started process (PID=79950) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:23:48,523] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:23:48,524] {logging_mixin.py:115} INFO - [2023-02-22 01:23:48,523] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:23:48,547] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:23:48,581] {logging_mixin.py:115} INFO - [2023-02-22 01:23:48,581] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:23:48,623] {logging_mixin.py:115} INFO - [2023-02-22 01:23:48,622] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:23:50,997] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 2.482 seconds
+[2023-02-22 01:24:21,172] {processor.py:153} INFO - Started process (PID=80015) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:24:21,173] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:24:21,174] {logging_mixin.py:115} INFO - [2023-02-22 01:24:21,174] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:24:21,198] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:24:21,226] {logging_mixin.py:115} INFO - [2023-02-22 01:24:21,226] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:24:21,262] {logging_mixin.py:115} INFO - [2023-02-22 01:24:21,262] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:24:21,886] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.720 seconds
+[2023-02-22 01:24:54,594] {processor.py:153} INFO - Started process (PID=80081) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:24:54,596] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:24:54,597] {logging_mixin.py:115} INFO - [2023-02-22 01:24:54,597] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:24:54,623] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:24:54,666] {logging_mixin.py:115} INFO - [2023-02-22 01:24:54,666] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:24:54,714] {logging_mixin.py:115} INFO - [2023-02-22 01:24:54,714] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:24:54,756] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.173 seconds
+[2023-02-22 01:25:27,247] {processor.py:153} INFO - Started process (PID=80143) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:25:27,248] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:25:27,250] {logging_mixin.py:115} INFO - [2023-02-22 01:25:27,249] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:25:27,271] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:25:27,299] {logging_mixin.py:115} INFO - [2023-02-22 01:25:27,299] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:25:27,333] {logging_mixin.py:115} INFO - [2023-02-22 01:25:27,333] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:25:27,916] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.675 seconds
+[2023-02-22 01:25:58,578] {processor.py:153} INFO - Started process (PID=80203) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:25:58,579] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:25:58,581] {logging_mixin.py:115} INFO - [2023-02-22 01:25:58,580] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:25:58,609] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:25:58,661] {logging_mixin.py:115} INFO - [2023-02-22 01:25:58,660] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:25:58,724] {logging_mixin.py:115} INFO - [2023-02-22 01:25:58,724] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:25:58,771] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.199 seconds
+[2023-02-22 01:26:31,676] {processor.py:153} INFO - Started process (PID=80269) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:26:31,679] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:26:31,680] {logging_mixin.py:115} INFO - [2023-02-22 01:26:31,680] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:26:31,707] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:26:31,743] {logging_mixin.py:115} INFO - [2023-02-22 01:26:31,743] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:26:31,794] {logging_mixin.py:115} INFO - [2023-02-22 01:26:31,794] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:26:31,856] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.189 seconds
+[2023-02-22 01:27:02,365] {processor.py:153} INFO - Started process (PID=80328) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:27:02,366] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:27:02,367] {logging_mixin.py:115} INFO - [2023-02-22 01:27:02,367] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:27:02,387] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:27:02,418] {logging_mixin.py:115} INFO - [2023-02-22 01:27:02,418] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:27:02,459] {logging_mixin.py:115} INFO - [2023-02-22 01:27:02,459] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:27:02,483] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.126 seconds
+[2023-02-22 01:27:33,343] {processor.py:153} INFO - Started process (PID=80388) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:27:33,344] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:27:33,345] {logging_mixin.py:115} INFO - [2023-02-22 01:27:33,345] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:27:33,367] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:27:33,397] {logging_mixin.py:115} INFO - [2023-02-22 01:27:33,397] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:27:33,433] {logging_mixin.py:115} INFO - [2023-02-22 01:27:33,432] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:27:33,455] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.119 seconds
+[2023-02-22 01:28:03,839] {processor.py:153} INFO - Started process (PID=80447) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:28:03,840] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:28:03,841] {logging_mixin.py:115} INFO - [2023-02-22 01:28:03,841] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:28:03,861] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:28:03,890] {logging_mixin.py:115} INFO - [2023-02-22 01:28:03,890] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:28:03,941] {logging_mixin.py:115} INFO - [2023-02-22 01:28:03,941] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:28:03,965] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.133 seconds
+[2023-02-22 01:28:34,183] {processor.py:153} INFO - Started process (PID=80507) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:28:34,184] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:28:34,185] {logging_mixin.py:115} INFO - [2023-02-22 01:28:34,185] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:28:34,206] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:28:34,235] {logging_mixin.py:115} INFO - [2023-02-22 01:28:34,235] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:28:34,268] {logging_mixin.py:115} INFO - [2023-02-22 01:28:34,268] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:28:34,289] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.112 seconds
+[2023-02-22 01:29:05,967] {processor.py:153} INFO - Started process (PID=80566) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:29:05,968] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:29:05,969] {logging_mixin.py:115} INFO - [2023-02-22 01:29:05,969] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:29:05,994] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:29:06,025] {logging_mixin.py:115} INFO - [2023-02-22 01:29:06,025] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:29:06,065] {logging_mixin.py:115} INFO - [2023-02-22 01:29:06,065] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:29:06,097] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.139 seconds
+[2023-02-22 01:29:36,695] {processor.py:153} INFO - Started process (PID=80653) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:29:36,705] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:29:36,706] {logging_mixin.py:115} INFO - [2023-02-22 01:29:36,706] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:29:36,745] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:29:36,785] {logging_mixin.py:115} INFO - [2023-02-22 01:29:36,785] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:29:36,841] {logging_mixin.py:115} INFO - [2023-02-22 01:29:36,841] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:29:36,877] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.197 seconds
+[2023-02-22 01:30:07,191] {processor.py:153} INFO - Started process (PID=80785) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:30:07,192] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:30:07,193] {logging_mixin.py:115} INFO - [2023-02-22 01:30:07,192] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:30:07,214] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:30:07,245] {logging_mixin.py:115} INFO - [2023-02-22 01:30:07,245] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:30:07,285] {logging_mixin.py:115} INFO - [2023-02-22 01:30:07,285] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:30:07,309] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.126 seconds
+[2023-02-22 01:30:38,637] {processor.py:153} INFO - Started process (PID=80971) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:30:38,640] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:30:38,641] {logging_mixin.py:115} INFO - [2023-02-22 01:30:38,641] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:30:38,663] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:30:38,691] {logging_mixin.py:115} INFO - [2023-02-22 01:30:38,691] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:30:38,726] {logging_mixin.py:115} INFO - [2023-02-22 01:30:38,726] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:30:38,748] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.117 seconds
+[2023-02-22 01:31:09,543] {processor.py:153} INFO - Started process (PID=81174) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:31:09,551] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:31:09,552] {logging_mixin.py:115} INFO - [2023-02-22 01:31:09,551] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:31:09,574] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:31:09,605] {logging_mixin.py:115} INFO - [2023-02-22 01:31:09,605] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:31:09,642] {logging_mixin.py:115} INFO - [2023-02-22 01:31:09,642] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:31:09,664] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.136 seconds
+[2023-02-22 01:31:45,747] {processor.py:153} INFO - Started process (PID=81336) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:31:45,758] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:31:45,759] {logging_mixin.py:115} INFO - [2023-02-22 01:31:45,759] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:31:45,779] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:31:45,807] {logging_mixin.py:115} INFO - [2023-02-22 01:31:45,807] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:31:45,842] {logging_mixin.py:115} INFO - [2023-02-22 01:31:45,842] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:31:48,409] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 2.668 seconds
+[2023-02-22 01:32:23,605] {processor.py:153} INFO - Started process (PID=81455) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:32:23,607] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:32:23,609] {logging_mixin.py:115} INFO - [2023-02-22 01:32:23,609] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:32:23,632] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:32:23,663] {logging_mixin.py:115} INFO - [2023-02-22 01:32:23,662] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:32:23,700] {logging_mixin.py:115} INFO - [2023-02-22 01:32:23,700] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:32:23,723] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.124 seconds
+[2023-02-22 01:32:56,738] {processor.py:153} INFO - Started process (PID=81522) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:32:56,740] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:32:56,741] {logging_mixin.py:115} INFO - [2023-02-22 01:32:56,741] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:32:56,762] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:32:56,793] {logging_mixin.py:115} INFO - [2023-02-22 01:32:56,793] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:32:56,830] {logging_mixin.py:115} INFO - [2023-02-22 01:32:56,830] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:32:56,859] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.127 seconds
+[2023-02-22 01:33:29,433] {processor.py:153} INFO - Started process (PID=81588) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:33:29,435] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:33:29,436] {logging_mixin.py:115} INFO - [2023-02-22 01:33:29,436] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:33:29,461] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:33:29,491] {logging_mixin.py:115} INFO - [2023-02-22 01:33:29,491] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:33:29,530] {logging_mixin.py:115} INFO - [2023-02-22 01:33:29,530] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:33:30,679] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 1.252 seconds
+[2023-02-22 01:34:01,414] {processor.py:153} INFO - Started process (PID=81653) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:34:01,415] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:34:01,416] {logging_mixin.py:115} INFO - [2023-02-22 01:34:01,416] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:34:01,437] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:34:01,470] {logging_mixin.py:115} INFO - [2023-02-22 01:34:01,470] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:34:01,511] {logging_mixin.py:115} INFO - [2023-02-22 01:34:01,511] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:34:01,538] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.130 seconds
+[2023-02-22 01:34:32,944] {processor.py:153} INFO - Started process (PID=81716) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:34:32,945] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:34:32,946] {logging_mixin.py:115} INFO - [2023-02-22 01:34:32,946] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:34:32,987] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:34:33,047] {logging_mixin.py:115} INFO - [2023-02-22 01:34:33,047] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:34:33,115] {logging_mixin.py:115} INFO - [2023-02-22 01:34:33,114] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:34:33,346] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.415 seconds
+[2023-02-22 01:35:03,904] {processor.py:153} INFO - Started process (PID=81909) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:35:03,907] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:35:03,908] {logging_mixin.py:115} INFO - [2023-02-22 01:35:03,908] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:35:03,941] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:35:03,994] {logging_mixin.py:115} INFO - [2023-02-22 01:35:03,994] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:35:04,047] {logging_mixin.py:115} INFO - [2023-02-22 01:35:04,047] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:35:04,080] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.188 seconds
+[2023-02-22 01:35:35,581] {processor.py:153} INFO - Started process (PID=82117) to work on /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:35:35,582] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py for tasks to queue
+[2023-02-22 01:35:35,583] {logging_mixin.py:115} INFO - [2023-02-22 01:35:35,583] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:35:35,603] {processor.py:651} INFO - DAG(s) dict_keys(['10_branching']) retrieved from /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py
+[2023-02-22 01:35:35,633] {logging_mixin.py:115} INFO - [2023-02-22 01:35:35,632] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:35:35,667] {logging_mixin.py:115} INFO - [2023-02-22 01:35:35,667] {dag.py:2968} INFO - Setting next_dagrun for 10_branching to None, run_after=None
+[2023-02-22 01:35:35,692] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/10_branchpythonoperator.py took 0.116 seconds

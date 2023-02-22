@@ -1,0 +1,34 @@
+[2023-02-22 01:02:10,382] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.notification scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-22 01:02:10,394] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.notification scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-22 01:02:10,394] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-22 01:02:10,394] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-22 01:02:10,394] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-22 01:02:10,417] {taskinstance.py:1397} INFO - Executing <Task(EmailOperator): notification> on 2022-07-01 00:00:00+00:00
+[2023-02-22 01:02:10,422] {standard_task_runner.py:52} INFO - Started process 76678 to run task
+[2023-02-22 01:02:10,428] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'steam_dag', 'notification', 'scheduled__2022-07-01T00:00:00+00:00', '--job-id', '1493', '--raw', '--subdir', 'DAGS_FOLDER/steam_dag.py', '--cfg-path', '/tmp/tmpc4x1h9qy', '--error-file', '/tmp/tmpx5xlvyeq']
+[2023-02-22 01:02:10,430] {standard_task_runner.py:80} INFO - Job 1493: Subtask notification
+[2023-02-22 01:02:10,644] {task_command.py:371} INFO - Running <TaskInstance: steam_dag.notification scheduled__2022-07-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-22 01:02:10,869] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=steam_dag
+AIRFLOW_CTX_TASK_ID=notification
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-01T00:00:00+00:00
+[2023-02-22 01:02:10,871] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/operators/email.py", line 75, in execute
+    send_email(
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/utils/email.py", line 58, in send_email
+    return backend(
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/utils/email.py", line 106, in send_email_smtp
+    msg, recipients = build_mime_message(
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/utils/email.py", line 174, in build_mime_message
+    with open(fname, "rb") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/milo/13-airflow/airflowhome/files/*2023-02-22.json'
+[2023-02-22 01:02:10,877] {taskinstance.py:1415} INFO - Marking task as FAILED. dag_id=steam_dag, task_id=notification, execution_date=20220701T000000, start_date=20230222T060210, end_date=20230222T060210
+[2023-02-22 01:02:10,893] {standard_task_runner.py:92} ERROR - Failed to execute job 1493 for task notification ([Errno 2] No such file or directory: '/home/milo/13-airflow/airflowhome/files/*2023-02-22.json'; 76678)
+[2023-02-22 01:02:10,921] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-02-22 01:02:10,947] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

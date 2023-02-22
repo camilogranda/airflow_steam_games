@@ -58,10 +58,3 @@ with DAG(dag_id="steam_dag",
     
     message_2 = BashOperator(task_id="files_saved",
                            bash_command="echo 'File saved as .csv and .JSON!'")
-    
-    notification = EmailOperator(task_id="notification",
-                                 to="camilo.granda96@gmail.com",
-                                 subject="Check the latests releases on Steam Store!",
-                                 files=f"/home/milo/13-airflow/airflowhome/files/*{date}.json")
-    
-    fetch_games >> message_1 >> save_files >> message_2

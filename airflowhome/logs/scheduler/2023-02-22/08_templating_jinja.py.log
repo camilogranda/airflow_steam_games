@@ -1405,3 +1405,619 @@
 [2023-02-22 00:13:52,594] {logging_mixin.py:115} INFO - [2023-02-22 00:13:52,594] {dag.py:2420} INFO - Sync 1 DAGs
 [2023-02-22 00:13:52,637] {logging_mixin.py:115} INFO - [2023-02-22 00:13:52,637] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
 [2023-02-22 00:13:52,676] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.152 seconds
+[2023-02-22 00:44:58,677] {processor.py:153} INFO - Started process (PID=74033) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:44:58,693] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:44:58,696] {logging_mixin.py:115} INFO - [2023-02-22 00:44:58,696] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:44:58,743] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:44:58,815] {logging_mixin.py:115} INFO - [2023-02-22 00:44:58,814] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:44:58,966] {logging_mixin.py:115} INFO - [2023-02-22 00:44:58,942] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:44:59,029] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.377 seconds
+[2023-02-22 00:45:32,212] {processor.py:153} INFO - Started process (PID=74101) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:45:32,221] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:45:32,225] {logging_mixin.py:115} INFO - [2023-02-22 00:45:32,224] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:45:32,251] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:45:32,340] {logging_mixin.py:115} INFO - [2023-02-22 00:45:32,340] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:45:32,423] {logging_mixin.py:115} INFO - [2023-02-22 00:45:32,423] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:45:32,475] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.274 seconds
+[2023-02-22 00:46:49,348] {processor.py:153} INFO - Started process (PID=74262) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:46:49,355] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:46:49,357] {logging_mixin.py:115} INFO - [2023-02-22 00:46:49,356] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:46:49,398] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:46:49,488] {logging_mixin.py:115} INFO - [2023-02-22 00:46:49,488] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:46:49,620] {logging_mixin.py:115} INFO - [2023-02-22 00:46:49,619] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:46:49,698] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.395 seconds
+[2023-02-22 00:48:07,865] {processor.py:153} INFO - Started process (PID=74402) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:48:07,880] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:48:07,887] {logging_mixin.py:115} INFO - [2023-02-22 00:48:07,887] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:48:08,541] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:48:11,873] {logging_mixin.py:115} INFO - [2023-02-22 00:48:11,864] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:48:30,899] {logging_mixin.py:115} INFO - [2023-02-22 00:48:30,899] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:48:33,194] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 25.336 seconds
+[2023-02-22 00:51:05,970] {processor.py:153} INFO - Started process (PID=74478) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:51:05,983] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:51:05,984] {logging_mixin.py:115} INFO - [2023-02-22 00:51:05,984] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:51:06,002] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:51:06,043] {logging_mixin.py:115} INFO - [2023-02-22 00:51:06,042] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:51:06,092] {logging_mixin.py:115} INFO - [2023-02-22 00:51:06,092] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:51:06,188] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.233 seconds
+[2023-02-22 00:51:38,427] {processor.py:153} INFO - Started process (PID=74550) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:51:38,428] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:51:38,429] {logging_mixin.py:115} INFO - [2023-02-22 00:51:38,429] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:51:38,444] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:51:38,482] {logging_mixin.py:115} INFO - [2023-02-22 00:51:38,482] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:51:38,535] {logging_mixin.py:115} INFO - [2023-02-22 00:51:38,535] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:51:38,583] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.163 seconds
+[2023-02-22 00:52:08,939] {processor.py:153} INFO - Started process (PID=74633) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:52:08,967] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:52:08,968] {logging_mixin.py:115} INFO - [2023-02-22 00:52:08,968] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:52:08,993] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:52:09,037] {logging_mixin.py:115} INFO - [2023-02-22 00:52:09,037] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:52:09,077] {logging_mixin.py:115} INFO - [2023-02-22 00:52:09,077] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:52:09,099] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.166 seconds
+[2023-02-22 00:52:39,648] {processor.py:153} INFO - Started process (PID=74726) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:52:39,650] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:52:39,651] {logging_mixin.py:115} INFO - [2023-02-22 00:52:39,651] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:52:39,666] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:52:39,696] {logging_mixin.py:115} INFO - [2023-02-22 00:52:39,696] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:52:39,739] {logging_mixin.py:115} INFO - [2023-02-22 00:52:39,739] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:52:39,794] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.152 seconds
+[2023-02-22 00:53:16,137] {processor.py:153} INFO - Started process (PID=74949) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:53:16,139] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:53:16,140] {logging_mixin.py:115} INFO - [2023-02-22 00:53:16,140] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:53:16,156] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:53:16,188] {logging_mixin.py:115} INFO - [2023-02-22 00:53:16,187] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:53:16,224] {logging_mixin.py:115} INFO - [2023-02-22 00:53:16,224] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:53:18,945] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 2.814 seconds
+[2023-02-22 00:53:49,750] {processor.py:153} INFO - Started process (PID=75006) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:53:49,754] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:53:49,755] {logging_mixin.py:115} INFO - [2023-02-22 00:53:49,755] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:53:49,772] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:53:49,802] {logging_mixin.py:115} INFO - [2023-02-22 00:53:49,801] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:53:49,840] {logging_mixin.py:115} INFO - [2023-02-22 00:53:49,840] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:53:51,612] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 1.869 seconds
+[2023-02-22 00:54:22,289] {processor.py:153} INFO - Started process (PID=75059) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:54:22,290] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:54:22,294] {logging_mixin.py:115} INFO - [2023-02-22 00:54:22,294] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:54:22,311] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:54:22,346] {logging_mixin.py:115} INFO - [2023-02-22 00:54:22,345] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:54:22,384] {logging_mixin.py:115} INFO - [2023-02-22 00:54:22,383] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:54:23,427] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 1.144 seconds
+[2023-02-22 00:54:54,110] {processor.py:153} INFO - Started process (PID=75186) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:54:54,111] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:54:54,112] {logging_mixin.py:115} INFO - [2023-02-22 00:54:54,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:54:54,127] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:54:54,159] {logging_mixin.py:115} INFO - [2023-02-22 00:54:54,158] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:54:54,192] {logging_mixin.py:115} INFO - [2023-02-22 00:54:54,192] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:54:54,219] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds
+[2023-02-22 00:55:25,341] {processor.py:153} INFO - Started process (PID=75275) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:55:25,342] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:55:25,343] {logging_mixin.py:115} INFO - [2023-02-22 00:55:25,342] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:55:25,358] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:55:25,388] {logging_mixin.py:115} INFO - [2023-02-22 00:55:25,387] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:55:25,422] {logging_mixin.py:115} INFO - [2023-02-22 00:55:25,422] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:55:25,447] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.112 seconds
+[2023-02-22 00:55:55,740] {processor.py:153} INFO - Started process (PID=75426) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:55:55,742] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:55:55,743] {logging_mixin.py:115} INFO - [2023-02-22 00:55:55,743] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:55:55,758] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:55:55,788] {logging_mixin.py:115} INFO - [2023-02-22 00:55:55,787] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:55:55,823] {logging_mixin.py:115} INFO - [2023-02-22 00:55:55,823] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:55:57,181] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 1.446 seconds
+[2023-02-22 00:56:28,189] {processor.py:153} INFO - Started process (PID=75633) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:56:28,191] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:56:28,193] {logging_mixin.py:115} INFO - [2023-02-22 00:56:28,193] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:56:28,210] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:56:28,243] {logging_mixin.py:115} INFO - [2023-02-22 00:56:28,243] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:56:28,280] {logging_mixin.py:115} INFO - [2023-02-22 00:56:28,280] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:56:29,350] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 1.168 seconds
+[2023-02-22 00:56:59,703] {processor.py:153} INFO - Started process (PID=75815) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:56:59,704] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:56:59,705] {logging_mixin.py:115} INFO - [2023-02-22 00:56:59,705] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:56:59,721] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:56:59,767] {logging_mixin.py:115} INFO - [2023-02-22 00:56:59,767] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:56:59,831] {logging_mixin.py:115} INFO - [2023-02-22 00:56:59,830] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:56:59,871] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.176 seconds
+[2023-02-22 00:57:30,217] {processor.py:153} INFO - Started process (PID=75896) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:57:30,231] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:57:30,232] {logging_mixin.py:115} INFO - [2023-02-22 00:57:30,232] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:57:30,269] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:57:30,329] {logging_mixin.py:115} INFO - [2023-02-22 00:57:30,329] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:57:30,385] {logging_mixin.py:115} INFO - [2023-02-22 00:57:30,385] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:57:30,415] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.207 seconds
+[2023-02-22 00:58:00,827] {processor.py:153} INFO - Started process (PID=76096) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:58:00,828] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:58:00,829] {logging_mixin.py:115} INFO - [2023-02-22 00:58:00,829] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:58:00,856] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:58:00,890] {logging_mixin.py:115} INFO - [2023-02-22 00:58:00,889] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:58:00,928] {logging_mixin.py:115} INFO - [2023-02-22 00:58:00,928] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:58:00,956] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.143 seconds
+[2023-02-22 00:58:31,318] {processor.py:153} INFO - Started process (PID=76160) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:58:31,321] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:58:31,324] {logging_mixin.py:115} INFO - [2023-02-22 00:58:31,323] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:58:31,340] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:58:31,370] {logging_mixin.py:115} INFO - [2023-02-22 00:58:31,370] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:58:31,410] {logging_mixin.py:115} INFO - [2023-02-22 00:58:31,410] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:58:31,480] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.168 seconds
+[2023-02-22 00:59:01,836] {processor.py:153} INFO - Started process (PID=76243) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:59:01,836] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:59:01,837] {logging_mixin.py:115} INFO - [2023-02-22 00:59:01,837] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:59:01,853] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:59:01,883] {logging_mixin.py:115} INFO - [2023-02-22 00:59:01,883] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:59:01,919] {logging_mixin.py:115} INFO - [2023-02-22 00:59:01,919] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:59:01,947] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.117 seconds
+[2023-02-22 00:59:32,341] {processor.py:153} INFO - Started process (PID=76303) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:59:32,344] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 00:59:32,345] {logging_mixin.py:115} INFO - [2023-02-22 00:59:32,345] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:59:32,363] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 00:59:32,396] {logging_mixin.py:115} INFO - [2023-02-22 00:59:32,396] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:59:32,453] {logging_mixin.py:115} INFO - [2023-02-22 00:59:32,453] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 00:59:32,477] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.143 seconds
+[2023-02-22 01:00:02,921] {processor.py:153} INFO - Started process (PID=76359) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:00:02,932] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:00:02,934] {logging_mixin.py:115} INFO - [2023-02-22 01:00:02,934] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:00:02,979] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:00:03,084] {logging_mixin.py:115} INFO - [2023-02-22 01:00:03,084] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:00:03,145] {logging_mixin.py:115} INFO - [2023-02-22 01:00:03,144] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:00:03,174] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.271 seconds
+[2023-02-22 01:00:33,511] {processor.py:153} INFO - Started process (PID=76464) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:00:33,513] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:00:33,514] {logging_mixin.py:115} INFO - [2023-02-22 01:00:33,514] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:00:33,529] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:00:33,561] {logging_mixin.py:115} INFO - [2023-02-22 01:00:33,561] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:00:33,599] {logging_mixin.py:115} INFO - [2023-02-22 01:00:33,598] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:00:33,647] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.142 seconds
+[2023-02-22 01:01:04,616] {processor.py:153} INFO - Started process (PID=76529) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:01:04,618] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:01:04,619] {logging_mixin.py:115} INFO - [2023-02-22 01:01:04,619] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:01:04,633] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:01:04,665] {logging_mixin.py:115} INFO - [2023-02-22 01:01:04,665] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:01:04,697] {logging_mixin.py:115} INFO - [2023-02-22 01:01:04,697] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:01:07,379] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 2.769 seconds
+[2023-02-22 01:01:37,754] {processor.py:153} INFO - Started process (PID=76595) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:01:37,758] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:01:37,760] {logging_mixin.py:115} INFO - [2023-02-22 01:01:37,760] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:01:37,774] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:01:37,805] {logging_mixin.py:115} INFO - [2023-02-22 01:01:37,804] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:01:37,839] {logging_mixin.py:115} INFO - [2023-02-22 01:01:37,839] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:01:40,079] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 2.330 seconds
+[2023-02-22 01:02:20,377] {processor.py:153} INFO - Started process (PID=76700) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:02:20,379] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:02:20,381] {logging_mixin.py:115} INFO - [2023-02-22 01:02:20,380] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:02:20,396] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:02:20,428] {logging_mixin.py:115} INFO - [2023-02-22 01:02:20,427] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:02:20,462] {logging_mixin.py:115} INFO - [2023-02-22 01:02:20,462] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:02:20,487] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds
+[2023-02-22 01:02:51,429] {processor.py:153} INFO - Started process (PID=76760) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:02:51,431] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:02:51,432] {logging_mixin.py:115} INFO - [2023-02-22 01:02:51,432] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:02:51,453] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:02:51,498] {logging_mixin.py:115} INFO - [2023-02-22 01:02:51,498] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:02:51,539] {logging_mixin.py:115} INFO - [2023-02-22 01:02:51,539] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:02:51,565] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.143 seconds
+[2023-02-22 01:03:23,109] {processor.py:153} INFO - Started process (PID=76817) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:03:23,111] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:03:23,112] {logging_mixin.py:115} INFO - [2023-02-22 01:03:23,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:03:23,127] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:03:23,158] {logging_mixin.py:115} INFO - [2023-02-22 01:03:23,158] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:03:23,195] {logging_mixin.py:115} INFO - [2023-02-22 01:03:23,194] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:03:23,217] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.116 seconds
+[2023-02-22 01:04:04,941] {processor.py:153} INFO - Started process (PID=76895) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:04:04,943] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:04:04,944] {logging_mixin.py:115} INFO - [2023-02-22 01:04:04,944] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:04:04,961] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:04:04,994] {logging_mixin.py:115} INFO - [2023-02-22 01:04:04,993] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:04:05,027] {logging_mixin.py:115} INFO - [2023-02-22 01:04:05,027] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:04:05,048] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.113 seconds
+[2023-02-22 01:04:38,669] {processor.py:153} INFO - Started process (PID=77011) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:04:38,671] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:04:38,673] {logging_mixin.py:115} INFO - [2023-02-22 01:04:38,672] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:04:38,704] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:04:38,738] {logging_mixin.py:115} INFO - [2023-02-22 01:04:38,738] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:04:38,777] {logging_mixin.py:115} INFO - [2023-02-22 01:04:38,777] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:04:38,802] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.139 seconds
+[2023-02-22 01:05:09,295] {processor.py:153} INFO - Started process (PID=77197) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:05:09,296] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:05:09,298] {logging_mixin.py:115} INFO - [2023-02-22 01:05:09,297] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:05:09,319] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:05:09,350] {logging_mixin.py:115} INFO - [2023-02-22 01:05:09,350] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:05:09,391] {logging_mixin.py:115} INFO - [2023-02-22 01:05:09,391] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:05:09,419] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.132 seconds
+[2023-02-22 01:05:44,003] {processor.py:153} INFO - Started process (PID=77430) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:05:44,008] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:05:44,009] {logging_mixin.py:115} INFO - [2023-02-22 01:05:44,009] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:05:44,024] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:05:44,054] {logging_mixin.py:115} INFO - [2023-02-22 01:05:44,054] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:05:44,089] {logging_mixin.py:115} INFO - [2023-02-22 01:05:44,089] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:05:44,112] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.114 seconds
+[2023-02-22 01:06:17,066] {processor.py:153} INFO - Started process (PID=77619) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:06:17,068] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:06:17,069] {logging_mixin.py:115} INFO - [2023-02-22 01:06:17,068] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:06:17,083] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:06:17,116] {logging_mixin.py:115} INFO - [2023-02-22 01:06:17,116] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:06:17,155] {logging_mixin.py:115} INFO - [2023-02-22 01:06:17,155] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:06:17,179] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.119 seconds
+[2023-02-22 01:06:47,835] {processor.py:153} INFO - Started process (PID=77684) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:06:47,836] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:06:47,837] {logging_mixin.py:115} INFO - [2023-02-22 01:06:47,836] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:06:47,852] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:06:47,883] {logging_mixin.py:115} INFO - [2023-02-22 01:06:47,883] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:06:47,916] {logging_mixin.py:115} INFO - [2023-02-22 01:06:47,916] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:06:47,938] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.109 seconds
+[2023-02-22 01:07:29,417] {processor.py:153} INFO - Started process (PID=77784) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:07:29,419] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:07:29,420] {logging_mixin.py:115} INFO - [2023-02-22 01:07:29,420] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:07:29,435] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:07:29,468] {logging_mixin.py:115} INFO - [2023-02-22 01:07:29,468] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:07:29,502] {logging_mixin.py:115} INFO - [2023-02-22 01:07:29,502] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:07:29,526] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds
+[2023-02-22 01:08:00,210] {processor.py:153} INFO - Started process (PID=77846) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:08:00,211] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:08:00,212] {logging_mixin.py:115} INFO - [2023-02-22 01:08:00,212] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:08:00,229] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:08:00,262] {logging_mixin.py:115} INFO - [2023-02-22 01:08:00,261] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:08:00,299] {logging_mixin.py:115} INFO - [2023-02-22 01:08:00,299] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:08:00,372] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.168 seconds
+[2023-02-22 01:08:31,023] {processor.py:153} INFO - Started process (PID=77912) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:08:31,025] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:08:31,026] {logging_mixin.py:115} INFO - [2023-02-22 01:08:31,026] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:08:31,041] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:08:31,072] {logging_mixin.py:115} INFO - [2023-02-22 01:08:31,072] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:08:31,108] {logging_mixin.py:115} INFO - [2023-02-22 01:08:31,108] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:08:31,159] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.142 seconds
+[2023-02-22 01:09:01,721] {processor.py:153} INFO - Started process (PID=77973) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:09:01,722] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:09:01,723] {logging_mixin.py:115} INFO - [2023-02-22 01:09:01,723] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:09:01,742] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:09:01,774] {logging_mixin.py:115} INFO - [2023-02-22 01:09:01,774] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:09:01,816] {logging_mixin.py:115} INFO - [2023-02-22 01:09:01,816] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:09:01,848] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.137 seconds
+[2023-02-22 01:09:35,064] {processor.py:153} INFO - Started process (PID=78041) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:09:35,066] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:09:35,067] {logging_mixin.py:115} INFO - [2023-02-22 01:09:35,067] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:09:35,081] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:09:35,111] {logging_mixin.py:115} INFO - [2023-02-22 01:09:35,111] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:09:35,146] {logging_mixin.py:115} INFO - [2023-02-22 01:09:35,146] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:09:35,169] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.110 seconds
+[2023-02-22 01:10:06,311] {processor.py:153} INFO - Started process (PID=78154) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:10:06,312] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:10:06,313] {logging_mixin.py:115} INFO - [2023-02-22 01:10:06,313] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:10:06,328] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:10:06,384] {logging_mixin.py:115} INFO - [2023-02-22 01:10:06,384] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:10:06,431] {logging_mixin.py:115} INFO - [2023-02-22 01:10:06,431] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:10:06,471] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.168 seconds
+[2023-02-22 01:10:41,159] {processor.py:153} INFO - Started process (PID=78322) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:10:41,161] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:10:41,162] {logging_mixin.py:115} INFO - [2023-02-22 01:10:41,162] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:10:41,180] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:10:41,215] {logging_mixin.py:115} INFO - [2023-02-22 01:10:41,215] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:10:41,250] {logging_mixin.py:115} INFO - [2023-02-22 01:10:41,249] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:10:41,271] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.121 seconds
+[2023-02-22 01:11:11,547] {processor.py:153} INFO - Started process (PID=78380) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:11:11,549] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:11:11,550] {logging_mixin.py:115} INFO - [2023-02-22 01:11:11,550] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:11:11,568] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:11:11,605] {logging_mixin.py:115} INFO - [2023-02-22 01:11:11,604] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:11:11,641] {logging_mixin.py:115} INFO - [2023-02-22 01:11:11,640] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:11:11,661] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.120 seconds
+[2023-02-22 01:11:44,711] {processor.py:153} INFO - Started process (PID=78476) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:11:44,714] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:11:44,715] {logging_mixin.py:115} INFO - [2023-02-22 01:11:44,715] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:11:44,731] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:11:44,761] {logging_mixin.py:115} INFO - [2023-02-22 01:11:44,760] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:11:44,795] {logging_mixin.py:115} INFO - [2023-02-22 01:11:44,795] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:11:44,822] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.124 seconds
+[2023-02-22 01:12:20,319] {processor.py:153} INFO - Started process (PID=78547) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:12:20,320] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:12:20,321] {logging_mixin.py:115} INFO - [2023-02-22 01:12:20,321] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:12:20,338] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:12:20,369] {logging_mixin.py:115} INFO - [2023-02-22 01:12:20,369] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:12:20,403] {logging_mixin.py:115} INFO - [2023-02-22 01:12:20,403] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:12:21,218] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.905 seconds
+[2023-02-22 01:12:52,494] {processor.py:153} INFO - Started process (PID=78612) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:12:52,495] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:12:52,495] {logging_mixin.py:115} INFO - [2023-02-22 01:12:52,495] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:12:52,511] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:12:52,542] {logging_mixin.py:115} INFO - [2023-02-22 01:12:52,542] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:12:52,576] {logging_mixin.py:115} INFO - [2023-02-22 01:12:52,576] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:12:52,600] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.112 seconds
+[2023-02-22 01:13:25,789] {processor.py:153} INFO - Started process (PID=78698) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:13:25,791] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:13:25,792] {logging_mixin.py:115} INFO - [2023-02-22 01:13:25,792] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:13:25,811] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:13:25,844] {logging_mixin.py:115} INFO - [2023-02-22 01:13:25,844] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:13:25,886] {logging_mixin.py:115} INFO - [2023-02-22 01:13:25,885] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:13:25,909] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.126 seconds
+[2023-02-22 01:13:57,506] {processor.py:153} INFO - Started process (PID=78769) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:13:57,507] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:13:57,508] {logging_mixin.py:115} INFO - [2023-02-22 01:13:57,508] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:13:57,523] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:13:57,554] {logging_mixin.py:115} INFO - [2023-02-22 01:13:57,554] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:13:57,592] {logging_mixin.py:115} INFO - [2023-02-22 01:13:57,592] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:13:57,618] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.118 seconds
+[2023-02-22 01:14:29,026] {processor.py:153} INFO - Started process (PID=78835) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:14:29,028] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:14:29,029] {logging_mixin.py:115} INFO - [2023-02-22 01:14:29,029] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:14:29,043] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:14:29,073] {logging_mixin.py:115} INFO - [2023-02-22 01:14:29,073] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:14:29,111] {logging_mixin.py:115} INFO - [2023-02-22 01:14:29,111] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:14:29,133] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.113 seconds
+[2023-02-22 01:15:00,341] {processor.py:153} INFO - Started process (PID=78896) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:15:00,350] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:15:00,351] {logging_mixin.py:115} INFO - [2023-02-22 01:15:00,351] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:15:00,385] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:15:00,464] {logging_mixin.py:115} INFO - [2023-02-22 01:15:00,464] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:15:00,546] {logging_mixin.py:115} INFO - [2023-02-22 01:15:00,546] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:15:00,583] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.249 seconds
+[2023-02-22 01:15:30,787] {processor.py:153} INFO - Started process (PID=78965) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:15:30,789] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:15:30,790] {logging_mixin.py:115} INFO - [2023-02-22 01:15:30,790] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:15:30,805] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:15:30,836] {logging_mixin.py:115} INFO - [2023-02-22 01:15:30,835] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:15:30,869] {logging_mixin.py:115} INFO - [2023-02-22 01:15:30,869] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:15:30,891] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.110 seconds
+[2023-02-22 01:16:01,874] {processor.py:153} INFO - Started process (PID=79024) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:16:01,875] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:16:01,876] {logging_mixin.py:115} INFO - [2023-02-22 01:16:01,876] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:16:01,901] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:16:01,932] {logging_mixin.py:115} INFO - [2023-02-22 01:16:01,932] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:16:01,982] {logging_mixin.py:115} INFO - [2023-02-22 01:16:01,981] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:16:02,005] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.145 seconds
+[2023-02-22 01:16:32,823] {processor.py:153} INFO - Started process (PID=79090) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:16:32,824] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:16:32,825] {logging_mixin.py:115} INFO - [2023-02-22 01:16:32,825] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:16:32,841] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:16:32,873] {logging_mixin.py:115} INFO - [2023-02-22 01:16:32,873] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:16:32,912] {logging_mixin.py:115} INFO - [2023-02-22 01:16:32,911] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:16:32,933] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.118 seconds
+[2023-02-22 01:17:03,736] {processor.py:153} INFO - Started process (PID=79152) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:17:03,737] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:17:03,738] {logging_mixin.py:115} INFO - [2023-02-22 01:17:03,738] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:17:03,753] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:17:03,783] {logging_mixin.py:115} INFO - [2023-02-22 01:17:03,783] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:17:03,823] {logging_mixin.py:115} INFO - [2023-02-22 01:17:03,822] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:17:03,844] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.118 seconds
+[2023-02-22 01:17:34,787] {processor.py:153} INFO - Started process (PID=79218) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:17:34,789] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:17:34,790] {logging_mixin.py:115} INFO - [2023-02-22 01:17:34,789] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:17:34,803] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:17:34,834] {logging_mixin.py:115} INFO - [2023-02-22 01:17:34,834] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:17:34,870] {logging_mixin.py:115} INFO - [2023-02-22 01:17:34,869] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:17:34,892] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.111 seconds
+[2023-02-22 01:18:05,954] {processor.py:153} INFO - Started process (PID=79277) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:18:05,955] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:18:05,956] {logging_mixin.py:115} INFO - [2023-02-22 01:18:05,956] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:18:05,971] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:18:06,001] {logging_mixin.py:115} INFO - [2023-02-22 01:18:06,001] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:18:06,035] {logging_mixin.py:115} INFO - [2023-02-22 01:18:06,034] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:18:06,057] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.117 seconds
+[2023-02-22 01:18:36,811] {processor.py:153} INFO - Started process (PID=79343) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:18:36,813] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:18:36,814] {logging_mixin.py:115} INFO - [2023-02-22 01:18:36,814] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:18:36,829] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:18:36,859] {logging_mixin.py:115} INFO - [2023-02-22 01:18:36,858] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:18:36,899] {logging_mixin.py:115} INFO - [2023-02-22 01:18:36,899] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:18:36,976] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.171 seconds
+[2023-02-22 01:19:07,418] {processor.py:153} INFO - Started process (PID=79402) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:19:07,420] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:19:07,421] {logging_mixin.py:115} INFO - [2023-02-22 01:19:07,421] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:19:07,436] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:19:07,470] {logging_mixin.py:115} INFO - [2023-02-22 01:19:07,470] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:19:07,510] {logging_mixin.py:115} INFO - [2023-02-22 01:19:07,510] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:19:07,538] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.127 seconds
+[2023-02-22 01:19:40,259] {processor.py:153} INFO - Started process (PID=79459) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:19:40,261] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:19:40,262] {logging_mixin.py:115} INFO - [2023-02-22 01:19:40,262] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:19:40,276] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:19:40,306] {logging_mixin.py:115} INFO - [2023-02-22 01:19:40,306] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:19:40,350] {logging_mixin.py:115} INFO - [2023-02-22 01:19:40,350] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:19:40,375] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.122 seconds
+[2023-02-22 01:20:10,713] {processor.py:153} INFO - Started process (PID=79525) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:20:10,714] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:20:10,715] {logging_mixin.py:115} INFO - [2023-02-22 01:20:10,714] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:20:10,734] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:20:10,763] {logging_mixin.py:115} INFO - [2023-02-22 01:20:10,763] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:20:10,808] {logging_mixin.py:115} INFO - [2023-02-22 01:20:10,808] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:20:10,834] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.129 seconds
+[2023-02-22 01:20:41,442] {processor.py:153} INFO - Started process (PID=79585) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:20:41,444] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:20:41,444] {logging_mixin.py:115} INFO - [2023-02-22 01:20:41,444] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:20:41,459] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:20:41,493] {logging_mixin.py:115} INFO - [2023-02-22 01:20:41,492] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:20:41,529] {logging_mixin.py:115} INFO - [2023-02-22 01:20:41,529] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:20:41,552] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds
+[2023-02-22 01:21:12,618] {processor.py:153} INFO - Started process (PID=79644) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:21:12,618] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:21:12,620] {logging_mixin.py:115} INFO - [2023-02-22 01:21:12,619] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:21:12,634] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:21:12,667] {logging_mixin.py:115} INFO - [2023-02-22 01:21:12,667] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:21:12,703] {logging_mixin.py:115} INFO - [2023-02-22 01:21:12,702] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:21:15,471] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 2.860 seconds
+[2023-02-22 01:21:45,657] {processor.py:153} INFO - Started process (PID=79710) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:21:45,658] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:21:45,659] {logging_mixin.py:115} INFO - [2023-02-22 01:21:45,659] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:21:45,676] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:21:45,717] {logging_mixin.py:115} INFO - [2023-02-22 01:21:45,717] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:21:45,770] {logging_mixin.py:115} INFO - [2023-02-22 01:21:45,770] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:21:45,842] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.198 seconds
+[2023-02-22 01:22:20,115] {processor.py:153} INFO - Started process (PID=79775) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:22:20,117] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:22:20,118] {logging_mixin.py:115} INFO - [2023-02-22 01:22:20,117] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:22:20,133] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:22:20,165] {logging_mixin.py:115} INFO - [2023-02-22 01:22:20,165] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:22:20,199] {logging_mixin.py:115} INFO - [2023-02-22 01:22:20,198] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:22:20,224] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.114 seconds
+[2023-02-22 01:22:50,674] {processor.py:153} INFO - Started process (PID=79834) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:22:50,675] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:22:50,676] {logging_mixin.py:115} INFO - [2023-02-22 01:22:50,676] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:22:50,694] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:22:50,729] {logging_mixin.py:115} INFO - [2023-02-22 01:22:50,729] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:22:50,768] {logging_mixin.py:115} INFO - [2023-02-22 01:22:50,767] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:22:50,793] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.125 seconds
+[2023-02-22 01:23:22,367] {processor.py:153} INFO - Started process (PID=79899) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:23:22,369] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:23:22,370] {logging_mixin.py:115} INFO - [2023-02-22 01:23:22,370] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:23:22,389] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:23:22,425] {logging_mixin.py:115} INFO - [2023-02-22 01:23:22,425] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:23:22,463] {logging_mixin.py:115} INFO - [2023-02-22 01:23:22,463] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:23:22,986] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.626 seconds
+[2023-02-22 01:23:53,906] {processor.py:153} INFO - Started process (PID=79959) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:23:53,907] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:23:53,908] {logging_mixin.py:115} INFO - [2023-02-22 01:23:53,908] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:23:53,929] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:23:53,971] {logging_mixin.py:115} INFO - [2023-02-22 01:23:53,971] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:23:54,019] {logging_mixin.py:115} INFO - [2023-02-22 01:23:54,019] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:23:54,046] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.151 seconds
+[2023-02-22 01:24:25,902] {processor.py:153} INFO - Started process (PID=80023) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:24:25,904] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:24:25,905] {logging_mixin.py:115} INFO - [2023-02-22 01:24:25,905] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:24:25,919] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:24:25,952] {logging_mixin.py:115} INFO - [2023-02-22 01:24:25,952] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:24:25,987] {logging_mixin.py:115} INFO - [2023-02-22 01:24:25,987] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:24:26,010] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds
+[2023-02-22 01:24:57,103] {processor.py:153} INFO - Started process (PID=80083) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:24:57,104] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:24:57,106] {logging_mixin.py:115} INFO - [2023-02-22 01:24:57,105] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:24:57,121] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:24:57,159] {logging_mixin.py:115} INFO - [2023-02-22 01:24:57,158] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:24:57,206] {logging_mixin.py:115} INFO - [2023-02-22 01:24:57,205] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:24:57,234] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.137 seconds
+[2023-02-22 01:25:32,084] {processor.py:153} INFO - Started process (PID=80152) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:25:32,094] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:25:32,095] {logging_mixin.py:115} INFO - [2023-02-22 01:25:32,095] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:25:32,131] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:25:32,210] {logging_mixin.py:115} INFO - [2023-02-22 01:25:32,209] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:25:32,307] {logging_mixin.py:115} INFO - [2023-02-22 01:25:32,306] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:25:32,591] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.513 seconds
+[2023-02-22 01:26:03,650] {processor.py:153} INFO - Started process (PID=80211) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:26:03,653] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:26:03,654] {logging_mixin.py:115} INFO - [2023-02-22 01:26:03,654] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:26:03,672] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:26:03,710] {logging_mixin.py:115} INFO - [2023-02-22 01:26:03,710] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:26:03,760] {logging_mixin.py:115} INFO - [2023-02-22 01:26:03,759] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:26:03,787] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.147 seconds
+[2023-02-22 01:26:34,763] {processor.py:153} INFO - Started process (PID=80274) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:26:34,777] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:26:34,778] {logging_mixin.py:115} INFO - [2023-02-22 01:26:34,778] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:26:34,815] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:26:34,917] {logging_mixin.py:115} INFO - [2023-02-22 01:26:34,917] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:26:34,973] {logging_mixin.py:115} INFO - [2023-02-22 01:26:34,973] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:26:35,008] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.265 seconds
+[2023-02-22 01:27:05,338] {processor.py:153} INFO - Started process (PID=80333) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:27:05,339] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:27:05,340] {logging_mixin.py:115} INFO - [2023-02-22 01:27:05,340] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:27:05,361] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:27:05,399] {logging_mixin.py:115} INFO - [2023-02-22 01:27:05,399] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:27:05,441] {logging_mixin.py:115} INFO - [2023-02-22 01:27:05,441] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:27:05,464] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.133 seconds
+[2023-02-22 01:27:36,455] {processor.py:153} INFO - Started process (PID=80396) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:27:36,458] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:27:36,459] {logging_mixin.py:115} INFO - [2023-02-22 01:27:36,459] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:27:36,474] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:27:36,504] {logging_mixin.py:115} INFO - [2023-02-22 01:27:36,504] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:27:36,537] {logging_mixin.py:115} INFO - [2023-02-22 01:27:36,537] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:27:36,560] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.111 seconds
+[2023-02-22 01:28:07,307] {processor.py:153} INFO - Started process (PID=80455) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:28:07,309] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:28:07,310] {logging_mixin.py:115} INFO - [2023-02-22 01:28:07,310] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:28:07,325] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:28:07,356] {logging_mixin.py:115} INFO - [2023-02-22 01:28:07,356] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:28:07,389] {logging_mixin.py:115} INFO - [2023-02-22 01:28:07,389] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:28:07,412] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.110 seconds
+[2023-02-22 01:28:37,741] {processor.py:153} INFO - Started process (PID=80515) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:28:37,742] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:28:37,743] {logging_mixin.py:115} INFO - [2023-02-22 01:28:37,743] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:28:37,760] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:28:37,790] {logging_mixin.py:115} INFO - [2023-02-22 01:28:37,790] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:28:37,827] {logging_mixin.py:115} INFO - [2023-02-22 01:28:37,826] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:28:37,850] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.121 seconds
+[2023-02-22 01:29:08,659] {processor.py:153} INFO - Started process (PID=80574) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:29:08,662] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:29:08,664] {logging_mixin.py:115} INFO - [2023-02-22 01:29:08,663] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:29:08,678] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:29:08,709] {logging_mixin.py:115} INFO - [2023-02-22 01:29:08,709] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:29:08,744] {logging_mixin.py:115} INFO - [2023-02-22 01:29:08,743] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:29:08,769] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds
+[2023-02-22 01:29:39,447] {processor.py:153} INFO - Started process (PID=80661) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:29:39,448] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:29:39,449] {logging_mixin.py:115} INFO - [2023-02-22 01:29:39,449] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:29:39,464] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:29:39,495] {logging_mixin.py:115} INFO - [2023-02-22 01:29:39,495] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:29:39,528] {logging_mixin.py:115} INFO - [2023-02-22 01:29:39,527] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:29:39,550] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.109 seconds
+[2023-02-22 01:30:10,155] {processor.py:153} INFO - Started process (PID=80817) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:30:10,157] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:30:10,158] {logging_mixin.py:115} INFO - [2023-02-22 01:30:10,158] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:30:10,172] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:30:10,204] {logging_mixin.py:115} INFO - [2023-02-22 01:30:10,203] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:30:10,238] {logging_mixin.py:115} INFO - [2023-02-22 01:30:10,238] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:30:10,261] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds
+[2023-02-22 01:30:41,143] {processor.py:153} INFO - Started process (PID=80973) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:30:41,144] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:30:41,145] {logging_mixin.py:115} INFO - [2023-02-22 01:30:41,145] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:30:41,159] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:30:41,189] {logging_mixin.py:115} INFO - [2023-02-22 01:30:41,189] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:30:41,222] {logging_mixin.py:115} INFO - [2023-02-22 01:30:41,222] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:30:41,245] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.108 seconds
+[2023-02-22 01:31:12,045] {processor.py:153} INFO - Started process (PID=81176) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:31:12,047] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:31:12,048] {logging_mixin.py:115} INFO - [2023-02-22 01:31:12,048] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:31:12,063] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:31:12,093] {logging_mixin.py:115} INFO - [2023-02-22 01:31:12,092] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:31:12,128] {logging_mixin.py:115} INFO - [2023-02-22 01:31:12,128] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:31:12,150] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.111 seconds
+[2023-02-22 01:31:50,891] {processor.py:153} INFO - Started process (PID=81371) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:31:50,893] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:31:50,894] {logging_mixin.py:115} INFO - [2023-02-22 01:31:50,894] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:31:50,911] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:31:50,944] {logging_mixin.py:115} INFO - [2023-02-22 01:31:50,944] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:31:51,001] {logging_mixin.py:115} INFO - [2023-02-22 01:31:51,001] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:31:53,697] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 2.812 seconds
+[2023-02-22 01:32:26,095] {processor.py:153} INFO - Started process (PID=81464) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:32:26,096] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:32:26,097] {logging_mixin.py:115} INFO - [2023-02-22 01:32:26,097] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:32:26,112] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:32:26,143] {logging_mixin.py:115} INFO - [2023-02-22 01:32:26,143] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:32:26,178] {logging_mixin.py:115} INFO - [2023-02-22 01:32:26,178] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:32:26,199] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.111 seconds
+[2023-02-22 01:32:59,063] {processor.py:153} INFO - Started process (PID=81524) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:32:59,065] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:32:59,066] {logging_mixin.py:115} INFO - [2023-02-22 01:32:59,065] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:32:59,079] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:32:59,111] {logging_mixin.py:115} INFO - [2023-02-22 01:32:59,110] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:32:59,143] {logging_mixin.py:115} INFO - [2023-02-22 01:32:59,143] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:32:59,165] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.108 seconds
+[2023-02-22 01:33:32,788] {processor.py:153} INFO - Started process (PID=81590) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:33:32,790] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:33:32,791] {logging_mixin.py:115} INFO - [2023-02-22 01:33:32,791] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:33:32,806] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:33:32,836] {logging_mixin.py:115} INFO - [2023-02-22 01:33:32,836] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:33:32,872] {logging_mixin.py:115} INFO - [2023-02-22 01:33:32,871] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:33:33,654] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.872 seconds
+[2023-02-22 01:34:03,911] {processor.py:153} INFO - Started process (PID=81661) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:34:03,912] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:34:03,915] {logging_mixin.py:115} INFO - [2023-02-22 01:34:03,914] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:34:03,929] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:34:03,962] {logging_mixin.py:115} INFO - [2023-02-22 01:34:03,962] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:34:03,999] {logging_mixin.py:115} INFO - [2023-02-22 01:34:03,999] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:34:04,020] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds
+[2023-02-22 01:34:38,755] {processor.py:153} INFO - Started process (PID=81732) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:34:38,758] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:34:38,759] {logging_mixin.py:115} INFO - [2023-02-22 01:34:38,759] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:34:38,781] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:34:38,837] {logging_mixin.py:115} INFO - [2023-02-22 01:34:38,837] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:34:38,891] {logging_mixin.py:115} INFO - [2023-02-22 01:34:38,891] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:34:39,003] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.259 seconds
+[2023-02-22 01:35:09,774] {processor.py:153} INFO - Started process (PID=81945) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:35:09,775] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:35:09,776] {logging_mixin.py:115} INFO - [2023-02-22 01:35:09,776] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:35:09,791] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:35:09,823] {logging_mixin.py:115} INFO - [2023-02-22 01:35:09,823] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:35:09,857] {logging_mixin.py:115} INFO - [2023-02-22 01:35:09,857] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:35:09,879] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.111 seconds
+[2023-02-22 01:35:40,434] {processor.py:153} INFO - Started process (PID=82150) to work on /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:35:40,437] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py for tasks to queue
+[2023-02-22 01:35:40,438] {logging_mixin.py:115} INFO - [2023-02-22 01:35:40,437] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:35:40,452] {processor.py:651} INFO - DAG(s) dict_keys(['08_templating']) retrieved from /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py
+[2023-02-22 01:35:40,484] {logging_mixin.py:115} INFO - [2023-02-22 01:35:40,484] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:35:40,518] {logging_mixin.py:115} INFO - [2023-02-22 01:35:40,518] {dag.py:2968} INFO - Setting next_dagrun for 08_templating to 2022-12-01T00:00:00+00:00, run_after=2022-12-02T00:00:00+00:00
+[2023-02-22 01:35:40,544] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/08_templating_jinja.py took 0.115 seconds

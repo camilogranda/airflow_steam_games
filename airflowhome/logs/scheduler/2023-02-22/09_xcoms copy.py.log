@@ -1405,3 +1405,619 @@
 [2023-02-22 00:13:49,214] {logging_mixin.py:115} INFO - [2023-02-22 00:13:49,214] {dag.py:2420} INFO - Sync 1 DAGs
 [2023-02-22 00:13:49,257] {logging_mixin.py:115} INFO - [2023-02-22 00:13:49,256] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
 [2023-02-22 00:13:49,284] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.129 seconds
+[2023-02-22 00:44:57,063] {processor.py:153} INFO - Started process (PID=74032) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:44:57,083] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:44:57,084] {logging_mixin.py:115} INFO - [2023-02-22 00:44:57,084] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:44:57,132] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:44:57,244] {logging_mixin.py:115} INFO - [2023-02-22 00:44:57,244] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:44:57,363] {logging_mixin.py:115} INFO - [2023-02-22 00:44:57,363] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:44:57,434] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.378 seconds
+[2023-02-22 00:45:30,675] {processor.py:153} INFO - Started process (PID=74087) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:45:30,690] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:45:30,691] {logging_mixin.py:115} INFO - [2023-02-22 00:45:30,691] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:45:30,721] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:45:30,800] {logging_mixin.py:115} INFO - [2023-02-22 00:45:30,799] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:45:30,913] {logging_mixin.py:115} INFO - [2023-02-22 00:45:30,912] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:45:30,975] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.307 seconds
+[2023-02-22 00:46:47,460] {processor.py:153} INFO - Started process (PID=74256) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:46:47,464] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:46:47,465] {logging_mixin.py:115} INFO - [2023-02-22 00:46:47,465] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:46:47,565] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:46:47,660] {logging_mixin.py:115} INFO - [2023-02-22 00:46:47,659] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:46:47,805] {logging_mixin.py:115} INFO - [2023-02-22 00:46:47,804] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:46:47,894] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.463 seconds
+[2023-02-22 00:47:50,171] {processor.py:153} INFO - Started process (PID=74401) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:47:50,178] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:47:50,179] {logging_mixin.py:115} INFO - [2023-02-22 00:47:50,179] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:47:50,762] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:47:53,603] {logging_mixin.py:115} INFO - [2023-02-22 00:47:53,602] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:48:03,693] {logging_mixin.py:115} INFO - [2023-02-22 00:48:03,693] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:48:06,191] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 16.036 seconds
+[2023-02-22 00:51:04,697] {processor.py:153} INFO - Started process (PID=74475) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:51:04,701] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:51:04,702] {logging_mixin.py:115} INFO - [2023-02-22 00:51:04,701] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:51:04,724] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:51:04,760] {logging_mixin.py:115} INFO - [2023-02-22 00:51:04,760] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:51:04,818] {logging_mixin.py:115} INFO - [2023-02-22 00:51:04,817] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:51:04,854] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.164 seconds
+[2023-02-22 00:51:37,071] {processor.py:153} INFO - Started process (PID=74549) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:51:37,072] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:51:37,073] {logging_mixin.py:115} INFO - [2023-02-22 00:51:37,072] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:51:37,102] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:51:37,168] {logging_mixin.py:115} INFO - [2023-02-22 00:51:37,168] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:51:37,265] {logging_mixin.py:115} INFO - [2023-02-22 00:51:37,265] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:51:37,332] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.275 seconds
+[2023-02-22 00:52:07,627] {processor.py:153} INFO - Started process (PID=74626) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:52:07,631] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:52:07,632] {logging_mixin.py:115} INFO - [2023-02-22 00:52:07,632] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:52:07,653] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:52:07,683] {logging_mixin.py:115} INFO - [2023-02-22 00:52:07,683] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:52:07,722] {logging_mixin.py:115} INFO - [2023-02-22 00:52:07,722] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:52:07,753] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.131 seconds
+[2023-02-22 00:52:38,404] {processor.py:153} INFO - Started process (PID=74725) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:52:38,405] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:52:38,406] {logging_mixin.py:115} INFO - [2023-02-22 00:52:38,405] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:52:38,427] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:52:38,456] {logging_mixin.py:115} INFO - [2023-02-22 00:52:38,455] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:52:38,496] {logging_mixin.py:115} INFO - [2023-02-22 00:52:38,496] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:52:38,518] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.119 seconds
+[2023-02-22 00:53:12,157] {processor.py:153} INFO - Started process (PID=74942) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:53:12,176] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:53:12,177] {logging_mixin.py:115} INFO - [2023-02-22 00:53:12,176] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:53:12,200] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:53:12,230] {logging_mixin.py:115} INFO - [2023-02-22 00:53:12,230] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:53:12,269] {logging_mixin.py:115} INFO - [2023-02-22 00:53:12,269] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:53:14,991] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 2.840 seconds
+[2023-02-22 00:53:45,142] {processor.py:153} INFO - Started process (PID=74999) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:53:45,455] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:53:45,456] {logging_mixin.py:115} INFO - [2023-02-22 00:53:45,456] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:53:45,477] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:53:45,505] {logging_mixin.py:115} INFO - [2023-02-22 00:53:45,505] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:53:45,544] {logging_mixin.py:115} INFO - [2023-02-22 00:53:45,543] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:53:46,507] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 1.370 seconds
+[2023-02-22 00:54:16,990] {processor.py:153} INFO - Started process (PID=75052) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:54:16,996] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:54:16,997] {logging_mixin.py:115} INFO - [2023-02-22 00:54:16,997] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:54:17,019] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:54:17,049] {logging_mixin.py:115} INFO - [2023-02-22 00:54:17,049] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:54:17,089] {logging_mixin.py:115} INFO - [2023-02-22 00:54:17,089] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:54:17,128] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.144 seconds
+[2023-02-22 00:54:47,671] {processor.py:153} INFO - Started process (PID=75155) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:54:47,671] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:54:47,672] {logging_mixin.py:115} INFO - [2023-02-22 00:54:47,672] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:54:47,694] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:54:47,726] {logging_mixin.py:115} INFO - [2023-02-22 00:54:47,726] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:54:47,763] {logging_mixin.py:115} INFO - [2023-02-22 00:54:47,763] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:54:49,606] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 1.942 seconds
+[2023-02-22 00:55:21,623] {processor.py:153} INFO - Started process (PID=75268) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:55:21,635] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:55:21,637] {logging_mixin.py:115} INFO - [2023-02-22 00:55:21,637] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:55:21,665] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:55:21,709] {logging_mixin.py:115} INFO - [2023-02-22 00:55:21,709] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:55:21,793] {logging_mixin.py:115} INFO - [2023-02-22 00:55:21,793] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:55:22,034] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.426 seconds
+[2023-02-22 00:55:53,438] {processor.py:153} INFO - Started process (PID=75401) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:55:53,439] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:55:53,440] {logging_mixin.py:115} INFO - [2023-02-22 00:55:53,440] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:55:53,462] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:55:53,492] {logging_mixin.py:115} INFO - [2023-02-22 00:55:53,491] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:55:53,531] {logging_mixin.py:115} INFO - [2023-02-22 00:55:53,531] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:55:53,554] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.122 seconds
+[2023-02-22 00:56:25,703] {processor.py:153} INFO - Started process (PID=75628) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:56:25,705] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:56:25,706] {logging_mixin.py:115} INFO - [2023-02-22 00:56:25,705] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:56:25,728] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:56:25,757] {logging_mixin.py:115} INFO - [2023-02-22 00:56:25,757] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:56:25,796] {logging_mixin.py:115} INFO - [2023-02-22 00:56:25,796] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:56:26,008] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.311 seconds
+[2023-02-22 00:56:56,494] {processor.py:153} INFO - Started process (PID=75808) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:56:56,495] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:56:56,496] {logging_mixin.py:115} INFO - [2023-02-22 00:56:56,496] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:56:56,518] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:56:56,548] {logging_mixin.py:115} INFO - [2023-02-22 00:56:56,548] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:56:56,591] {logging_mixin.py:115} INFO - [2023-02-22 00:56:56,591] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:56:56,614] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.126 seconds
+[2023-02-22 00:57:27,195] {processor.py:153} INFO - Started process (PID=75868) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:57:27,210] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:57:27,211] {logging_mixin.py:115} INFO - [2023-02-22 00:57:27,211] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:57:27,273] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:57:27,441] {logging_mixin.py:115} INFO - [2023-02-22 00:57:27,439] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:57:27,534] {logging_mixin.py:115} INFO - [2023-02-22 00:57:27,534] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:57:27,609] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.429 seconds
+[2023-02-22 00:57:57,930] {processor.py:153} INFO - Started process (PID=76071) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:57:57,931] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:57:57,932] {logging_mixin.py:115} INFO - [2023-02-22 00:57:57,931] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:57:57,955] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:57:57,990] {logging_mixin.py:115} INFO - [2023-02-22 00:57:57,989] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:57:58,061] {logging_mixin.py:115} INFO - [2023-02-22 00:57:58,060] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:57:58,088] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.164 seconds
+[2023-02-22 00:58:28,558] {processor.py:153} INFO - Started process (PID=76149) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:58:28,560] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:58:28,561] {logging_mixin.py:115} INFO - [2023-02-22 00:58:28,561] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:58:28,583] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:58:28,612] {logging_mixin.py:115} INFO - [2023-02-22 00:58:28,612] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:58:28,656] {logging_mixin.py:115} INFO - [2023-02-22 00:58:28,655] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:58:28,685] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.135 seconds
+[2023-02-22 00:58:59,013] {processor.py:153} INFO - Started process (PID=76236) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:58:59,014] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:58:59,016] {logging_mixin.py:115} INFO - [2023-02-22 00:58:59,015] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:58:59,038] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:58:59,071] {logging_mixin.py:115} INFO - [2023-02-22 00:58:59,071] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:58:59,110] {logging_mixin.py:115} INFO - [2023-02-22 00:58:59,110] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:58:59,133] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.126 seconds
+[2023-02-22 00:59:29,358] {processor.py:153} INFO - Started process (PID=76296) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:59:29,361] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 00:59:29,362] {logging_mixin.py:115} INFO - [2023-02-22 00:59:29,362] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:59:29,385] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 00:59:29,418] {logging_mixin.py:115} INFO - [2023-02-22 00:59:29,418] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 00:59:29,455] {logging_mixin.py:115} INFO - [2023-02-22 00:59:29,455] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 00:59:29,481] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.136 seconds
+[2023-02-22 01:00:00,059] {processor.py:153} INFO - Started process (PID=76355) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:00:00,060] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:00:00,061] {logging_mixin.py:115} INFO - [2023-02-22 01:00:00,061] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:00:00,092] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:00:00,122] {logging_mixin.py:115} INFO - [2023-02-22 01:00:00,122] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:00:00,160] {logging_mixin.py:115} INFO - [2023-02-22 01:00:00,160] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:00:00,200] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.156 seconds
+[2023-02-22 01:00:30,859] {processor.py:153} INFO - Started process (PID=76463) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:00:30,861] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:00:30,862] {logging_mixin.py:115} INFO - [2023-02-22 01:00:30,862] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:00:30,883] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:00:30,913] {logging_mixin.py:115} INFO - [2023-02-22 01:00:30,913] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:00:30,955] {logging_mixin.py:115} INFO - [2023-02-22 01:00:30,955] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:00:30,985] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.132 seconds
+[2023-02-22 01:01:03,372] {processor.py:153} INFO - Started process (PID=76522) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:01:03,373] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:01:03,374] {logging_mixin.py:115} INFO - [2023-02-22 01:01:03,374] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:01:03,393] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:01:03,423] {logging_mixin.py:115} INFO - [2023-02-22 01:01:03,423] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:01:03,458] {logging_mixin.py:115} INFO - [2023-02-22 01:01:03,458] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:01:03,479] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.112 seconds
+[2023-02-22 01:01:34,326] {processor.py:153} INFO - Started process (PID=76588) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:01:34,328] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:01:34,329] {logging_mixin.py:115} INFO - [2023-02-22 01:01:34,329] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:01:34,356] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:01:34,402] {logging_mixin.py:115} INFO - [2023-02-22 01:01:34,401] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:01:34,470] {logging_mixin.py:115} INFO - [2023-02-22 01:01:34,470] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:01:34,519] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.199 seconds
+[2023-02-22 01:02:14,048] {processor.py:153} INFO - Started process (PID=76683) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:02:14,051] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:02:14,052] {logging_mixin.py:115} INFO - [2023-02-22 01:02:14,051] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:02:14,073] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:02:14,107] {logging_mixin.py:115} INFO - [2023-02-22 01:02:14,106] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:02:14,145] {logging_mixin.py:115} INFO - [2023-02-22 01:02:14,145] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:02:14,168] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.126 seconds
+[2023-02-22 01:02:45,502] {processor.py:153} INFO - Started process (PID=76751) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:02:45,504] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:02:45,505] {logging_mixin.py:115} INFO - [2023-02-22 01:02:45,505] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:02:45,527] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:02:45,562] {logging_mixin.py:115} INFO - [2023-02-22 01:02:45,562] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:02:45,597] {logging_mixin.py:115} INFO - [2023-02-22 01:02:45,597] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:02:45,619] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.122 seconds
+[2023-02-22 01:03:19,233] {processor.py:153} INFO - Started process (PID=76810) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:03:19,233] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:03:19,234] {logging_mixin.py:115} INFO - [2023-02-22 01:03:19,234] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:03:19,255] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:03:19,287] {logging_mixin.py:115} INFO - [2023-02-22 01:03:19,286] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:03:19,322] {logging_mixin.py:115} INFO - [2023-02-22 01:03:19,322] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:03:21,984] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 2.757 seconds
+[2023-02-22 01:04:00,785] {processor.py:153} INFO - Started process (PID=76888) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:04:00,812] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:04:00,813] {logging_mixin.py:115} INFO - [2023-02-22 01:04:00,813] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:04:00,835] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:04:00,864] {logging_mixin.py:115} INFO - [2023-02-22 01:04:00,863] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:04:00,901] {logging_mixin.py:115} INFO - [2023-02-22 01:04:00,900] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:04:03,735] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 2.956 seconds
+[2023-02-22 01:04:37,411] {processor.py:153} INFO - Started process (PID=76982) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:04:37,413] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:04:37,414] {logging_mixin.py:115} INFO - [2023-02-22 01:04:37,414] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:04:37,435] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:04:37,466] {logging_mixin.py:115} INFO - [2023-02-22 01:04:37,466] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:04:37,503] {logging_mixin.py:115} INFO - [2023-02-22 01:04:37,503] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:04:37,527] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.123 seconds
+[2023-02-22 01:05:08,126] {processor.py:153} INFO - Started process (PID=77190) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:05:08,127] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:05:08,128] {logging_mixin.py:115} INFO - [2023-02-22 01:05:08,128] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:05:08,150] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:05:08,184] {logging_mixin.py:115} INFO - [2023-02-22 01:05:08,183] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:05:08,247] {logging_mixin.py:115} INFO - [2023-02-22 01:05:08,247] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:05:08,281] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.162 seconds
+[2023-02-22 01:05:42,757] {processor.py:153} INFO - Started process (PID=77426) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:05:42,759] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:05:42,761] {logging_mixin.py:115} INFO - [2023-02-22 01:05:42,760] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:05:42,782] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:05:42,814] {logging_mixin.py:115} INFO - [2023-02-22 01:05:42,814] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:05:42,857] {logging_mixin.py:115} INFO - [2023-02-22 01:05:42,857] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:05:42,879] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.129 seconds
+[2023-02-22 01:06:16,273] {processor.py:153} INFO - Started process (PID=77612) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:06:16,275] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:06:16,279] {logging_mixin.py:115} INFO - [2023-02-22 01:06:16,278] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:06:16,305] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:06:16,339] {logging_mixin.py:115} INFO - [2023-02-22 01:06:16,339] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:06:16,376] {logging_mixin.py:115} INFO - [2023-02-22 01:06:16,375] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:06:16,399] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.134 seconds
+[2023-02-22 01:06:47,409] {processor.py:153} INFO - Started process (PID=77683) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:06:47,410] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:06:47,411] {logging_mixin.py:115} INFO - [2023-02-22 01:06:47,411] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:06:47,432] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:06:47,462] {logging_mixin.py:115} INFO - [2023-02-22 01:06:47,461] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:06:47,496] {logging_mixin.py:115} INFO - [2023-02-22 01:06:47,495] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:06:47,517] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.114 seconds
+[2023-02-22 01:07:28,145] {processor.py:153} INFO - Started process (PID=77777) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:07:28,147] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:07:28,148] {logging_mixin.py:115} INFO - [2023-02-22 01:07:28,148] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:07:28,169] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:07:28,200] {logging_mixin.py:115} INFO - [2023-02-22 01:07:28,200] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:07:28,238] {logging_mixin.py:115} INFO - [2023-02-22 01:07:28,238] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:07:28,288] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.149 seconds
+[2023-02-22 01:07:58,947] {processor.py:153} INFO - Started process (PID=77845) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:07:58,948] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:07:58,951] {logging_mixin.py:115} INFO - [2023-02-22 01:07:58,951] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:07:58,974] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:07:59,004] {logging_mixin.py:115} INFO - [2023-02-22 01:07:59,004] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:07:59,040] {logging_mixin.py:115} INFO - [2023-02-22 01:07:59,039] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:07:59,061] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.120 seconds
+[2023-02-22 01:08:29,530] {processor.py:153} INFO - Started process (PID=77905) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:08:29,532] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:08:29,534] {logging_mixin.py:115} INFO - [2023-02-22 01:08:29,533] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:08:29,555] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:08:29,585] {logging_mixin.py:115} INFO - [2023-02-22 01:08:29,585] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:08:29,624] {logging_mixin.py:115} INFO - [2023-02-22 01:08:29,624] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:08:29,645] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.121 seconds
+[2023-02-22 01:08:59,822] {processor.py:153} INFO - Started process (PID=77966) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:08:59,824] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:08:59,825] {logging_mixin.py:115} INFO - [2023-02-22 01:08:59,824] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:08:59,848] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:08:59,888] {logging_mixin.py:115} INFO - [2023-02-22 01:08:59,888] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:08:59,962] {logging_mixin.py:115} INFO - [2023-02-22 01:08:59,961] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:08:59,995] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.180 seconds
+[2023-02-22 01:09:30,116] {processor.py:153} INFO - Started process (PID=78034) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:09:30,118] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:09:30,119] {logging_mixin.py:115} INFO - [2023-02-22 01:09:30,119] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:09:30,141] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:09:30,170] {logging_mixin.py:115} INFO - [2023-02-22 01:09:30,170] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:09:30,207] {logging_mixin.py:115} INFO - [2023-02-22 01:09:30,207] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:09:30,229] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.119 seconds
+[2023-02-22 01:10:00,626] {processor.py:153} INFO - Started process (PID=78122) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:10:00,627] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:10:00,629] {logging_mixin.py:115} INFO - [2023-02-22 01:10:00,628] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:10:00,654] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:10:00,695] {logging_mixin.py:115} INFO - [2023-02-22 01:10:00,695] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:10:00,743] {logging_mixin.py:115} INFO - [2023-02-22 01:10:00,743] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:10:00,784] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.164 seconds
+[2023-02-22 01:10:35,985] {processor.py:153} INFO - Started process (PID=78314) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:10:35,988] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:10:35,989] {logging_mixin.py:115} INFO - [2023-02-22 01:10:35,988] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:10:36,009] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:10:36,037] {logging_mixin.py:115} INFO - [2023-02-22 01:10:36,037] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:10:36,073] {logging_mixin.py:115} INFO - [2023-02-22 01:10:36,073] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:10:36,095] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.116 seconds
+[2023-02-22 01:11:10,303] {processor.py:153} INFO - Started process (PID=78379) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:11:10,305] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:11:10,306] {logging_mixin.py:115} INFO - [2023-02-22 01:11:10,306] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:11:10,327] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:11:10,357] {logging_mixin.py:115} INFO - [2023-02-22 01:11:10,357] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:11:10,402] {logging_mixin.py:115} INFO - [2023-02-22 01:11:10,402] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:11:10,426] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.132 seconds
+[2023-02-22 01:11:40,683] {processor.py:153} INFO - Started process (PID=78467) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:11:40,684] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:11:40,685] {logging_mixin.py:115} INFO - [2023-02-22 01:11:40,685] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:11:40,707] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:11:40,737] {logging_mixin.py:115} INFO - [2023-02-22 01:11:40,737] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:11:40,776] {logging_mixin.py:115} INFO - [2023-02-22 01:11:40,776] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:11:42,606] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 1.929 seconds
+[2023-02-22 01:12:19,422] {processor.py:153} INFO - Started process (PID=78543) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:12:19,436] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:12:19,437] {logging_mixin.py:115} INFO - [2023-02-22 01:12:19,437] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:12:19,500] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:12:19,601] {logging_mixin.py:115} INFO - [2023-02-22 01:12:19,601] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:12:19,669] {logging_mixin.py:115} INFO - [2023-02-22 01:12:19,669] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:12:20,193] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.787 seconds
+[2023-02-22 01:12:50,528] {processor.py:153} INFO - Started process (PID=78611) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:12:50,529] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:12:50,530] {logging_mixin.py:115} INFO - [2023-02-22 01:12:50,530] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:12:50,557] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:12:50,591] {logging_mixin.py:115} INFO - [2023-02-22 01:12:50,591] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:12:50,625] {logging_mixin.py:115} INFO - [2023-02-22 01:12:50,625] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:12:51,180] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.660 seconds
+[2023-02-22 01:13:21,938] {processor.py:153} INFO - Started process (PID=78688) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:13:21,940] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:13:21,941] {logging_mixin.py:115} INFO - [2023-02-22 01:13:21,941] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:13:21,965] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:13:22,007] {logging_mixin.py:115} INFO - [2023-02-22 01:13:22,007] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:13:22,046] {logging_mixin.py:115} INFO - [2023-02-22 01:13:22,045] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:13:22,071] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.140 seconds
+[2023-02-22 01:13:53,475] {processor.py:153} INFO - Started process (PID=78759) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:13:53,476] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:13:53,477] {logging_mixin.py:115} INFO - [2023-02-22 01:13:53,477] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:13:53,498] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:13:53,527] {logging_mixin.py:115} INFO - [2023-02-22 01:13:53,527] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:13:53,564] {logging_mixin.py:115} INFO - [2023-02-22 01:13:53,563] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:13:53,586] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.117 seconds
+[2023-02-22 01:14:24,008] {processor.py:153} INFO - Started process (PID=78818) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:14:24,010] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:14:24,011] {logging_mixin.py:115} INFO - [2023-02-22 01:14:24,011] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:14:24,033] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:14:24,065] {logging_mixin.py:115} INFO - [2023-02-22 01:14:24,065] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:14:24,101] {logging_mixin.py:115} INFO - [2023-02-22 01:14:24,101] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:14:24,124] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.123 seconds
+[2023-02-22 01:14:54,920] {processor.py:153} INFO - Started process (PID=78886) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:14:54,921] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:14:54,922] {logging_mixin.py:115} INFO - [2023-02-22 01:14:54,922] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:14:54,962] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:14:55,016] {logging_mixin.py:115} INFO - [2023-02-22 01:14:55,015] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:14:55,072] {logging_mixin.py:115} INFO - [2023-02-22 01:14:55,071] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:14:55,119] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.213 seconds
+[2023-02-22 01:15:25,418] {processor.py:153} INFO - Started process (PID=78948) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:15:25,419] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:15:25,420] {logging_mixin.py:115} INFO - [2023-02-22 01:15:25,420] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:15:25,440] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:15:25,469] {logging_mixin.py:115} INFO - [2023-02-22 01:15:25,468] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:15:25,504] {logging_mixin.py:115} INFO - [2023-02-22 01:15:25,504] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:15:25,532] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.121 seconds
+[2023-02-22 01:15:55,918] {processor.py:153} INFO - Started process (PID=79014) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:15:55,920] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:15:55,921] {logging_mixin.py:115} INFO - [2023-02-22 01:15:55,920] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:15:55,941] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:15:55,971] {logging_mixin.py:115} INFO - [2023-02-22 01:15:55,971] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:15:56,009] {logging_mixin.py:115} INFO - [2023-02-22 01:15:56,009] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:15:56,032] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.119 seconds
+[2023-02-22 01:16:27,663] {processor.py:153} INFO - Started process (PID=79074) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:16:27,664] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:16:27,666] {logging_mixin.py:115} INFO - [2023-02-22 01:16:27,666] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:16:27,688] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:16:27,716] {logging_mixin.py:115} INFO - [2023-02-22 01:16:27,715] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:16:27,761] {logging_mixin.py:115} INFO - [2023-02-22 01:16:27,760] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:16:27,782] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.126 seconds
+[2023-02-22 01:16:58,163] {processor.py:153} INFO - Started process (PID=79139) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:16:58,165] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:16:58,166] {logging_mixin.py:115} INFO - [2023-02-22 01:16:58,166] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:16:58,186] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:16:58,215] {logging_mixin.py:115} INFO - [2023-02-22 01:16:58,215] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:16:58,253] {logging_mixin.py:115} INFO - [2023-02-22 01:16:58,252] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:16:58,275] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.118 seconds
+[2023-02-22 01:17:28,475] {processor.py:153} INFO - Started process (PID=79202) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:17:28,476] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:17:28,477] {logging_mixin.py:115} INFO - [2023-02-22 01:17:28,477] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:17:28,496] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:17:28,526] {logging_mixin.py:115} INFO - [2023-02-22 01:17:28,525] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:17:28,564] {logging_mixin.py:115} INFO - [2023-02-22 01:17:28,563] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:17:28,585] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.116 seconds
+[2023-02-22 01:17:59,677] {processor.py:153} INFO - Started process (PID=79267) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:17:59,679] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:17:59,681] {logging_mixin.py:115} INFO - [2023-02-22 01:17:59,681] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:17:59,718] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:17:59,748] {logging_mixin.py:115} INFO - [2023-02-22 01:17:59,748] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:17:59,797] {logging_mixin.py:115} INFO - [2023-02-22 01:17:59,797] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:17:59,873] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.202 seconds
+[2023-02-22 01:18:30,508] {processor.py:153} INFO - Started process (PID=79327) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:18:30,509] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:18:30,511] {logging_mixin.py:115} INFO - [2023-02-22 01:18:30,510] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:18:30,531] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:18:30,563] {logging_mixin.py:115} INFO - [2023-02-22 01:18:30,563] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:18:30,600] {logging_mixin.py:115} INFO - [2023-02-22 01:18:30,600] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:18:30,621] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.120 seconds
+[2023-02-22 01:19:02,186] {processor.py:153} INFO - Started process (PID=79388) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:19:02,229] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:19:02,230] {logging_mixin.py:115} INFO - [2023-02-22 01:19:02,230] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:19:02,296] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:19:02,556] {logging_mixin.py:115} INFO - [2023-02-22 01:19:02,555] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:19:02,645] {logging_mixin.py:115} INFO - [2023-02-22 01:19:02,645] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:19:02,702] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.531 seconds
+[2023-02-22 01:19:35,139] {processor.py:153} INFO - Started process (PID=79451) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:19:35,142] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:19:35,143] {logging_mixin.py:115} INFO - [2023-02-22 01:19:35,142] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:19:35,163] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:19:35,192] {logging_mixin.py:115} INFO - [2023-02-22 01:19:35,192] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:19:35,230] {logging_mixin.py:115} INFO - [2023-02-22 01:19:35,230] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:19:35,252] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.118 seconds
+[2023-02-22 01:20:05,637] {processor.py:153} INFO - Started process (PID=79511) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:20:05,638] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:20:05,639] {logging_mixin.py:115} INFO - [2023-02-22 01:20:05,639] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:20:05,663] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:20:05,693] {logging_mixin.py:115} INFO - [2023-02-22 01:20:05,693] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:20:05,746] {logging_mixin.py:115} INFO - [2023-02-22 01:20:05,745] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:20:05,774] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.143 seconds
+[2023-02-22 01:20:36,475] {processor.py:153} INFO - Started process (PID=79577) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:20:36,479] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:20:36,480] {logging_mixin.py:115} INFO - [2023-02-22 01:20:36,480] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:20:36,506] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:20:36,536] {logging_mixin.py:115} INFO - [2023-02-22 01:20:36,535] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:20:36,575] {logging_mixin.py:115} INFO - [2023-02-22 01:20:36,574] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:20:36,596] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.127 seconds
+[2023-02-22 01:21:10,131] {processor.py:153} INFO - Started process (PID=79642) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:21:10,134] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:21:10,135] {logging_mixin.py:115} INFO - [2023-02-22 01:21:10,135] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:21:10,156] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:21:10,186] {logging_mixin.py:115} INFO - [2023-02-22 01:21:10,186] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:21:10,220] {logging_mixin.py:115} INFO - [2023-02-22 01:21:10,220] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:21:10,248] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.123 seconds
+[2023-02-22 01:21:40,668] {processor.py:153} INFO - Started process (PID=79702) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:21:40,669] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:21:40,670] {logging_mixin.py:115} INFO - [2023-02-22 01:21:40,669] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:21:40,694] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:21:40,732] {logging_mixin.py:115} INFO - [2023-02-22 01:21:40,732] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:21:40,784] {logging_mixin.py:115} INFO - [2023-02-22 01:21:40,783] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:21:40,818] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.163 seconds
+[2023-02-22 01:22:13,576] {processor.py:153} INFO - Started process (PID=79766) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:22:13,587] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:22:13,588] {logging_mixin.py:115} INFO - [2023-02-22 01:22:13,588] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:22:13,631] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:22:13,671] {logging_mixin.py:115} INFO - [2023-02-22 01:22:13,671] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:22:13,731] {logging_mixin.py:115} INFO - [2023-02-22 01:22:13,730] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:22:16,539] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 2.977 seconds
+[2023-02-22 01:22:46,862] {processor.py:153} INFO - Started process (PID=79833) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:22:46,942] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:22:46,944] {logging_mixin.py:115} INFO - [2023-02-22 01:22:46,943] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:22:46,968] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:22:46,998] {logging_mixin.py:115} INFO - [2023-02-22 01:22:46,997] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:22:47,041] {logging_mixin.py:115} INFO - [2023-02-22 01:22:47,041] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:22:49,379] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 2.522 seconds
+[2023-02-22 01:23:19,890] {processor.py:153} INFO - Started process (PID=79892) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:23:19,925] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:23:19,926] {logging_mixin.py:115} INFO - [2023-02-22 01:23:19,926] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:23:19,953] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:23:19,991] {logging_mixin.py:115} INFO - [2023-02-22 01:23:19,990] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:23:20,037] {logging_mixin.py:115} INFO - [2023-02-22 01:23:20,037] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:23:22,021] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 2.136 seconds
+[2023-02-22 01:23:52,520] {processor.py:153} INFO - Started process (PID=79958) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:23:52,530] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:23:52,532] {logging_mixin.py:115} INFO - [2023-02-22 01:23:52,531] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:23:52,571] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:23:52,628] {logging_mixin.py:115} INFO - [2023-02-22 01:23:52,628] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:23:52,694] {logging_mixin.py:115} INFO - [2023-02-22 01:23:52,693] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:23:52,738] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.224 seconds
+[2023-02-22 01:24:24,114] {processor.py:153} INFO - Started process (PID=80016) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:24:24,116] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:24:24,117] {logging_mixin.py:115} INFO - [2023-02-22 01:24:24,117] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:24:24,138] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:24:24,172] {logging_mixin.py:115} INFO - [2023-02-22 01:24:24,172] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:24:24,213] {logging_mixin.py:115} INFO - [2023-02-22 01:24:24,213] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:24:24,798] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.691 seconds
+[2023-02-22 01:24:55,843] {processor.py:153} INFO - Started process (PID=80082) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:24:55,845] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:24:55,847] {logging_mixin.py:115} INFO - [2023-02-22 01:24:55,847] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:24:55,871] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:24:55,904] {logging_mixin.py:115} INFO - [2023-02-22 01:24:55,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:24:55,944] {logging_mixin.py:115} INFO - [2023-02-22 01:24:55,943] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:24:55,990] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.152 seconds
+[2023-02-22 01:25:29,000] {processor.py:153} INFO - Started process (PID=80151) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:25:29,001] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:25:29,002] {logging_mixin.py:115} INFO - [2023-02-22 01:25:29,002] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:25:29,024] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:25:29,057] {logging_mixin.py:115} INFO - [2023-02-22 01:25:29,056] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:25:29,099] {logging_mixin.py:115} INFO - [2023-02-22 01:25:29,099] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:25:30,182] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 1.188 seconds
+[2023-02-22 01:26:01,027] {processor.py:153} INFO - Started process (PID=80210) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:26:01,029] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:26:01,030] {logging_mixin.py:115} INFO - [2023-02-22 01:26:01,030] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:26:01,080] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:26:01,152] {logging_mixin.py:115} INFO - [2023-02-22 01:26:01,152] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:26:01,233] {logging_mixin.py:115} INFO - [2023-02-22 01:26:01,233] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:26:01,292] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.279 seconds
+[2023-02-22 01:26:32,414] {processor.py:153} INFO - Started process (PID=80270) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:26:32,416] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:26:32,417] {logging_mixin.py:115} INFO - [2023-02-22 01:26:32,417] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:26:32,441] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:26:32,479] {logging_mixin.py:115} INFO - [2023-02-22 01:26:32,479] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:26:32,530] {logging_mixin.py:115} INFO - [2023-02-22 01:26:32,529] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:26:32,565] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.157 seconds
+[2023-02-22 01:27:02,857] {processor.py:153} INFO - Started process (PID=80329) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:27:02,858] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:27:02,859] {logging_mixin.py:115} INFO - [2023-02-22 01:27:02,859] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:27:02,879] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:27:02,909] {logging_mixin.py:115} INFO - [2023-02-22 01:27:02,909] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:27:02,943] {logging_mixin.py:115} INFO - [2023-02-22 01:27:02,943] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:27:02,970] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.119 seconds
+[2023-02-22 01:27:34,146] {processor.py:153} INFO - Started process (PID=80389) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:27:34,150] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:27:34,151] {logging_mixin.py:115} INFO - [2023-02-22 01:27:34,150] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:27:34,175] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:27:34,206] {logging_mixin.py:115} INFO - [2023-02-22 01:27:34,205] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:27:34,253] {logging_mixin.py:115} INFO - [2023-02-22 01:27:34,253] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:27:34,278] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.142 seconds
+[2023-02-22 01:28:04,898] {processor.py:153} INFO - Started process (PID=80448) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:28:04,899] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:28:04,900] {logging_mixin.py:115} INFO - [2023-02-22 01:28:04,900] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:28:04,949] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:28:05,009] {logging_mixin.py:115} INFO - [2023-02-22 01:28:05,004] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:28:05,084] {logging_mixin.py:115} INFO - [2023-02-22 01:28:05,083] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:28:05,124] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.239 seconds
+[2023-02-22 01:28:35,433] {processor.py:153} INFO - Started process (PID=80508) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:28:35,435] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:28:35,436] {logging_mixin.py:115} INFO - [2023-02-22 01:28:35,436] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:28:35,464] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:28:35,495] {logging_mixin.py:115} INFO - [2023-02-22 01:28:35,495] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:28:35,532] {logging_mixin.py:115} INFO - [2023-02-22 01:28:35,532] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:28:35,555] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.128 seconds
+[2023-02-22 01:29:06,352] {processor.py:153} INFO - Started process (PID=80567) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:29:06,353] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:29:06,354] {logging_mixin.py:115} INFO - [2023-02-22 01:29:06,354] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:29:06,377] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:29:06,411] {logging_mixin.py:115} INFO - [2023-02-22 01:29:06,411] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:29:06,455] {logging_mixin.py:115} INFO - [2023-02-22 01:29:06,454] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:29:06,481] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.135 seconds
+[2023-02-22 01:29:37,121] {processor.py:153} INFO - Started process (PID=80658) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:29:37,122] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:29:37,123] {logging_mixin.py:115} INFO - [2023-02-22 01:29:37,123] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:29:37,144] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:29:37,176] {logging_mixin.py:115} INFO - [2023-02-22 01:29:37,176] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:29:37,215] {logging_mixin.py:115} INFO - [2023-02-22 01:29:37,215] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:29:37,237] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.129 seconds
+[2023-02-22 01:30:07,753] {processor.py:153} INFO - Started process (PID=80789) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:30:07,755] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:30:07,773] {logging_mixin.py:115} INFO - [2023-02-22 01:30:07,773] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:30:07,795] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:30:07,840] {logging_mixin.py:115} INFO - [2023-02-22 01:30:07,839] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:30:07,888] {logging_mixin.py:115} INFO - [2023-02-22 01:30:07,888] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:30:07,922] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.215 seconds
+[2023-02-22 01:30:39,899] {processor.py:153} INFO - Started process (PID=80972) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:30:39,902] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:30:39,903] {logging_mixin.py:115} INFO - [2023-02-22 01:30:39,903] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:30:39,925] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:30:39,959] {logging_mixin.py:115} INFO - [2023-02-22 01:30:39,959] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:30:39,998] {logging_mixin.py:115} INFO - [2023-02-22 01:30:39,998] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:30:40,034] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.140 seconds
+[2023-02-22 01:31:10,800] {processor.py:153} INFO - Started process (PID=81175) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:31:10,801] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:31:10,802] {logging_mixin.py:115} INFO - [2023-02-22 01:31:10,801] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:31:10,822] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:31:10,852] {logging_mixin.py:115} INFO - [2023-02-22 01:31:10,851] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:31:10,886] {logging_mixin.py:115} INFO - [2023-02-22 01:31:10,886] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:31:10,938] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.144 seconds
+[2023-02-22 01:31:49,627] {processor.py:153} INFO - Started process (PID=81367) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:31:49,629] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:31:49,630] {logging_mixin.py:115} INFO - [2023-02-22 01:31:49,630] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:31:49,652] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:31:49,689] {logging_mixin.py:115} INFO - [2023-02-22 01:31:49,689] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:31:49,732] {logging_mixin.py:115} INFO - [2023-02-22 01:31:49,732] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:31:49,756] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.135 seconds
+[2023-02-22 01:32:24,854] {processor.py:153} INFO - Started process (PID=81456) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:32:24,856] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:32:24,857] {logging_mixin.py:115} INFO - [2023-02-22 01:32:24,856] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:32:24,878] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:32:24,909] {logging_mixin.py:115} INFO - [2023-02-22 01:32:24,909] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:32:24,944] {logging_mixin.py:115} INFO - [2023-02-22 01:32:24,943] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:32:24,987] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.144 seconds
+[2023-02-22 01:32:57,988] {processor.py:153} INFO - Started process (PID=81523) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:32:57,989] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:32:57,990] {logging_mixin.py:115} INFO - [2023-02-22 01:32:57,990] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:32:58,010] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:32:58,039] {logging_mixin.py:115} INFO - [2023-02-22 01:32:58,039] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:32:58,076] {logging_mixin.py:115} INFO - [2023-02-22 01:32:58,076] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:32:58,098] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.116 seconds
+[2023-02-22 01:33:31,320] {processor.py:153} INFO - Started process (PID=81589) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:33:31,441] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:33:31,442] {logging_mixin.py:115} INFO - [2023-02-22 01:33:31,442] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:33:31,468] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:33:31,502] {logging_mixin.py:115} INFO - [2023-02-22 01:33:31,501] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:33:31,548] {logging_mixin.py:115} INFO - [2023-02-22 01:33:31,548] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:33:31,683] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.369 seconds
+[2023-02-22 01:34:02,667] {processor.py:153} INFO - Started process (PID=81654) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:34:02,668] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:34:02,669] {logging_mixin.py:115} INFO - [2023-02-22 01:34:02,668] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:34:02,689] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:34:02,717] {logging_mixin.py:115} INFO - [2023-02-22 01:34:02,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:34:02,751] {logging_mixin.py:115} INFO - [2023-02-22 01:34:02,750] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:34:02,773] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.114 seconds
+[2023-02-22 01:34:36,764] {processor.py:153} INFO - Started process (PID=81725) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:34:36,768] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:34:36,769] {logging_mixin.py:115} INFO - [2023-02-22 01:34:36,769] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:34:36,792] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:34:36,831] {logging_mixin.py:115} INFO - [2023-02-22 01:34:36,831] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:34:36,882] {logging_mixin.py:115} INFO - [2023-02-22 01:34:36,882] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:34:37,627] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.872 seconds
+[2023-02-22 01:35:08,530] {processor.py:153} INFO - Started process (PID=81944) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:35:08,531] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:35:08,532] {logging_mixin.py:115} INFO - [2023-02-22 01:35:08,532] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:35:08,553] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:35:08,593] {logging_mixin.py:115} INFO - [2023-02-22 01:35:08,592] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:35:08,639] {logging_mixin.py:115} INFO - [2023-02-22 01:35:08,639] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:35:08,669] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.148 seconds
+[2023-02-22 01:35:39,188] {processor.py:153} INFO - Started process (PID=82149) to work on /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:35:39,190] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py for tasks to queue
+[2023-02-22 01:35:39,192] {logging_mixin.py:115} INFO - [2023-02-22 01:35:39,191] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:35:39,212] {processor.py:651} INFO - DAG(s) dict_keys(['09_Xcoms']) retrieved from /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py
+[2023-02-22 01:35:39,241] {logging_mixin.py:115} INFO - [2023-02-22 01:35:39,241] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-22 01:35:39,280] {logging_mixin.py:115} INFO - [2023-02-22 01:35:39,280] {dag.py:2968} INFO - Setting next_dagrun for 09_Xcoms to 2023-02-08T00:00:00+00:00, run_after=2023-02-09T00:00:00+00:00
+[2023-02-22 01:35:39,306] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/09_xcoms copy.py took 0.123 seconds
