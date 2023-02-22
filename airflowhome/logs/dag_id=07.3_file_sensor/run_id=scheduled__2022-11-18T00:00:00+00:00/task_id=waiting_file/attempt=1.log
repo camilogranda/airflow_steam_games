@@ -1,0 +1,26 @@
+[2023-02-07 19:48:15,307] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.3_file_sensor.waiting_file scheduled__2022-11-18T00:00:00+00:00 [queued]>
+[2023-02-07 19:48:15,319] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.3_file_sensor.waiting_file scheduled__2022-11-18T00:00:00+00:00 [queued]>
+[2023-02-07 19:48:15,319] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:48:15,319] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-07 19:48:15,319] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:48:15,341] {taskinstance.py:1397} INFO - Executing <Task(FileSensor): waiting_file> on 2022-11-18 00:00:00+00:00
+[2023-02-07 19:48:15,345] {standard_task_runner.py:52} INFO - Started process 42930 to run task
+[2023-02-07 19:48:15,351] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '07.3_file_sensor', 'waiting_file', 'scheduled__2022-11-18T00:00:00+00:00', '--job-id', '766', '--raw', '--subdir', 'DAGS_FOLDER/07.3_file_sensor.py', '--cfg-path', '/tmp/tmpmj684ref', '--error-file', '/tmp/tmp7fxnvsu8']
+[2023-02-07 19:48:15,353] {standard_task_runner.py:80} INFO - Job 766: Subtask waiting_file
+[2023-02-07 19:48:15,477] {task_command.py:371} INFO - Running <TaskInstance: 07.3_file_sensor.waiting_file scheduled__2022-11-18T00:00:00+00:00 [running]> on host pc.
+[2023-02-07 19:48:15,649] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=07.3_file_sensor
+AIRFLOW_CTX_TASK_ID=waiting_file
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-18T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-18T00:00:00+00:00
+[2023-02-07 19:48:15,663] {base.py:68} INFO - Using connection ID 'fs_default' for task execution.
+[2023-02-07 19:48:15,663] {filesystem.py:58} INFO - Poking for file /tmp/file.txt
+[2023-02-07 19:48:15,664] {filesystem.py:63} INFO - Found File /tmp/file.txt last modified: 20230207194813
+[2023-02-07 19:48:15,664] {base.py:301} INFO - Success criteria met. Exiting.
+[2023-02-07 19:48:15,679] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=07.3_file_sensor, task_id=waiting_file, execution_date=20221118T000000, start_date=20230208T004815, end_date=20230208T004815
+[2023-02-07 19:48:15,725] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-07 19:48:15,786] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

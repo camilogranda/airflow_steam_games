@@ -1,0 +1,35 @@
+[2023-02-21 06:05:16,840] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 06:05:16,854] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 06:05:16,855] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 06:05:16,855] {taskinstance.py:1377} INFO - Starting attempt 4 of 4
+[2023-02-21 06:05:16,855] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 06:05:16,881] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): save_data> on 2022-07-01 00:00:00+00:00
+[2023-02-21 06:05:16,885] {standard_task_runner.py:52} INFO - Started process 65482 to run task
+[2023-02-21 06:05:16,891] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'steam_dag', 'save_data', 'scheduled__2022-07-01T00:00:00+00:00', '--job-id', '1480', '--raw', '--subdir', 'DAGS_FOLDER/steam_dag.py', '--cfg-path', '/tmp/tmpswzmygum', '--error-file', '/tmp/tmpf8n0b632']
+[2023-02-21 06:05:16,892] {standard_task_runner.py:80} INFO - Job 1480: Subtask save_data
+[2023-02-21 06:05:16,971] {task_command.py:371} INFO - Running <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-21 06:05:17,182] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=steam_dag
+AIRFLOW_CTX_TASK_ID=save_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=4
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-01T00:00:00+00:00
+[2023-02-21 06:05:17,193] {logging_mixin.py:115} INFO - Saved as .JSON!
+[2023-02-21 06:05:17,200] {logging_mixin.py:115} INFO - Saved as .csv!
+[2023-02-21 06:05:17,201] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 06:05:17,201] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 36, in save_as_files
+    print(game['game'] + ' ' + [game['tags']])
+TypeError: can only concatenate str (not "list") to str
+[2023-02-21 06:05:17,206] {taskinstance.py:1415} INFO - Marking task as FAILED. dag_id=steam_dag, task_id=save_data, execution_date=20220701T000000, start_date=20230221T110516, end_date=20230221T110517
+[2023-02-21 06:05:17,285] {standard_task_runner.py:92} ERROR - Failed to execute job 1480 for task save_data (can only concatenate str (not "list") to str; 65482)
+[2023-02-21 06:05:17,304] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-02-21 06:05:17,352] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

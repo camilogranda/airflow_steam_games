@@ -1,0 +1,56 @@
+[2023-02-05 21:12:55,570] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 06_monitoring.task_1 scheduled__2022-11-18T00:00:00+00:00 [queued]>
+[2023-02-05 21:12:55,583] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 06_monitoring.task_1 scheduled__2022-11-18T00:00:00+00:00 [queued]>
+[2023-02-05 21:12:55,583] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-05 21:12:55,583] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-05 21:12:55,584] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-05 21:12:55,607] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task_1> on 2022-11-18 00:00:00+00:00
+[2023-02-05 21:12:55,611] {standard_task_runner.py:52} INFO - Started process 35148 to run task
+[2023-02-05 21:12:55,616] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '06_monitoring', 'task_1', 'scheduled__2022-11-18T00:00:00+00:00', '--job-id', '164', '--raw', '--subdir', 'DAGS_FOLDER/06_monitoring.py', '--cfg-path', '/tmp/tmpdhih9xi7', '--error-file', '/tmp/tmp7w4gby73']
+[2023-02-05 21:12:55,617] {standard_task_runner.py:80} INFO - Job 164: Subtask task_1
+[2023-02-05 21:12:55,702] {task_command.py:371} INFO - Running <TaskInstance: 06_monitoring.task_1 scheduled__2022-11-18T00:00:00+00:00 [running]> on host pc.
+[2023-02-05 21:12:55,791] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=06_monitoring
+AIRFLOW_CTX_TASK_ID=task_1
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-18T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-18T00:00:00+00:00
+[2023-02-05 21:12:55,792] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-05 21:12:55,793] {subprocess.py:74} INFO - Running command: ['bash', '-c', "sleep 2 && echo 'First task!'"]
+[2023-02-05 21:12:55,806] {subprocess.py:85} INFO - Output:
+[2023-02-05 21:12:57,804] {subprocess.py:92} INFO - First task!
+[2023-02-05 21:12:57,805] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-05 21:12:57,834] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=06_monitoring, task_id=task_1, execution_date=20221118T000000, start_date=20230206T021255, end_date=20230206T021257
+[2023-02-05 21:12:57,876] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-05 21:12:57,930] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2023-02-05 21:16:21,845] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 06_monitoring.task_1 scheduled__2022-11-18T00:00:00+00:00 [queued]>
+[2023-02-05 21:16:21,857] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 06_monitoring.task_1 scheduled__2022-11-18T00:00:00+00:00 [queued]>
+[2023-02-05 21:16:21,857] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-05 21:16:21,857] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-05 21:16:21,857] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-05 21:16:22,405] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task_1> on 2022-11-18 00:00:00+00:00
+[2023-02-05 21:16:22,408] {standard_task_runner.py:52} INFO - Started process 35365 to run task
+[2023-02-05 21:16:22,427] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '06_monitoring', 'task_1', 'scheduled__2022-11-18T00:00:00+00:00', '--job-id', '157', '--raw', '--subdir', 'DAGS_FOLDER/06_monitoring.py', '--cfg-path', '/tmp/tmpqsb6dsid', '--error-file', '/tmp/tmp4rf96y_3']
+[2023-02-05 21:16:22,429] {standard_task_runner.py:80} INFO - Job 157: Subtask task_1
+[2023-02-05 21:16:23,451] {task_command.py:371} INFO - Running <TaskInstance: 06_monitoring.task_1 scheduled__2022-11-18T00:00:00+00:00 [running]> on host pc.
+[2023-02-05 21:16:23,544] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=06_monitoring
+AIRFLOW_CTX_TASK_ID=task_1
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-18T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-18T00:00:00+00:00
+[2023-02-05 21:16:23,545] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-05 21:16:23,546] {subprocess.py:74} INFO - Running command: ['bash', '-c', "sleep 2 && echo 'First task!'"]
+[2023-02-05 21:16:23,556] {subprocess.py:85} INFO - Output:
+[2023-02-05 21:16:25,556] {subprocess.py:92} INFO - First task!
+[2023-02-05 21:16:25,557] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-05 21:16:26,897] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=06_monitoring, task_id=task_1, execution_date=20221118T000000, start_date=20230206T021621, end_date=20230206T021626
+[2023-02-05 21:16:27,538] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-05 21:16:27,579] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

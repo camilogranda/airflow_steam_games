@@ -1,0 +1,25 @@
+[2023-02-05 15:09:19,326] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: custom_operator.hello scheduled__2023-01-24T00:00:00+00:00 [queued]>
+[2023-02-05 15:09:19,346] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: custom_operator.hello scheduled__2023-01-24T00:00:00+00:00 [queued]>
+[2023-02-05 15:09:19,346] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-05 15:09:19,347] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-05 15:09:19,347] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-05 15:09:19,367] {taskinstance.py:1397} INFO - Executing <Task(HelloOperator): hello> on 2023-01-24 00:00:00+00:00
+[2023-02-05 15:09:19,371] {standard_task_runner.py:52} INFO - Started process 14409 to run task
+[2023-02-05 15:09:19,376] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'custom_operator', 'hello', 'scheduled__2023-01-24T00:00:00+00:00', '--job-id', '40', '--raw', '--subdir', 'DAGS_FOLDER/4_custom_operator.py', '--cfg-path', '/tmp/tmpwyt43n51', '--error-file', '/tmp/tmpf_zbg_01']
+[2023-02-05 15:09:19,377] {standard_task_runner.py:80} INFO - Job 40: Subtask hello
+[2023-02-05 15:09:19,453] {task_command.py:371} INFO - Running <TaskInstance: custom_operator.hello scheduled__2023-01-24T00:00:00+00:00 [running]> on host pc.
+[2023-02-05 15:09:19,540] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=custom_operator
+AIRFLOW_CTX_TASK_ID=hello
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-24T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-01-24T00:00:00+00:00
+[2023-02-05 15:09:19,541] {taskinstance.py:1909} ERROR - Task failed with exception
+TypeError: execute() got an unexpected keyword argument 'context'
+[2023-02-05 15:09:19,545] {taskinstance.py:1415} INFO - Marking task as FAILED. dag_id=custom_operator, task_id=hello, execution_date=20230124T000000, start_date=20230205T200919, end_date=20230205T200919
+[2023-02-05 15:09:19,563] {standard_task_runner.py:92} ERROR - Failed to execute job 40 for task hello (execute() got an unexpected keyword argument 'context'; 14409)
+[2023-02-05 15:09:19,593] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-02-05 15:09:19,617] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

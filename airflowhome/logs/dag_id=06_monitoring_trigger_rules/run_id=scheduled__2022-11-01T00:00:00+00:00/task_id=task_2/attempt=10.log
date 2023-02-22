@@ -1,0 +1,28 @@
+[2023-02-06 00:22:53,365] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 06_monitoring_trigger_rules.task_2 scheduled__2022-11-01T00:00:00+00:00 [queued]>
+[2023-02-06 00:22:53,376] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 06_monitoring_trigger_rules.task_2 scheduled__2022-11-01T00:00:00+00:00 [queued]>
+[2023-02-06 00:22:53,377] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-06 00:22:53,377] {taskinstance.py:1377} INFO - Starting attempt 10 of 12
+[2023-02-06 00:22:53,377] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-06 00:22:53,397] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task_2> on 2022-11-01 00:00:00+00:00
+[2023-02-06 00:22:53,400] {standard_task_runner.py:52} INFO - Started process 40802 to run task
+[2023-02-06 00:22:53,405] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '06_monitoring_trigger_rules', 'task_2', 'scheduled__2022-11-01T00:00:00+00:00', '--job-id', '403', '--raw', '--subdir', 'DAGS_FOLDER/06.2_monitoring_trigger_rules.py', '--cfg-path', '/tmp/tmp9wspg5iv', '--error-file', '/tmp/tmp89n9qtw8']
+[2023-02-06 00:22:53,406] {standard_task_runner.py:80} INFO - Job 403: Subtask task_2
+[2023-02-06 00:22:53,485] {task_command.py:371} INFO - Running <TaskInstance: 06_monitoring_trigger_rules.task_2 scheduled__2022-11-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-06 00:22:53,572] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=06_monitoring_trigger_rules
+AIRFLOW_CTX_TASK_ID=task_2
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=10
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-01T00:00:00+00:00
+[2023-02-06 00:22:53,574] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-06 00:22:53,575] {subprocess.py:74} INFO - Running command: ['bash', '-c', "sleep 2 && echo 'Second task!'"]
+[2023-02-06 00:22:53,583] {subprocess.py:85} INFO - Output:
+[2023-02-06 00:22:55,585] {subprocess.py:92} INFO - Second task!
+[2023-02-06 00:22:55,586] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-06 00:22:55,615] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=06_monitoring_trigger_rules, task_id=task_2, execution_date=20221101T000000, start_date=20230206T052253, end_date=20230206T052255
+[2023-02-06 00:22:55,666] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-06 00:22:55,694] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

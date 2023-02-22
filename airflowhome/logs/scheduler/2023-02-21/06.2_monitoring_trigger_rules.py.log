@@ -1,0 +1,1120 @@
+[2023-02-20 23:42:29,313] {processor.py:153} INFO - Started process (PID=53231) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:42:29,327] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:42:29,328] {logging_mixin.py:115} INFO - [2023-02-20 23:42:29,328] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:42:29,390] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:42:29,484] {logging_mixin.py:115} INFO - [2023-02-20 23:42:29,483] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:42:29,606] {logging_mixin.py:115} INFO - [2023-02-20 23:42:29,606] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:42:29,659] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.357 seconds
+[2023-02-20 23:43:00,466] {processor.py:153} INFO - Started process (PID=53259) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:43:00,467] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:43:00,468] {logging_mixin.py:115} INFO - [2023-02-20 23:43:00,467] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:43:00,492] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:43:00,524] {logging_mixin.py:115} INFO - [2023-02-20 23:43:00,524] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:43:00,561] {logging_mixin.py:115} INFO - [2023-02-20 23:43:00,560] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:43:00,582] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.122 seconds
+[2023-02-20 23:43:31,324] {processor.py:153} INFO - Started process (PID=53275) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:43:31,325] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:43:31,326] {logging_mixin.py:115} INFO - [2023-02-20 23:43:31,326] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:43:31,346] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:43:31,372] {logging_mixin.py:115} INFO - [2023-02-20 23:43:31,372] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:43:31,404] {logging_mixin.py:115} INFO - [2023-02-20 23:43:31,404] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:43:31,427] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.108 seconds
+[2023-02-20 23:44:01,963] {processor.py:153} INFO - Started process (PID=53295) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:44:01,963] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:44:01,964] {logging_mixin.py:115} INFO - [2023-02-20 23:44:01,964] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:44:01,984] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:44:02,013] {logging_mixin.py:115} INFO - [2023-02-20 23:44:02,012] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:44:02,047] {logging_mixin.py:115} INFO - [2023-02-20 23:44:02,046] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:44:02,072] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.115 seconds
+[2023-02-20 23:44:32,422] {processor.py:153} INFO - Started process (PID=53311) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:44:32,432] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:44:32,433] {logging_mixin.py:115} INFO - [2023-02-20 23:44:32,433] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:44:32,453] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:44:32,483] {logging_mixin.py:115} INFO - [2023-02-20 23:44:32,483] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:44:32,517] {logging_mixin.py:115} INFO - [2023-02-20 23:44:32,516] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:44:32,543] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.125 seconds
+[2023-02-20 23:45:03,136] {processor.py:153} INFO - Started process (PID=53344) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:45:03,144] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:45:03,147] {logging_mixin.py:115} INFO - [2023-02-20 23:45:03,147] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:45:03,169] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:45:03,206] {logging_mixin.py:115} INFO - [2023-02-20 23:45:03,206] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:45:03,241] {logging_mixin.py:115} INFO - [2023-02-20 23:45:03,241] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:45:03,267] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.161 seconds
+[2023-02-20 23:45:33,581] {processor.py:153} INFO - Started process (PID=53387) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:45:33,583] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:45:33,584] {logging_mixin.py:115} INFO - [2023-02-20 23:45:33,584] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:45:33,605] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:45:33,635] {logging_mixin.py:115} INFO - [2023-02-20 23:45:33,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:45:33,678] {logging_mixin.py:115} INFO - [2023-02-20 23:45:33,678] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:45:33,705] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.130 seconds
+[2023-02-20 23:46:04,132] {processor.py:153} INFO - Started process (PID=53514) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:46:04,133] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:46:04,134] {logging_mixin.py:115} INFO - [2023-02-20 23:46:04,134] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:46:04,170] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:46:04,199] {logging_mixin.py:115} INFO - [2023-02-20 23:46:04,198] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:46:04,237] {logging_mixin.py:115} INFO - [2023-02-20 23:46:04,237] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:46:04,258] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.162 seconds
+[2023-02-20 23:46:35,010] {processor.py:153} INFO - Started process (PID=53639) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:46:35,034] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:46:35,035] {logging_mixin.py:115} INFO - [2023-02-20 23:46:35,035] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:46:35,087] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:46:35,154] {logging_mixin.py:115} INFO - [2023-02-20 23:46:35,154] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:46:35,256] {logging_mixin.py:115} INFO - [2023-02-20 23:46:35,256] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:46:35,293] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.312 seconds
+[2023-02-20 23:47:06,100] {processor.py:153} INFO - Started process (PID=53790) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:47:06,101] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:47:06,102] {logging_mixin.py:115} INFO - [2023-02-20 23:47:06,102] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:47:06,123] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:47:06,156] {logging_mixin.py:115} INFO - [2023-02-20 23:47:06,155] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:47:06,199] {logging_mixin.py:115} INFO - [2023-02-20 23:47:06,199] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:47:06,231] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.136 seconds
+[2023-02-20 23:47:36,538] {processor.py:153} INFO - Started process (PID=53843) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:47:36,540] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:47:36,541] {logging_mixin.py:115} INFO - [2023-02-20 23:47:36,540] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:47:36,565] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:47:36,595] {logging_mixin.py:115} INFO - [2023-02-20 23:47:36,595] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:47:36,637] {logging_mixin.py:115} INFO - [2023-02-20 23:47:36,636] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:47:36,658] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.126 seconds
+[2023-02-20 23:48:07,323] {processor.py:153} INFO - Started process (PID=53863) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:48:07,324] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:48:07,326] {logging_mixin.py:115} INFO - [2023-02-20 23:48:07,325] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:48:07,345] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:48:07,373] {logging_mixin.py:115} INFO - [2023-02-20 23:48:07,373] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:48:07,414] {logging_mixin.py:115} INFO - [2023-02-20 23:48:07,414] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:48:07,435] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.117 seconds
+[2023-02-20 23:48:37,868] {processor.py:153} INFO - Started process (PID=53886) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:48:37,870] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:48:37,871] {logging_mixin.py:115} INFO - [2023-02-20 23:48:37,871] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:48:37,891] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:48:37,920] {logging_mixin.py:115} INFO - [2023-02-20 23:48:37,920] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:48:37,967] {logging_mixin.py:115} INFO - [2023-02-20 23:48:37,967] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:48:37,990] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.128 seconds
+[2023-02-20 23:49:08,399] {processor.py:153} INFO - Started process (PID=53905) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:49:08,399] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:49:08,400] {logging_mixin.py:115} INFO - [2023-02-20 23:49:08,400] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:49:08,422] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:49:08,457] {logging_mixin.py:115} INFO - [2023-02-20 23:49:08,457] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:49:08,499] {logging_mixin.py:115} INFO - [2023-02-20 23:49:08,499] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:49:08,524] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.132 seconds
+[2023-02-20 23:49:38,966] {processor.py:153} INFO - Started process (PID=53921) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:49:38,968] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:49:38,969] {logging_mixin.py:115} INFO - [2023-02-20 23:49:38,969] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:49:38,989] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:49:39,023] {logging_mixin.py:115} INFO - [2023-02-20 23:49:39,023] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:49:39,064] {logging_mixin.py:115} INFO - [2023-02-20 23:49:39,064] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:49:39,089] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.130 seconds
+[2023-02-20 23:50:09,530] {processor.py:153} INFO - Started process (PID=53949) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:50:09,531] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:50:09,532] {logging_mixin.py:115} INFO - [2023-02-20 23:50:09,531] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:50:09,551] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:50:09,582] {logging_mixin.py:115} INFO - [2023-02-20 23:50:09,582] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:50:09,616] {logging_mixin.py:115} INFO - [2023-02-20 23:50:09,616] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:50:09,638] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.113 seconds
+[2023-02-20 23:50:40,077] {processor.py:153} INFO - Started process (PID=53966) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:50:40,079] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:50:40,080] {logging_mixin.py:115} INFO - [2023-02-20 23:50:40,080] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:50:40,100] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:50:40,132] {logging_mixin.py:115} INFO - [2023-02-20 23:50:40,132] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:50:40,174] {logging_mixin.py:115} INFO - [2023-02-20 23:50:40,174] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:50:40,200] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.128 seconds
+[2023-02-20 23:51:10,632] {processor.py:153} INFO - Started process (PID=53988) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:51:10,633] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:51:10,634] {logging_mixin.py:115} INFO - [2023-02-20 23:51:10,634] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:51:10,656] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:51:10,694] {logging_mixin.py:115} INFO - [2023-02-20 23:51:10,694] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:51:10,732] {logging_mixin.py:115} INFO - [2023-02-20 23:51:10,731] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:51:10,757] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.131 seconds
+[2023-02-20 23:51:41,281] {processor.py:153} INFO - Started process (PID=54009) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:51:41,282] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:51:41,283] {logging_mixin.py:115} INFO - [2023-02-20 23:51:41,283] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:51:41,304] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:51:41,338] {logging_mixin.py:115} INFO - [2023-02-20 23:51:41,338] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:51:41,370] {logging_mixin.py:115} INFO - [2023-02-20 23:51:41,370] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:51:41,398] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.125 seconds
+[2023-02-20 23:52:14,298] {processor.py:153} INFO - Started process (PID=54205) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:52:14,300] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:52:14,303] {logging_mixin.py:115} INFO - [2023-02-20 23:52:14,303] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:52:14,359] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:52:14,423] {logging_mixin.py:115} INFO - [2023-02-20 23:52:14,423] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:52:14,512] {logging_mixin.py:115} INFO - [2023-02-20 23:52:14,512] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:52:14,573] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.291 seconds
+[2023-02-20 23:52:46,417] {processor.py:153} INFO - Started process (PID=54449) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:52:46,420] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:52:46,421] {logging_mixin.py:115} INFO - [2023-02-20 23:52:46,421] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:52:46,450] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:52:46,478] {logging_mixin.py:115} INFO - [2023-02-20 23:52:46,477] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:52:46,521] {logging_mixin.py:115} INFO - [2023-02-20 23:52:46,521] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:52:46,565] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.153 seconds
+[2023-02-20 23:53:16,973] {processor.py:153} INFO - Started process (PID=54479) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:53:16,974] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:53:16,977] {logging_mixin.py:115} INFO - [2023-02-20 23:53:16,977] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:53:17,003] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:53:17,031] {logging_mixin.py:115} INFO - [2023-02-20 23:53:17,031] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:53:17,085] {logging_mixin.py:115} INFO - [2023-02-20 23:53:17,085] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:53:17,203] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.235 seconds
+[2023-02-20 23:53:48,841] {processor.py:153} INFO - Started process (PID=54495) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:53:48,842] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:53:48,843] {logging_mixin.py:115} INFO - [2023-02-20 23:53:48,843] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:53:48,863] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:53:48,893] {logging_mixin.py:115} INFO - [2023-02-20 23:53:48,892] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:53:48,928] {logging_mixin.py:115} INFO - [2023-02-20 23:53:48,928] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:53:51,614] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 2.779 seconds
+[2023-02-20 23:54:27,253] {processor.py:153} INFO - Started process (PID=54760) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:54:27,254] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:54:27,255] {logging_mixin.py:115} INFO - [2023-02-20 23:54:27,255] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:54:27,276] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:54:27,308] {logging_mixin.py:115} INFO - [2023-02-20 23:54:27,307] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:54:27,347] {logging_mixin.py:115} INFO - [2023-02-20 23:54:27,347] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:54:29,630] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 2.382 seconds
+[2023-02-20 23:55:00,307] {processor.py:153} INFO - Started process (PID=54778) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:55:00,308] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:55:00,309] {logging_mixin.py:115} INFO - [2023-02-20 23:55:00,309] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:55:00,331] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:55:00,357] {logging_mixin.py:115} INFO - [2023-02-20 23:55:00,357] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:55:00,397] {logging_mixin.py:115} INFO - [2023-02-20 23:55:00,397] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:55:00,441] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.140 seconds
+[2023-02-20 23:55:31,034] {processor.py:153} INFO - Started process (PID=54797) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:55:31,035] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:55:31,036] {logging_mixin.py:115} INFO - [2023-02-20 23:55:31,036] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:55:31,060] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:55:31,090] {logging_mixin.py:115} INFO - [2023-02-20 23:55:31,090] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:55:31,128] {logging_mixin.py:115} INFO - [2023-02-20 23:55:31,127] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:55:31,151] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.124 seconds
+[2023-02-20 23:56:06,332] {processor.py:153} INFO - Started process (PID=54816) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:56:06,347] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:56:06,348] {logging_mixin.py:115} INFO - [2023-02-20 23:56:06,347] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:56:06,369] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:56:06,399] {logging_mixin.py:115} INFO - [2023-02-20 23:56:06,399] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:56:06,447] {logging_mixin.py:115} INFO - [2023-02-20 23:56:06,446] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:56:07,697] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 1.371 seconds
+[2023-02-20 23:56:38,715] {processor.py:153} INFO - Started process (PID=54844) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:56:38,717] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:56:38,718] {logging_mixin.py:115} INFO - [2023-02-20 23:56:38,718] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:56:38,741] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:56:38,772] {logging_mixin.py:115} INFO - [2023-02-20 23:56:38,772] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:56:38,811] {logging_mixin.py:115} INFO - [2023-02-20 23:56:38,811] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:56:40,204] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 1.494 seconds
+[2023-02-20 23:57:10,246] {processor.py:153} INFO - Started process (PID=54874) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:57:10,247] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:57:10,257] {logging_mixin.py:115} INFO - [2023-02-20 23:57:10,257] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:57:10,307] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:57:10,386] {logging_mixin.py:115} INFO - [2023-02-20 23:57:10,386] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:57:10,497] {logging_mixin.py:115} INFO - [2023-02-20 23:57:10,497] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:57:10,587] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.346 seconds
+[2023-02-20 23:57:41,113] {processor.py:153} INFO - Started process (PID=55187) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:57:41,128] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-20 23:57:41,130] {logging_mixin.py:115} INFO - [2023-02-20 23:57:41,129] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:57:41,166] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-20 23:57:41,236] {logging_mixin.py:115} INFO - [2023-02-20 23:57:41,236] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:57:41,336] {logging_mixin.py:115} INFO - [2023-02-20 23:57:41,336] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-20 23:57:41,429] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.322 seconds
+[2023-02-21 03:44:20,947] {processor.py:153} INFO - Started process (PID=58795) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:44:20,967] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:44:20,968] {logging_mixin.py:115} INFO - [2023-02-21 03:44:20,968] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:44:21,063] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:44:21,195] {logging_mixin.py:115} INFO - [2023-02-21 03:44:21,195] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:44:21,359] {logging_mixin.py:115} INFO - [2023-02-21 03:44:21,359] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:44:21,428] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.505 seconds
+[2023-02-21 03:48:38,716] {processor.py:153} INFO - Started process (PID=59211) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:48:38,722] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:48:38,723] {logging_mixin.py:115} INFO - [2023-02-21 03:48:38,723] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:48:38,808] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:48:38,929] {logging_mixin.py:115} INFO - [2023-02-21 03:48:38,929] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:48:39,041] {logging_mixin.py:115} INFO - [2023-02-21 03:48:39,041] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:48:39,214] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.519 seconds
+[2023-02-21 03:49:09,904] {processor.py:153} INFO - Started process (PID=59625) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:49:09,905] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:49:09,905] {logging_mixin.py:115} INFO - [2023-02-21 03:49:09,905] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:49:09,932] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:49:09,967] {logging_mixin.py:115} INFO - [2023-02-21 03:49:09,966] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:49:10,013] {logging_mixin.py:115} INFO - [2023-02-21 03:49:10,013] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:49:10,056] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.158 seconds
+[2023-02-21 03:51:55,640] {processor.py:153} INFO - Started process (PID=59857) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:51:55,658] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:51:55,659] {logging_mixin.py:115} INFO - [2023-02-21 03:51:55,659] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:51:55,742] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:51:55,829] {logging_mixin.py:115} INFO - [2023-02-21 03:51:55,828] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:51:55,978] {logging_mixin.py:115} INFO - [2023-02-21 03:51:55,978] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:51:56,016] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.392 seconds
+[2023-02-21 03:52:28,992] {processor.py:153} INFO - Started process (PID=59963) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:52:28,994] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:52:28,995] {logging_mixin.py:115} INFO - [2023-02-21 03:52:28,995] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:52:29,085] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:52:29,414] {logging_mixin.py:115} INFO - [2023-02-21 03:52:29,386] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:52:31,727] {logging_mixin.py:115} INFO - [2023-02-21 03:52:31,722] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:52:39,094] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 10.113 seconds
+[2023-02-21 03:53:09,573] {processor.py:153} INFO - Started process (PID=59993) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:53:09,574] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:53:09,575] {logging_mixin.py:115} INFO - [2023-02-21 03:53:09,575] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:53:09,603] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:53:09,634] {logging_mixin.py:115} INFO - [2023-02-21 03:53:09,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:53:09,671] {logging_mixin.py:115} INFO - [2023-02-21 03:53:09,671] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:53:09,691] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.123 seconds
+[2023-02-21 03:53:40,017] {processor.py:153} INFO - Started process (PID=60054) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:53:40,019] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:53:40,020] {logging_mixin.py:115} INFO - [2023-02-21 03:53:40,020] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:53:40,041] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:53:40,069] {logging_mixin.py:115} INFO - [2023-02-21 03:53:40,069] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:53:40,105] {logging_mixin.py:115} INFO - [2023-02-21 03:53:40,104] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:53:40,125] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 03:54:10,420] {processor.py:153} INFO - Started process (PID=60124) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:54:10,421] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:54:10,422] {logging_mixin.py:115} INFO - [2023-02-21 03:54:10,422] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:54:10,442] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:54:10,477] {logging_mixin.py:115} INFO - [2023-02-21 03:54:10,477] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:54:10,513] {logging_mixin.py:115} INFO - [2023-02-21 03:54:10,513] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:54:10,534] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.119 seconds
+[2023-02-21 03:54:40,716] {processor.py:153} INFO - Started process (PID=60148) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:54:40,718] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:54:40,719] {logging_mixin.py:115} INFO - [2023-02-21 03:54:40,718] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:54:40,743] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:54:40,779] {logging_mixin.py:115} INFO - [2023-02-21 03:54:40,779] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:54:40,815] {logging_mixin.py:115} INFO - [2023-02-21 03:54:40,815] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:54:40,850] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.141 seconds
+[2023-02-21 03:55:11,110] {processor.py:153} INFO - Started process (PID=60174) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:55:11,111] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:55:11,112] {logging_mixin.py:115} INFO - [2023-02-21 03:55:11,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:55:11,133] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:55:11,161] {logging_mixin.py:115} INFO - [2023-02-21 03:55:11,161] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:55:11,195] {logging_mixin.py:115} INFO - [2023-02-21 03:55:11,195] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:55:11,216] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 03:55:41,524] {processor.py:153} INFO - Started process (PID=60198) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:55:41,526] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:55:41,527] {logging_mixin.py:115} INFO - [2023-02-21 03:55:41,527] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:55:41,547] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:55:41,576] {logging_mixin.py:115} INFO - [2023-02-21 03:55:41,576] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:55:41,617] {logging_mixin.py:115} INFO - [2023-02-21 03:55:41,617] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:55:41,638] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.120 seconds
+[2023-02-21 03:56:11,918] {processor.py:153} INFO - Started process (PID=60221) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:56:11,919] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:56:11,928] {logging_mixin.py:115} INFO - [2023-02-21 03:56:11,928] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:56:11,965] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:56:12,010] {logging_mixin.py:115} INFO - [2023-02-21 03:56:12,009] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:56:12,072] {logging_mixin.py:115} INFO - [2023-02-21 03:56:12,072] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:56:12,143] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.231 seconds
+[2023-02-21 03:56:42,416] {processor.py:153} INFO - Started process (PID=60251) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:56:42,418] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:56:42,419] {logging_mixin.py:115} INFO - [2023-02-21 03:56:42,419] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:56:42,439] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:56:42,469] {logging_mixin.py:115} INFO - [2023-02-21 03:56:42,469] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:56:42,507] {logging_mixin.py:115} INFO - [2023-02-21 03:56:42,507] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:56:42,529] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.118 seconds
+[2023-02-21 03:57:12,654] {processor.py:153} INFO - Started process (PID=60283) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:57:12,664] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:57:12,665] {logging_mixin.py:115} INFO - [2023-02-21 03:57:12,665] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:57:12,696] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:57:12,733] {logging_mixin.py:115} INFO - [2023-02-21 03:57:12,732] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:57:12,769] {logging_mixin.py:115} INFO - [2023-02-21 03:57:12,769] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:57:12,793] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.144 seconds
+[2023-02-21 03:57:42,965] {processor.py:153} INFO - Started process (PID=60314) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:57:42,979] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:57:42,980] {logging_mixin.py:115} INFO - [2023-02-21 03:57:42,980] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:57:43,009] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:57:43,037] {logging_mixin.py:115} INFO - [2023-02-21 03:57:43,037] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:57:43,074] {logging_mixin.py:115} INFO - [2023-02-21 03:57:43,074] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:57:43,095] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.144 seconds
+[2023-02-21 03:58:13,349] {processor.py:153} INFO - Started process (PID=60343) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:58:13,351] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:58:13,353] {logging_mixin.py:115} INFO - [2023-02-21 03:58:13,352] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:58:13,373] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:58:13,403] {logging_mixin.py:115} INFO - [2023-02-21 03:58:13,403] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:58:13,438] {logging_mixin.py:115} INFO - [2023-02-21 03:58:13,438] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:58:13,459] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.116 seconds
+[2023-02-21 03:58:43,740] {processor.py:153} INFO - Started process (PID=60379) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:58:43,741] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 03:58:43,742] {logging_mixin.py:115} INFO - [2023-02-21 03:58:43,742] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:58:43,764] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 03:58:43,795] {logging_mixin.py:115} INFO - [2023-02-21 03:58:43,795] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:58:43,829] {logging_mixin.py:115} INFO - [2023-02-21 03:58:43,829] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 03:58:43,849] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.116 seconds
+[2023-02-21 05:07:33,656] {processor.py:153} INFO - Started process (PID=62920) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:07:33,952] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:07:34,281] {logging_mixin.py:115} INFO - [2023-02-21 05:07:34,234] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:07:52,302] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:07:52,493] {logging_mixin.py:115} INFO - [2023-02-21 05:07:52,493] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:07:52,643] {logging_mixin.py:115} INFO - [2023-02-21 05:07:52,643] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:07:52,682] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 19.097 seconds
+[2023-02-21 05:11:39,142] {processor.py:153} INFO - Started process (PID=63154) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:11:39,144] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:11:39,145] {logging_mixin.py:115} INFO - [2023-02-21 05:11:39,145] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:11:39,371] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:11:39,906] {logging_mixin.py:115} INFO - [2023-02-21 05:11:39,889] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:11:41,190] {logging_mixin.py:115} INFO - [2023-02-21 05:11:41,066] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:11:43,337] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 4.214 seconds
+[2023-02-21 05:24:06,283] {processor.py:153} INFO - Started process (PID=63764) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:24:06,285] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:24:06,286] {logging_mixin.py:115} INFO - [2023-02-21 05:24:06,286] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:24:06,308] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:24:06,352] {logging_mixin.py:115} INFO - [2023-02-21 05:24:06,352] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:24:06,390] {logging_mixin.py:115} INFO - [2023-02-21 05:24:06,390] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:24:06,409] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.132 seconds
+[2023-02-21 05:24:36,702] {processor.py:153} INFO - Started process (PID=63781) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:24:36,705] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:24:36,705] {logging_mixin.py:115} INFO - [2023-02-21 05:24:36,705] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:24:36,726] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:24:36,755] {logging_mixin.py:115} INFO - [2023-02-21 05:24:36,754] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:24:36,792] {logging_mixin.py:115} INFO - [2023-02-21 05:24:36,792] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:24:36,813] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.116 seconds
+[2023-02-21 05:25:07,339] {processor.py:153} INFO - Started process (PID=63802) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:25:07,340] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:25:07,341] {logging_mixin.py:115} INFO - [2023-02-21 05:25:07,341] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:25:07,374] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:25:07,406] {logging_mixin.py:115} INFO - [2023-02-21 05:25:07,406] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:25:07,443] {logging_mixin.py:115} INFO - [2023-02-21 05:25:07,442] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:25:07,472] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.140 seconds
+[2023-02-21 05:25:37,819] {processor.py:153} INFO - Started process (PID=63835) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:25:37,821] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:25:37,823] {logging_mixin.py:115} INFO - [2023-02-21 05:25:37,823] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:25:37,848] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:25:37,880] {logging_mixin.py:115} INFO - [2023-02-21 05:25:37,880] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:25:37,925] {logging_mixin.py:115} INFO - [2023-02-21 05:25:37,925] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:25:37,949] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.136 seconds
+[2023-02-21 05:26:09,807] {processor.py:153} INFO - Started process (PID=63866) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:26:09,808] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:26:09,809] {logging_mixin.py:115} INFO - [2023-02-21 05:26:09,809] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:26:09,832] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:26:09,862] {logging_mixin.py:115} INFO - [2023-02-21 05:26:09,862] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:26:09,896] {logging_mixin.py:115} INFO - [2023-02-21 05:26:09,895] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:26:09,919] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.117 seconds
+[2023-02-21 05:26:40,817] {processor.py:153} INFO - Started process (PID=63889) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:26:40,819] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:26:40,821] {logging_mixin.py:115} INFO - [2023-02-21 05:26:40,820] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:26:40,842] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:26:40,872] {logging_mixin.py:115} INFO - [2023-02-21 05:26:40,872] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:26:40,908] {logging_mixin.py:115} INFO - [2023-02-21 05:26:40,908] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:26:40,930] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.119 seconds
+[2023-02-21 05:27:11,773] {processor.py:153} INFO - Started process (PID=63910) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:27:11,774] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:27:11,775] {logging_mixin.py:115} INFO - [2023-02-21 05:27:11,775] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:27:11,796] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:27:11,824] {logging_mixin.py:115} INFO - [2023-02-21 05:27:11,824] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:27:11,856] {logging_mixin.py:115} INFO - [2023-02-21 05:27:11,856] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:27:11,879] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.111 seconds
+[2023-02-21 05:27:42,718] {processor.py:153} INFO - Started process (PID=63928) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:27:42,722] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:27:42,723] {logging_mixin.py:115} INFO - [2023-02-21 05:27:42,723] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:27:42,743] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:27:42,774] {logging_mixin.py:115} INFO - [2023-02-21 05:27:42,773] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:27:42,807] {logging_mixin.py:115} INFO - [2023-02-21 05:27:42,807] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:27:42,827] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.115 seconds
+[2023-02-21 05:28:13,013] {processor.py:153} INFO - Started process (PID=63951) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:28:13,014] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:28:13,015] {logging_mixin.py:115} INFO - [2023-02-21 05:28:13,015] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:28:13,039] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:28:13,072] {logging_mixin.py:115} INFO - [2023-02-21 05:28:13,072] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:28:13,112] {logging_mixin.py:115} INFO - [2023-02-21 05:28:13,112] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:28:13,140] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.134 seconds
+[2023-02-21 05:28:44,563] {processor.py:153} INFO - Started process (PID=63968) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:28:44,565] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:28:44,566] {logging_mixin.py:115} INFO - [2023-02-21 05:28:44,566] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:28:44,586] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:28:44,616] {logging_mixin.py:115} INFO - [2023-02-21 05:28:44,616] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:28:44,649] {logging_mixin.py:115} INFO - [2023-02-21 05:28:44,649] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:28:44,671] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.113 seconds
+[2023-02-21 05:29:14,854] {processor.py:153} INFO - Started process (PID=63990) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:29:14,856] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:29:14,857] {logging_mixin.py:115} INFO - [2023-02-21 05:29:14,857] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:29:14,877] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:29:14,905] {logging_mixin.py:115} INFO - [2023-02-21 05:29:14,905] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:29:14,938] {logging_mixin.py:115} INFO - [2023-02-21 05:29:14,938] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:29:14,959] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.110 seconds
+[2023-02-21 05:29:47,854] {processor.py:153} INFO - Started process (PID=64013) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:29:47,855] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:29:47,856] {logging_mixin.py:115} INFO - [2023-02-21 05:29:47,856] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:29:47,878] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:29:47,908] {logging_mixin.py:115} INFO - [2023-02-21 05:29:47,908] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:29:47,942] {logging_mixin.py:115} INFO - [2023-02-21 05:29:47,942] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:29:47,963] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.115 seconds
+[2023-02-21 05:30:19,128] {processor.py:153} INFO - Started process (PID=64031) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:30:19,129] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:30:19,130] {logging_mixin.py:115} INFO - [2023-02-21 05:30:19,130] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:30:19,149] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:30:19,178] {logging_mixin.py:115} INFO - [2023-02-21 05:30:19,178] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:30:19,212] {logging_mixin.py:115} INFO - [2023-02-21 05:30:19,212] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:30:19,234] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 05:30:50,513] {processor.py:153} INFO - Started process (PID=64050) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:30:50,514] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:30:50,516] {logging_mixin.py:115} INFO - [2023-02-21 05:30:50,515] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:30:50,538] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:30:50,568] {logging_mixin.py:115} INFO - [2023-02-21 05:30:50,568] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:30:50,600] {logging_mixin.py:115} INFO - [2023-02-21 05:30:50,600] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:30:50,621] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.113 seconds
+[2023-02-21 05:31:21,498] {processor.py:153} INFO - Started process (PID=64074) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:31:21,499] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:31:21,500] {logging_mixin.py:115} INFO - [2023-02-21 05:31:21,500] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:31:21,560] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:31:21,629] {logging_mixin.py:115} INFO - [2023-02-21 05:31:21,629] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:31:21,710] {logging_mixin.py:115} INFO - [2023-02-21 05:31:21,710] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:31:21,734] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.251 seconds
+[2023-02-21 05:31:52,352] {processor.py:153} INFO - Started process (PID=64092) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:31:52,354] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:31:52,355] {logging_mixin.py:115} INFO - [2023-02-21 05:31:52,355] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:31:52,375] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:31:52,406] {logging_mixin.py:115} INFO - [2023-02-21 05:31:52,406] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:31:52,442] {logging_mixin.py:115} INFO - [2023-02-21 05:31:52,442] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:31:52,464] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.118 seconds
+[2023-02-21 05:32:24,463] {processor.py:153} INFO - Started process (PID=64126) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:32:24,465] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:32:24,465] {logging_mixin.py:115} INFO - [2023-02-21 05:32:24,465] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:32:24,487] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:32:24,515] {logging_mixin.py:115} INFO - [2023-02-21 05:32:24,515] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:32:24,547] {logging_mixin.py:115} INFO - [2023-02-21 05:32:24,547] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:32:24,571] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 05:32:56,989] {processor.py:153} INFO - Started process (PID=64151) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:32:56,990] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:32:56,992] {logging_mixin.py:115} INFO - [2023-02-21 05:32:56,992] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:32:57,014] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:32:57,042] {logging_mixin.py:115} INFO - [2023-02-21 05:32:57,042] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:32:57,075] {logging_mixin.py:115} INFO - [2023-02-21 05:32:57,075] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:32:57,097] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 05:33:35,424] {processor.py:153} INFO - Started process (PID=64176) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:33:35,426] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:33:35,427] {logging_mixin.py:115} INFO - [2023-02-21 05:33:35,427] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:33:35,447] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:33:35,475] {logging_mixin.py:115} INFO - [2023-02-21 05:33:35,475] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:33:35,513] {logging_mixin.py:115} INFO - [2023-02-21 05:33:35,513] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:33:35,535] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.119 seconds
+[2023-02-21 05:34:08,993] {processor.py:153} INFO - Started process (PID=64196) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:34:08,994] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:34:08,996] {logging_mixin.py:115} INFO - [2023-02-21 05:34:08,995] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:34:09,028] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:34:09,057] {logging_mixin.py:115} INFO - [2023-02-21 05:34:09,057] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:34:09,096] {logging_mixin.py:115} INFO - [2023-02-21 05:34:09,096] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:34:09,117] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.129 seconds
+[2023-02-21 05:34:41,770] {processor.py:153} INFO - Started process (PID=64213) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:34:41,772] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:34:41,773] {logging_mixin.py:115} INFO - [2023-02-21 05:34:41,773] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:34:41,793] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:34:41,822] {logging_mixin.py:115} INFO - [2023-02-21 05:34:41,822] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:34:41,860] {logging_mixin.py:115} INFO - [2023-02-21 05:34:41,859] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:34:41,880] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.116 seconds
+[2023-02-21 05:35:15,776] {processor.py:153} INFO - Started process (PID=64234) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:35:15,778] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:35:15,779] {logging_mixin.py:115} INFO - [2023-02-21 05:35:15,779] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:35:15,799] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:35:15,827] {logging_mixin.py:115} INFO - [2023-02-21 05:35:15,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:35:15,863] {logging_mixin.py:115} INFO - [2023-02-21 05:35:15,863] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:35:15,884] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 05:35:58,228] {processor.py:153} INFO - Started process (PID=64251) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:35:58,231] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:35:58,231] {logging_mixin.py:115} INFO - [2023-02-21 05:35:58,231] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:35:58,252] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:35:58,280] {logging_mixin.py:115} INFO - [2023-02-21 05:35:58,280] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:35:58,316] {logging_mixin.py:115} INFO - [2023-02-21 05:35:58,316] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:35:59,722] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 1.499 seconds
+[2023-02-21 05:36:33,284] {processor.py:153} INFO - Started process (PID=64275) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:36:33,286] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:36:33,289] {logging_mixin.py:115} INFO - [2023-02-21 05:36:33,289] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:36:33,315] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:36:33,344] {logging_mixin.py:115} INFO - [2023-02-21 05:36:33,344] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:36:33,382] {logging_mixin.py:115} INFO - [2023-02-21 05:36:33,382] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:36:33,404] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.126 seconds
+[2023-02-21 05:37:05,594] {processor.py:153} INFO - Started process (PID=64293) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:37:05,595] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:37:05,596] {logging_mixin.py:115} INFO - [2023-02-21 05:37:05,596] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:37:05,616] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:37:05,643] {logging_mixin.py:115} INFO - [2023-02-21 05:37:05,643] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:37:05,676] {logging_mixin.py:115} INFO - [2023-02-21 05:37:05,676] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:37:07,218] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 1.629 seconds
+[2023-02-21 05:37:37,647] {processor.py:153} INFO - Started process (PID=64310) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:37:37,648] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:37:37,655] {logging_mixin.py:115} INFO - [2023-02-21 05:37:37,655] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:37:37,677] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:37:37,705] {logging_mixin.py:115} INFO - [2023-02-21 05:37:37,705] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:37:37,743] {logging_mixin.py:115} INFO - [2023-02-21 05:37:37,743] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:37:37,781] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.140 seconds
+[2023-02-21 05:38:13,254] {processor.py:153} INFO - Started process (PID=64328) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:38:13,262] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:38:13,263] {logging_mixin.py:115} INFO - [2023-02-21 05:38:13,263] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:38:13,286] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:38:13,319] {logging_mixin.py:115} INFO - [2023-02-21 05:38:13,319] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:38:13,369] {logging_mixin.py:115} INFO - [2023-02-21 05:38:13,369] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:38:13,393] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.145 seconds
+[2023-02-21 05:38:53,561] {processor.py:153} INFO - Started process (PID=64351) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:38:53,563] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:38:53,563] {logging_mixin.py:115} INFO - [2023-02-21 05:38:53,563] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:38:53,584] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:38:53,613] {logging_mixin.py:115} INFO - [2023-02-21 05:38:53,613] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:38:53,648] {logging_mixin.py:115} INFO - [2023-02-21 05:38:53,648] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:38:55,281] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 1.725 seconds
+[2023-02-21 05:39:34,712] {processor.py:153} INFO - Started process (PID=64400) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:39:34,714] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:39:34,715] {logging_mixin.py:115} INFO - [2023-02-21 05:39:34,715] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:39:34,735] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:39:34,777] {logging_mixin.py:115} INFO - [2023-02-21 05:39:34,777] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:39:34,812] {logging_mixin.py:115} INFO - [2023-02-21 05:39:34,812] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:39:34,833] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.127 seconds
+[2023-02-21 05:40:05,028] {processor.py:153} INFO - Started process (PID=64419) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:40:05,029] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:40:05,030] {logging_mixin.py:115} INFO - [2023-02-21 05:40:05,030] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:40:05,051] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:40:05,079] {logging_mixin.py:115} INFO - [2023-02-21 05:40:05,079] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:40:05,118] {logging_mixin.py:115} INFO - [2023-02-21 05:40:05,118] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:40:05,139] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.116 seconds
+[2023-02-21 05:40:36,597] {processor.py:153} INFO - Started process (PID=64436) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:40:36,599] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:40:36,600] {logging_mixin.py:115} INFO - [2023-02-21 05:40:36,600] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:40:36,621] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:40:36,650] {logging_mixin.py:115} INFO - [2023-02-21 05:40:36,650] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:40:36,684] {logging_mixin.py:115} INFO - [2023-02-21 05:40:36,684] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:40:37,104] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.512 seconds
+[2023-02-21 05:41:07,587] {processor.py:153} INFO - Started process (PID=64454) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:41:07,588] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:41:07,589] {logging_mixin.py:115} INFO - [2023-02-21 05:41:07,589] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:41:07,611] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:41:07,639] {logging_mixin.py:115} INFO - [2023-02-21 05:41:07,639] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:41:07,673] {logging_mixin.py:115} INFO - [2023-02-21 05:41:07,673] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:41:07,694] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 05:41:38,264] {processor.py:153} INFO - Started process (PID=64477) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:41:38,266] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:41:38,267] {logging_mixin.py:115} INFO - [2023-02-21 05:41:38,267] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:41:38,288] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:41:38,316] {logging_mixin.py:115} INFO - [2023-02-21 05:41:38,316] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:41:38,350] {logging_mixin.py:115} INFO - [2023-02-21 05:41:38,349] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:41:38,370] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 05:42:09,098] {processor.py:153} INFO - Started process (PID=64495) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:42:09,099] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:42:09,100] {logging_mixin.py:115} INFO - [2023-02-21 05:42:09,100] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:42:09,121] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:42:09,149] {logging_mixin.py:115} INFO - [2023-02-21 05:42:09,148] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:42:09,181] {logging_mixin.py:115} INFO - [2023-02-21 05:42:09,181] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:42:09,203] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.110 seconds
+[2023-02-21 05:42:39,625] {processor.py:153} INFO - Started process (PID=64512) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:42:39,627] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:42:39,628] {logging_mixin.py:115} INFO - [2023-02-21 05:42:39,628] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:42:39,648] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:42:39,676] {logging_mixin.py:115} INFO - [2023-02-21 05:42:39,676] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:42:39,709] {logging_mixin.py:115} INFO - [2023-02-21 05:42:39,708] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:42:39,730] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.111 seconds
+[2023-02-21 05:43:10,488] {processor.py:153} INFO - Started process (PID=64531) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:43:10,488] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:43:10,489] {logging_mixin.py:115} INFO - [2023-02-21 05:43:10,489] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:43:10,514] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:43:10,546] {logging_mixin.py:115} INFO - [2023-02-21 05:43:10,546] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:43:10,581] {logging_mixin.py:115} INFO - [2023-02-21 05:43:10,580] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:43:10,608] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.127 seconds
+[2023-02-21 05:43:41,103] {processor.py:153} INFO - Started process (PID=64555) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:43:41,105] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:43:41,106] {logging_mixin.py:115} INFO - [2023-02-21 05:43:41,105] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:43:41,125] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:43:41,155] {logging_mixin.py:115} INFO - [2023-02-21 05:43:41,154] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:43:41,196] {logging_mixin.py:115} INFO - [2023-02-21 05:43:41,196] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:43:41,232] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.135 seconds
+[2023-02-21 05:44:11,737] {processor.py:153} INFO - Started process (PID=64574) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:44:11,737] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:44:11,738] {logging_mixin.py:115} INFO - [2023-02-21 05:44:11,738] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:44:11,763] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:44:11,791] {logging_mixin.py:115} INFO - [2023-02-21 05:44:11,791] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:44:11,825] {logging_mixin.py:115} INFO - [2023-02-21 05:44:11,825] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:44:11,845] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 05:44:42,511] {processor.py:153} INFO - Started process (PID=64591) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:44:42,513] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:44:42,514] {logging_mixin.py:115} INFO - [2023-02-21 05:44:42,513] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:44:42,533] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:44:42,561] {logging_mixin.py:115} INFO - [2023-02-21 05:44:42,561] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:44:42,596] {logging_mixin.py:115} INFO - [2023-02-21 05:44:42,596] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:44:42,617] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.111 seconds
+[2023-02-21 05:45:13,207] {processor.py:153} INFO - Started process (PID=64612) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:45:13,207] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:45:13,208] {logging_mixin.py:115} INFO - [2023-02-21 05:45:13,208] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:45:13,228] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:45:13,256] {logging_mixin.py:115} INFO - [2023-02-21 05:45:13,256] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:45:13,294] {logging_mixin.py:115} INFO - [2023-02-21 05:45:13,294] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:45:13,315] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 05:45:44,030] {processor.py:153} INFO - Started process (PID=64640) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:45:44,032] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:45:44,033] {logging_mixin.py:115} INFO - [2023-02-21 05:45:44,033] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:45:44,055] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:45:44,087] {logging_mixin.py:115} INFO - [2023-02-21 05:45:44,086] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:45:44,122] {logging_mixin.py:115} INFO - [2023-02-21 05:45:44,122] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:45:44,141] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.117 seconds
+[2023-02-21 05:46:14,680] {processor.py:153} INFO - Started process (PID=64669) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:46:14,681] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:46:14,682] {logging_mixin.py:115} INFO - [2023-02-21 05:46:14,682] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:46:14,701] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:46:14,730] {logging_mixin.py:115} INFO - [2023-02-21 05:46:14,730] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:46:14,763] {logging_mixin.py:115} INFO - [2023-02-21 05:46:14,763] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:46:14,785] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.110 seconds
+[2023-02-21 05:46:45,523] {processor.py:153} INFO - Started process (PID=64699) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:46:45,525] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:46:45,526] {logging_mixin.py:115} INFO - [2023-02-21 05:46:45,526] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:46:45,547] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:46:45,576] {logging_mixin.py:115} INFO - [2023-02-21 05:46:45,576] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:46:45,614] {logging_mixin.py:115} INFO - [2023-02-21 05:46:45,614] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:46:45,640] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.123 seconds
+[2023-02-21 05:47:16,244] {processor.py:153} INFO - Started process (PID=64721) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:47:16,246] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:47:16,247] {logging_mixin.py:115} INFO - [2023-02-21 05:47:16,247] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:47:16,266] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:47:16,294] {logging_mixin.py:115} INFO - [2023-02-21 05:47:16,294] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:47:16,326] {logging_mixin.py:115} INFO - [2023-02-21 05:47:16,325] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:47:16,353] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 05:47:47,179] {processor.py:153} INFO - Started process (PID=64749) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:47:47,180] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:47:47,181] {logging_mixin.py:115} INFO - [2023-02-21 05:47:47,181] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:47:47,200] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:47:47,229] {logging_mixin.py:115} INFO - [2023-02-21 05:47:47,228] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:47:47,260] {logging_mixin.py:115} INFO - [2023-02-21 05:47:47,260] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:47:47,283] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.109 seconds
+[2023-02-21 05:48:17,765] {processor.py:153} INFO - Started process (PID=64768) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:48:17,767] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:48:17,768] {logging_mixin.py:115} INFO - [2023-02-21 05:48:17,768] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:48:17,791] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:48:17,821] {logging_mixin.py:115} INFO - [2023-02-21 05:48:17,821] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:48:17,856] {logging_mixin.py:115} INFO - [2023-02-21 05:48:17,856] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:48:17,878] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.120 seconds
+[2023-02-21 05:48:48,580] {processor.py:153} INFO - Started process (PID=64785) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:48:48,581] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:48:48,583] {logging_mixin.py:115} INFO - [2023-02-21 05:48:48,583] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:48:48,604] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:48:48,633] {logging_mixin.py:115} INFO - [2023-02-21 05:48:48,633] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:48:48,671] {logging_mixin.py:115} INFO - [2023-02-21 05:48:48,670] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:48:48,693] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.119 seconds
+[2023-02-21 05:49:19,280] {processor.py:153} INFO - Started process (PID=64809) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:49:19,282] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:49:19,283] {logging_mixin.py:115} INFO - [2023-02-21 05:49:19,282] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:49:19,303] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:49:19,335] {logging_mixin.py:115} INFO - [2023-02-21 05:49:19,335] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:49:19,368] {logging_mixin.py:115} INFO - [2023-02-21 05:49:19,368] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:49:19,388] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 05:49:50,050] {processor.py:153} INFO - Started process (PID=64826) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:49:50,051] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:49:50,052] {logging_mixin.py:115} INFO - [2023-02-21 05:49:50,052] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:49:50,074] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:49:50,121] {logging_mixin.py:115} INFO - [2023-02-21 05:49:50,120] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:49:50,217] {logging_mixin.py:115} INFO - [2023-02-21 05:49:50,217] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:49:50,262] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.218 seconds
+[2023-02-21 05:50:20,740] {processor.py:153} INFO - Started process (PID=64845) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:50:20,742] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:50:20,743] {logging_mixin.py:115} INFO - [2023-02-21 05:50:20,743] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:50:20,762] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:50:20,793] {logging_mixin.py:115} INFO - [2023-02-21 05:50:20,792] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:50:20,829] {logging_mixin.py:115} INFO - [2023-02-21 05:50:20,828] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:50:20,853] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.117 seconds
+[2023-02-21 05:50:51,450] {processor.py:153} INFO - Started process (PID=64862) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:50:51,451] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:50:51,452] {logging_mixin.py:115} INFO - [2023-02-21 05:50:51,452] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:50:51,472] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:50:51,502] {logging_mixin.py:115} INFO - [2023-02-21 05:50:51,502] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:50:51,537] {logging_mixin.py:115} INFO - [2023-02-21 05:50:51,537] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:50:51,557] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.121 seconds
+[2023-02-21 05:51:22,093] {processor.py:153} INFO - Started process (PID=64886) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:51:22,095] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:51:22,096] {logging_mixin.py:115} INFO - [2023-02-21 05:51:22,096] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:51:22,116] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:51:22,144] {logging_mixin.py:115} INFO - [2023-02-21 05:51:22,144] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:51:22,178] {logging_mixin.py:115} INFO - [2023-02-21 05:51:22,178] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:51:22,199] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 05:51:52,878] {processor.py:153} INFO - Started process (PID=64906) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:51:52,880] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:51:52,881] {logging_mixin.py:115} INFO - [2023-02-21 05:51:52,881] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:51:52,904] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:51:52,934] {logging_mixin.py:115} INFO - [2023-02-21 05:51:52,934] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:51:52,967] {logging_mixin.py:115} INFO - [2023-02-21 05:51:52,966] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:51:52,990] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.118 seconds
+[2023-02-21 05:52:23,658] {processor.py:153} INFO - Started process (PID=64931) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:52:23,660] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:52:23,661] {logging_mixin.py:115} INFO - [2023-02-21 05:52:23,661] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:52:23,681] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:52:23,711] {logging_mixin.py:115} INFO - [2023-02-21 05:52:23,711] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:52:23,751] {logging_mixin.py:115} INFO - [2023-02-21 05:52:23,751] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:52:23,777] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.125 seconds
+[2023-02-21 05:52:54,406] {processor.py:153} INFO - Started process (PID=64956) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:52:54,407] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:52:54,408] {logging_mixin.py:115} INFO - [2023-02-21 05:52:54,408] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:52:54,439] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:52:54,486] {logging_mixin.py:115} INFO - [2023-02-21 05:52:54,486] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:52:54,519] {logging_mixin.py:115} INFO - [2023-02-21 05:52:54,519] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:52:54,541] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.142 seconds
+[2023-02-21 05:53:25,161] {processor.py:153} INFO - Started process (PID=64975) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:53:25,163] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:53:25,164] {logging_mixin.py:115} INFO - [2023-02-21 05:53:25,164] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:53:25,184] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:53:25,212] {logging_mixin.py:115} INFO - [2023-02-21 05:53:25,212] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:53:25,246] {logging_mixin.py:115} INFO - [2023-02-21 05:53:25,246] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:53:25,270] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 05:53:56,015] {processor.py:153} INFO - Started process (PID=64996) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:53:56,016] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:53:56,029] {logging_mixin.py:115} INFO - [2023-02-21 05:53:56,029] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:53:56,060] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:53:56,089] {logging_mixin.py:115} INFO - [2023-02-21 05:53:56,089] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:53:56,127] {logging_mixin.py:115} INFO - [2023-02-21 05:53:56,127] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:53:56,151] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.150 seconds
+[2023-02-21 05:54:26,637] {processor.py:153} INFO - Started process (PID=65020) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:54:26,639] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:54:26,640] {logging_mixin.py:115} INFO - [2023-02-21 05:54:26,640] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:54:26,659] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:54:26,687] {logging_mixin.py:115} INFO - [2023-02-21 05:54:26,687] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:54:26,720] {logging_mixin.py:115} INFO - [2023-02-21 05:54:26,720] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:54:26,742] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.110 seconds
+[2023-02-21 05:54:57,443] {processor.py:153} INFO - Started process (PID=65037) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:54:57,444] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:54:57,445] {logging_mixin.py:115} INFO - [2023-02-21 05:54:57,445] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:54:57,473] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:54:57,528] {logging_mixin.py:115} INFO - [2023-02-21 05:54:57,528] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:54:57,576] {logging_mixin.py:115} INFO - [2023-02-21 05:54:57,575] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:54:57,598] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.161 seconds
+[2023-02-21 05:55:28,159] {processor.py:153} INFO - Started process (PID=65064) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:55:28,160] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:55:28,161] {logging_mixin.py:115} INFO - [2023-02-21 05:55:28,161] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:55:28,181] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:55:28,216] {logging_mixin.py:115} INFO - [2023-02-21 05:55:28,216] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:55:28,251] {logging_mixin.py:115} INFO - [2023-02-21 05:55:28,251] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:55:28,271] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.118 seconds
+[2023-02-21 05:55:58,951] {processor.py:153} INFO - Started process (PID=65085) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:55:58,952] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:55:58,953] {logging_mixin.py:115} INFO - [2023-02-21 05:55:58,953] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:55:58,972] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:55:59,003] {logging_mixin.py:115} INFO - [2023-02-21 05:55:59,003] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:55:59,037] {logging_mixin.py:115} INFO - [2023-02-21 05:55:59,037] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:55:59,057] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.111 seconds
+[2023-02-21 05:56:29,732] {processor.py:153} INFO - Started process (PID=65103) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:56:29,734] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:56:29,735] {logging_mixin.py:115} INFO - [2023-02-21 05:56:29,735] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:56:29,755] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:56:29,783] {logging_mixin.py:115} INFO - [2023-02-21 05:56:29,782] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:56:29,823] {logging_mixin.py:115} INFO - [2023-02-21 05:56:29,822] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:56:29,850] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.124 seconds
+[2023-02-21 05:57:00,533] {processor.py:153} INFO - Started process (PID=65126) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:57:00,535] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:57:00,536] {logging_mixin.py:115} INFO - [2023-02-21 05:57:00,536] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:57:00,556] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:57:00,585] {logging_mixin.py:115} INFO - [2023-02-21 05:57:00,585] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:57:00,622] {logging_mixin.py:115} INFO - [2023-02-21 05:57:00,622] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:57:00,652] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.124 seconds
+[2023-02-21 05:57:31,342] {processor.py:153} INFO - Started process (PID=65144) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:57:31,342] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:57:31,343] {logging_mixin.py:115} INFO - [2023-02-21 05:57:31,343] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:57:31,363] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:57:31,389] {logging_mixin.py:115} INFO - [2023-02-21 05:57:31,389] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:57:31,421] {logging_mixin.py:115} INFO - [2023-02-21 05:57:31,421] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:57:31,445] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.109 seconds
+[2023-02-21 05:58:02,075] {processor.py:153} INFO - Started process (PID=65162) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:58:02,077] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:58:02,078] {logging_mixin.py:115} INFO - [2023-02-21 05:58:02,078] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:58:02,100] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:58:02,130] {logging_mixin.py:115} INFO - [2023-02-21 05:58:02,130] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:58:02,165] {logging_mixin.py:115} INFO - [2023-02-21 05:58:02,164] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:58:02,185] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.115 seconds
+[2023-02-21 05:58:32,805] {processor.py:153} INFO - Started process (PID=65185) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:58:32,806] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:58:32,807] {logging_mixin.py:115} INFO - [2023-02-21 05:58:32,806] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:58:32,827] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:58:32,856] {logging_mixin.py:115} INFO - [2023-02-21 05:58:32,856] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:58:32,888] {logging_mixin.py:115} INFO - [2023-02-21 05:58:32,888] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:58:32,910] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 05:59:03,539] {processor.py:153} INFO - Started process (PID=65203) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:59:03,540] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:59:03,541] {logging_mixin.py:115} INFO - [2023-02-21 05:59:03,541] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:59:03,560] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:59:03,589] {logging_mixin.py:115} INFO - [2023-02-21 05:59:03,589] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:59:03,622] {logging_mixin.py:115} INFO - [2023-02-21 05:59:03,622] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:59:03,644] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.110 seconds
+[2023-02-21 05:59:34,273] {processor.py:153} INFO - Started process (PID=65226) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:59:34,274] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 05:59:34,275] {logging_mixin.py:115} INFO - [2023-02-21 05:59:34,275] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:59:34,295] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 05:59:34,323] {logging_mixin.py:115} INFO - [2023-02-21 05:59:34,322] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:59:34,358] {logging_mixin.py:115} INFO - [2023-02-21 05:59:34,358] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 05:59:34,380] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 06:00:05,160] {processor.py:153} INFO - Started process (PID=65245) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:00:05,161] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:00:05,162] {logging_mixin.py:115} INFO - [2023-02-21 06:00:05,162] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:00:05,182] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:00:05,211] {logging_mixin.py:115} INFO - [2023-02-21 06:00:05,210] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:00:05,242] {logging_mixin.py:115} INFO - [2023-02-21 06:00:05,242] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:00:06,450] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 1.296 seconds
+[2023-02-21 06:00:42,580] {processor.py:153} INFO - Started process (PID=65267) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:00:42,583] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:00:42,585] {logging_mixin.py:115} INFO - [2023-02-21 06:00:42,585] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:00:42,607] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:00:42,638] {logging_mixin.py:115} INFO - [2023-02-21 06:00:42,638] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:00:42,682] {logging_mixin.py:115} INFO - [2023-02-21 06:00:42,682] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:00:45,521] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 2.946 seconds
+[2023-02-21 06:01:26,632] {processor.py:153} INFO - Started process (PID=65287) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:01:26,634] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:01:26,635] {logging_mixin.py:115} INFO - [2023-02-21 06:01:26,634] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:01:26,657] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:01:26,687] {logging_mixin.py:115} INFO - [2023-02-21 06:01:26,687] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:01:26,722] {logging_mixin.py:115} INFO - [2023-02-21 06:01:26,721] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:01:27,426] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.799 seconds
+[2023-02-21 06:02:01,038] {processor.py:153} INFO - Started process (PID=65310) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:02:01,040] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:02:01,041] {logging_mixin.py:115} INFO - [2023-02-21 06:02:01,040] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:02:01,061] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:02:01,090] {logging_mixin.py:115} INFO - [2023-02-21 06:02:01,090] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:02:01,123] {logging_mixin.py:115} INFO - [2023-02-21 06:02:01,123] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:02:01,144] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 06:02:33,316] {processor.py:153} INFO - Started process (PID=65328) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:02:33,318] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:02:33,319] {logging_mixin.py:115} INFO - [2023-02-21 06:02:33,319] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:02:33,338] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:02:33,367] {logging_mixin.py:115} INFO - [2023-02-21 06:02:33,366] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:02:33,402] {logging_mixin.py:115} INFO - [2023-02-21 06:02:33,402] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:02:33,425] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 06:03:15,188] {processor.py:153} INFO - Started process (PID=65356) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:03:15,189] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:03:15,190] {logging_mixin.py:115} INFO - [2023-02-21 06:03:15,190] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:03:15,210] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:03:15,238] {logging_mixin.py:115} INFO - [2023-02-21 06:03:15,238] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:03:15,272] {logging_mixin.py:115} INFO - [2023-02-21 06:03:15,272] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:03:16,486] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 1.304 seconds
+[2023-02-21 06:03:47,072] {processor.py:153} INFO - Started process (PID=65386) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:03:47,073] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:03:47,074] {logging_mixin.py:115} INFO - [2023-02-21 06:03:47,073] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:03:47,097] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:03:47,858] {logging_mixin.py:115} INFO - [2023-02-21 06:03:47,858] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:03:48,557] {logging_mixin.py:115} INFO - [2023-02-21 06:03:48,557] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:03:48,579] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 1.515 seconds
+[2023-02-21 06:04:19,041] {processor.py:153} INFO - Started process (PID=65426) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:04:19,043] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:04:19,044] {logging_mixin.py:115} INFO - [2023-02-21 06:04:19,043] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:04:19,064] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:04:19,092] {logging_mixin.py:115} INFO - [2023-02-21 06:04:19,092] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:04:19,126] {logging_mixin.py:115} INFO - [2023-02-21 06:04:19,126] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:04:19,147] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 06:04:49,791] {processor.py:153} INFO - Started process (PID=65453) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:04:49,792] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:04:49,793] {logging_mixin.py:115} INFO - [2023-02-21 06:04:49,793] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:04:49,814] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:04:49,843] {logging_mixin.py:115} INFO - [2023-02-21 06:04:49,842] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:04:49,882] {logging_mixin.py:115} INFO - [2023-02-21 06:04:49,882] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:04:49,906] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.124 seconds
+[2023-02-21 06:05:24,634] {processor.py:153} INFO - Started process (PID=65489) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:05:24,636] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:05:24,637] {logging_mixin.py:115} INFO - [2023-02-21 06:05:24,637] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:05:24,660] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:05:24,692] {logging_mixin.py:115} INFO - [2023-02-21 06:05:24,691] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:05:24,725] {logging_mixin.py:115} INFO - [2023-02-21 06:05:24,725] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:05:24,747] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.119 seconds
+[2023-02-21 06:05:59,611] {processor.py:153} INFO - Started process (PID=65515) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:05:59,612] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:05:59,613] {logging_mixin.py:115} INFO - [2023-02-21 06:05:59,613] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:05:59,636] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:05:59,665] {logging_mixin.py:115} INFO - [2023-02-21 06:05:59,665] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:05:59,706] {logging_mixin.py:115} INFO - [2023-02-21 06:05:59,706] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:05:59,735] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.130 seconds
+[2023-02-21 06:06:34,126] {processor.py:153} INFO - Started process (PID=65533) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:06:34,128] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:06:34,129] {logging_mixin.py:115} INFO - [2023-02-21 06:06:34,129] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:06:34,153] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:06:34,181] {logging_mixin.py:115} INFO - [2023-02-21 06:06:34,180] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:06:34,220] {logging_mixin.py:115} INFO - [2023-02-21 06:06:34,220] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:06:34,241] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.121 seconds
+[2023-02-21 06:07:06,008] {processor.py:153} INFO - Started process (PID=65563) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:07:06,025] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:07:06,027] {logging_mixin.py:115} INFO - [2023-02-21 06:07:06,026] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:07:06,068] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:07:06,108] {logging_mixin.py:115} INFO - [2023-02-21 06:07:06,107] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:07:06,148] {logging_mixin.py:115} INFO - [2023-02-21 06:07:06,148] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:07:06,174] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.174 seconds
+[2023-02-21 06:07:37,161] {processor.py:153} INFO - Started process (PID=65591) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:07:37,162] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:07:37,163] {logging_mixin.py:115} INFO - [2023-02-21 06:07:37,163] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:07:37,185] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:07:37,218] {logging_mixin.py:115} INFO - [2023-02-21 06:07:37,218] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:07:37,255] {logging_mixin.py:115} INFO - [2023-02-21 06:07:37,255] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:07:37,286] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.130 seconds
+[2023-02-21 06:08:10,756] {processor.py:153} INFO - Started process (PID=65613) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:08:10,776] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:08:10,778] {logging_mixin.py:115} INFO - [2023-02-21 06:08:10,777] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:08:10,808] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:08:10,871] {logging_mixin.py:115} INFO - [2023-02-21 06:08:10,871] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:08:10,946] {logging_mixin.py:115} INFO - [2023-02-21 06:08:10,946] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:08:11,003] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.263 seconds
+[2023-02-21 06:08:42,344] {processor.py:153} INFO - Started process (PID=65641) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:08:42,346] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:08:42,347] {logging_mixin.py:115} INFO - [2023-02-21 06:08:42,347] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:08:42,369] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:08:42,399] {logging_mixin.py:115} INFO - [2023-02-21 06:08:42,399] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:08:42,436] {logging_mixin.py:115} INFO - [2023-02-21 06:08:42,436] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:08:42,457] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.118 seconds
+[2023-02-21 06:09:12,636] {processor.py:153} INFO - Started process (PID=65661) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:09:12,637] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:09:12,638] {logging_mixin.py:115} INFO - [2023-02-21 06:09:12,638] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:09:12,658] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:09:12,686] {logging_mixin.py:115} INFO - [2023-02-21 06:09:12,686] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:09:12,717] {logging_mixin.py:115} INFO - [2023-02-21 06:09:12,717] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:09:13,142] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.511 seconds
+[2023-02-21 06:09:43,578] {processor.py:153} INFO - Started process (PID=65713) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:09:43,580] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:09:43,581] {logging_mixin.py:115} INFO - [2023-02-21 06:09:43,581] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:09:43,602] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:09:43,630] {logging_mixin.py:115} INFO - [2023-02-21 06:09:43,630] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:09:43,665] {logging_mixin.py:115} INFO - [2023-02-21 06:09:43,665] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:09:43,693] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.121 seconds
+[2023-02-21 06:10:14,153] {processor.py:153} INFO - Started process (PID=65738) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:10:14,153] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:10:14,154] {logging_mixin.py:115} INFO - [2023-02-21 06:10:14,154] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:10:14,174] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:10:14,213] {logging_mixin.py:115} INFO - [2023-02-21 06:10:14,213] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:10:14,248] {logging_mixin.py:115} INFO - [2023-02-21 06:10:14,248] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:10:14,270] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.123 seconds
+[2023-02-21 06:10:44,832] {processor.py:153} INFO - Started process (PID=65755) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:10:44,836] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:10:44,838] {logging_mixin.py:115} INFO - [2023-02-21 06:10:44,838] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:10:44,863] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:10:44,896] {logging_mixin.py:115} INFO - [2023-02-21 06:10:44,895] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:10:44,937] {logging_mixin.py:115} INFO - [2023-02-21 06:10:44,937] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:10:44,974] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.148 seconds
+[2023-02-21 06:11:15,215] {processor.py:153} INFO - Started process (PID=65783) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:11:15,216] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:11:15,217] {logging_mixin.py:115} INFO - [2023-02-21 06:11:15,217] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:11:15,237] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:11:15,267] {logging_mixin.py:115} INFO - [2023-02-21 06:11:15,266] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:11:15,300] {logging_mixin.py:115} INFO - [2023-02-21 06:11:15,300] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:11:15,321] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.111 seconds
+[2023-02-21 06:11:45,748] {processor.py:153} INFO - Started process (PID=65806) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:11:45,751] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:11:45,753] {logging_mixin.py:115} INFO - [2023-02-21 06:11:45,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:11:45,789] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:11:45,834] {logging_mixin.py:115} INFO - [2023-02-21 06:11:45,834] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:11:45,867] {logging_mixin.py:115} INFO - [2023-02-21 06:11:45,867] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:11:45,887] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.144 seconds
+[2023-02-21 06:12:16,277] {processor.py:153} INFO - Started process (PID=65824) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:12:16,278] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:12:16,279] {logging_mixin.py:115} INFO - [2023-02-21 06:12:16,278] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:12:16,298] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:12:16,326] {logging_mixin.py:115} INFO - [2023-02-21 06:12:16,326] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:12:16,359] {logging_mixin.py:115} INFO - [2023-02-21 06:12:16,359] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:12:16,381] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.110 seconds
+[2023-02-21 06:12:46,812] {processor.py:153} INFO - Started process (PID=65847) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:12:46,814] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:12:46,815] {logging_mixin.py:115} INFO - [2023-02-21 06:12:46,815] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:12:46,839] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:12:46,870] {logging_mixin.py:115} INFO - [2023-02-21 06:12:46,870] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:12:46,905] {logging_mixin.py:115} INFO - [2023-02-21 06:12:46,905] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:12:46,927] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.121 seconds
+[2023-02-21 06:13:17,259] {processor.py:153} INFO - Started process (PID=65882) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:13:17,261] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:13:17,271] {logging_mixin.py:115} INFO - [2023-02-21 06:13:17,271] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:13:17,294] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:13:17,326] {logging_mixin.py:115} INFO - [2023-02-21 06:13:17,326] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:13:17,359] {logging_mixin.py:115} INFO - [2023-02-21 06:13:17,359] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:13:17,385] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.142 seconds
+[2023-02-21 06:13:47,598] {processor.py:153} INFO - Started process (PID=65902) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:13:47,601] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:13:47,602] {logging_mixin.py:115} INFO - [2023-02-21 06:13:47,602] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:13:47,626] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:13:47,656] {logging_mixin.py:115} INFO - [2023-02-21 06:13:47,656] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:13:47,689] {logging_mixin.py:115} INFO - [2023-02-21 06:13:47,689] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:13:47,711] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.119 seconds
+[2023-02-21 06:14:17,920] {processor.py:153} INFO - Started process (PID=65932) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:14:17,921] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:14:17,922] {logging_mixin.py:115} INFO - [2023-02-21 06:14:17,922] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:14:17,942] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:14:17,971] {logging_mixin.py:115} INFO - [2023-02-21 06:14:17,971] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:14:18,009] {logging_mixin.py:115} INFO - [2023-02-21 06:14:18,009] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:14:18,036] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.122 seconds
+[2023-02-21 06:14:49,121] {processor.py:153} INFO - Started process (PID=65970) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:14:49,122] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:14:49,123] {logging_mixin.py:115} INFO - [2023-02-21 06:14:49,123] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:14:49,143] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:14:49,174] {logging_mixin.py:115} INFO - [2023-02-21 06:14:49,173] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:14:49,217] {logging_mixin.py:115} INFO - [2023-02-21 06:14:49,217] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:14:49,244] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.128 seconds
+[2023-02-21 06:15:19,646] {processor.py:153} INFO - Started process (PID=66000) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:15:19,647] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:15:19,648] {logging_mixin.py:115} INFO - [2023-02-21 06:15:19,647] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:15:19,671] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:15:19,712] {logging_mixin.py:115} INFO - [2023-02-21 06:15:19,712] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:15:19,750] {logging_mixin.py:115} INFO - [2023-02-21 06:15:19,750] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:15:19,771] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.131 seconds
+[2023-02-21 06:15:50,126] {processor.py:153} INFO - Started process (PID=66017) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:15:50,128] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:15:50,129] {logging_mixin.py:115} INFO - [2023-02-21 06:15:50,129] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:15:50,151] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:15:50,179] {logging_mixin.py:115} INFO - [2023-02-21 06:15:50,178] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:15:50,210] {logging_mixin.py:115} INFO - [2023-02-21 06:15:50,210] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:15:50,231] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.110 seconds
+[2023-02-21 06:16:22,020] {processor.py:153} INFO - Started process (PID=66041) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:16:22,021] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:16:22,022] {logging_mixin.py:115} INFO - [2023-02-21 06:16:22,022] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:16:22,043] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:16:22,072] {logging_mixin.py:115} INFO - [2023-02-21 06:16:22,072] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:16:22,106] {logging_mixin.py:115} INFO - [2023-02-21 06:16:22,106] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:16:22,135] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.121 seconds
+[2023-02-21 06:16:53,694] {processor.py:153} INFO - Started process (PID=66076) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:16:53,696] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:16:53,697] {logging_mixin.py:115} INFO - [2023-02-21 06:16:53,697] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:16:53,719] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:16:53,750] {logging_mixin.py:115} INFO - [2023-02-21 06:16:53,750] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:16:53,791] {logging_mixin.py:115} INFO - [2023-02-21 06:16:53,791] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:16:53,811] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.123 seconds
+[2023-02-21 06:17:24,813] {processor.py:153} INFO - Started process (PID=66116) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:17:24,815] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:17:24,816] {logging_mixin.py:115} INFO - [2023-02-21 06:17:24,816] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:17:24,836] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:17:24,863] {logging_mixin.py:115} INFO - [2023-02-21 06:17:24,863] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:17:24,898] {logging_mixin.py:115} INFO - [2023-02-21 06:17:24,898] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:17:24,920] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 06:17:55,521] {processor.py:153} INFO - Started process (PID=66134) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:17:55,521] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:17:55,522] {logging_mixin.py:115} INFO - [2023-02-21 06:17:55,522] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:17:55,543] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:17:55,572] {logging_mixin.py:115} INFO - [2023-02-21 06:17:55,572] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:17:55,604] {logging_mixin.py:115} INFO - [2023-02-21 06:17:55,604] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:17:55,626] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.112 seconds
+[2023-02-21 06:18:26,147] {processor.py:153} INFO - Started process (PID=66204) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:18:26,148] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:18:26,149] {logging_mixin.py:115} INFO - [2023-02-21 06:18:26,149] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:18:26,172] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:18:26,206] {logging_mixin.py:115} INFO - [2023-02-21 06:18:26,206] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:18:26,248] {logging_mixin.py:115} INFO - [2023-02-21 06:18:26,248] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:18:26,279] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.142 seconds
+[2023-02-21 06:18:57,004] {processor.py:153} INFO - Started process (PID=66250) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:18:57,005] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:18:57,006] {logging_mixin.py:115} INFO - [2023-02-21 06:18:57,006] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:18:57,029] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:18:57,058] {logging_mixin.py:115} INFO - [2023-02-21 06:18:57,058] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:18:57,091] {logging_mixin.py:115} INFO - [2023-02-21 06:18:57,091] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:18:57,112] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.114 seconds
+[2023-02-21 06:19:27,812] {processor.py:153} INFO - Started process (PID=66274) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:19:27,814] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:19:27,815] {logging_mixin.py:115} INFO - [2023-02-21 06:19:27,815] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:19:27,841] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:19:27,874] {logging_mixin.py:115} INFO - [2023-02-21 06:19:27,874] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:19:27,916] {logging_mixin.py:115} INFO - [2023-02-21 06:19:27,916] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:19:27,947] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.141 seconds
+[2023-02-21 06:19:58,592] {processor.py:153} INFO - Started process (PID=66297) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:19:58,617] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:19:58,618] {logging_mixin.py:115} INFO - [2023-02-21 06:19:58,618] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:19:58,639] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:19:58,677] {logging_mixin.py:115} INFO - [2023-02-21 06:19:58,677] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:19:58,718] {logging_mixin.py:115} INFO - [2023-02-21 06:19:58,718] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:19:58,738] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.157 seconds
+[2023-02-21 06:20:29,494] {processor.py:153} INFO - Started process (PID=66322) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:20:29,495] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:20:29,496] {logging_mixin.py:115} INFO - [2023-02-21 06:20:29,495] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:20:29,516] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:20:29,546] {logging_mixin.py:115} INFO - [2023-02-21 06:20:29,545] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:20:29,579] {logging_mixin.py:115} INFO - [2023-02-21 06:20:29,579] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:20:29,603] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.115 seconds
+[2023-02-21 06:21:00,362] {processor.py:153} INFO - Started process (PID=66345) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:21:00,364] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:21:00,365] {logging_mixin.py:115} INFO - [2023-02-21 06:21:00,365] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:21:00,386] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:21:00,423] {logging_mixin.py:115} INFO - [2023-02-21 06:21:00,422] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:21:00,463] {logging_mixin.py:115} INFO - [2023-02-21 06:21:00,462] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:21:00,491] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.134 seconds
+[2023-02-21 06:21:31,032] {processor.py:153} INFO - Started process (PID=66363) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:21:31,032] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:21:31,033] {logging_mixin.py:115} INFO - [2023-02-21 06:21:31,033] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:21:31,055] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:21:31,085] {logging_mixin.py:115} INFO - [2023-02-21 06:21:31,085] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:21:31,121] {logging_mixin.py:115} INFO - [2023-02-21 06:21:31,121] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:21:31,144] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.118 seconds
+[2023-02-21 06:22:01,937] {processor.py:153} INFO - Started process (PID=66395) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:22:01,947] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:22:01,948] {logging_mixin.py:115} INFO - [2023-02-21 06:22:01,948] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:22:01,996] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:22:02,062] {logging_mixin.py:115} INFO - [2023-02-21 06:22:02,062] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:22:02,119] {logging_mixin.py:115} INFO - [2023-02-21 06:22:02,118] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:22:02,177] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.246 seconds
+[2023-02-21 06:22:32,750] {processor.py:153} INFO - Started process (PID=66420) to work on /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:22:32,752] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py for tasks to queue
+[2023-02-21 06:22:32,753] {logging_mixin.py:115} INFO - [2023-02-21 06:22:32,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:22:32,777] {processor.py:651} INFO - DAG(s) dict_keys(['06_monitoring_trigger_rules']) retrieved from /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py
+[2023-02-21 06:22:32,807] {logging_mixin.py:115} INFO - [2023-02-21 06:22:32,807] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:22:32,843] {logging_mixin.py:115} INFO - [2023-02-21 06:22:32,842] {dag.py:2968} INFO - Setting next_dagrun for 06_monitoring_trigger_rules to None, run_after=None
+[2023-02-21 06:22:32,866] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/06.2_monitoring_trigger_rules.py took 0.121 seconds

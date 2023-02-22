@@ -1,0 +1,35 @@
+[2023-02-06 00:22:17,279] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 06_monitoring_trigger_rules.task_2 scheduled__2022-11-01T00:00:00+00:00 [queued]>
+[2023-02-06 00:22:17,291] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 06_monitoring_trigger_rules.task_2 scheduled__2022-11-01T00:00:00+00:00 [queued]>
+[2023-02-06 00:22:17,291] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-06 00:22:17,291] {taskinstance.py:1377} INFO - Starting attempt 7 of 9
+[2023-02-06 00:22:17,291] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-06 00:22:17,312] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task_2> on 2022-11-01 00:00:00+00:00
+[2023-02-06 00:22:17,315] {standard_task_runner.py:52} INFO - Started process 40777 to run task
+[2023-02-06 00:22:17,320] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '06_monitoring_trigger_rules', 'task_2', 'scheduled__2022-11-01T00:00:00+00:00', '--job-id', '400', '--raw', '--subdir', 'DAGS_FOLDER/06.2_monitoring_trigger_rules.py', '--cfg-path', '/tmp/tmpnzd0emxt', '--error-file', '/tmp/tmp1hzbd1yg']
+[2023-02-06 00:22:17,321] {standard_task_runner.py:80} INFO - Job 400: Subtask task_2
+[2023-02-06 00:22:17,400] {task_command.py:371} INFO - Running <TaskInstance: 06_monitoring_trigger_rules.task_2 scheduled__2022-11-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-06 00:22:17,476] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=06_monitoring_trigger_rules
+AIRFLOW_CTX_TASK_ID=task_2
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=7
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-01T00:00:00+00:00
+[2023-02-06 00:22:17,478] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-06 00:22:17,479] {subprocess.py:74} INFO - Running command: ['bash', '-c', "sleep 2 && echo 'Second task!"]
+[2023-02-06 00:22:17,490] {subprocess.py:85} INFO - Output:
+[2023-02-06 00:22:17,492] {subprocess.py:92} INFO - bash: -c: line 1: unexpected EOF while looking for matching `''
+[2023-02-06 00:22:17,492] {subprocess.py:92} INFO - bash: -c: line 2: syntax error: unexpected end of file
+[2023-02-06 00:22:17,493] {subprocess.py:96} INFO - Command exited with return code 2
+[2023-02-06 00:22:17,506] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/operators/bash.py", line 194, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2023-02-06 00:22:17,510] {taskinstance.py:1415} INFO - Marking task as UP_FOR_RETRY. dag_id=06_monitoring_trigger_rules, task_id=task_2, execution_date=20221101T000000, start_date=20230206T052217, end_date=20230206T052217
+[2023-02-06 00:22:17,527] {standard_task_runner.py:92} ERROR - Failed to execute job 400 for task task_2 (Bash command failed. The command returned a non-zero exit code 2.; 40777)
+[2023-02-06 00:22:17,572] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-02-06 00:22:17,609] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

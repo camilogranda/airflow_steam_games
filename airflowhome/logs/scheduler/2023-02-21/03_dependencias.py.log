@@ -1,0 +1,1099 @@
+[2023-02-20 23:42:36,288] {processor.py:153} INFO - Started process (PID=53241) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:42:36,289] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:42:36,290] {logging_mixin.py:115} INFO - [2023-02-20 23:42:36,290] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:42:36,306] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:42:36,336] {logging_mixin.py:115} INFO - [2023-02-20 23:42:36,336] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:42:36,370] {logging_mixin.py:115} INFO - [2023-02-20 23:42:36,370] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:42:36,390] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.109 seconds
+[2023-02-20 23:43:07,054] {processor.py:153} INFO - Started process (PID=53265) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:43:07,055] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:43:07,056] {logging_mixin.py:115} INFO - [2023-02-20 23:43:07,056] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:43:07,078] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:43:07,109] {logging_mixin.py:115} INFO - [2023-02-20 23:43:07,109] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:43:07,141] {logging_mixin.py:115} INFO - [2023-02-20 23:43:07,141] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:43:07,161] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.112 seconds
+[2023-02-20 23:43:39,021] {processor.py:153} INFO - Started process (PID=53281) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:43:39,023] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:43:39,024] {logging_mixin.py:115} INFO - [2023-02-20 23:43:39,024] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:43:39,039] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:43:39,070] {logging_mixin.py:115} INFO - [2023-02-20 23:43:39,070] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:43:39,104] {logging_mixin.py:115} INFO - [2023-02-20 23:43:39,104] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:43:39,129] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.114 seconds
+[2023-02-20 23:44:09,514] {processor.py:153} INFO - Started process (PID=53301) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:44:09,515] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:44:09,516] {logging_mixin.py:115} INFO - [2023-02-20 23:44:09,515] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:44:09,531] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:44:09,560] {logging_mixin.py:115} INFO - [2023-02-20 23:44:09,560] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:44:09,594] {logging_mixin.py:115} INFO - [2023-02-20 23:44:09,594] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:44:09,620] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.112 seconds
+[2023-02-20 23:44:40,064] {processor.py:153} INFO - Started process (PID=53317) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:44:40,079] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:44:40,080] {logging_mixin.py:115} INFO - [2023-02-20 23:44:40,080] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:44:40,097] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:44:40,136] {logging_mixin.py:115} INFO - [2023-02-20 23:44:40,135] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:44:40,182] {logging_mixin.py:115} INFO - [2023-02-20 23:44:40,182] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:44:40,206] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.147 seconds
+[2023-02-20 23:45:10,672] {processor.py:153} INFO - Started process (PID=53355) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:45:10,673] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:45:10,674] {logging_mixin.py:115} INFO - [2023-02-20 23:45:10,674] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:45:10,691] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:45:10,719] {logging_mixin.py:115} INFO - [2023-02-20 23:45:10,719] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:45:10,754] {logging_mixin.py:115} INFO - [2023-02-20 23:45:10,752] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:45:10,785] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.119 seconds
+[2023-02-20 23:45:41,201] {processor.py:153} INFO - Started process (PID=53498) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:45:41,203] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:45:41,204] {logging_mixin.py:115} INFO - [2023-02-20 23:45:41,203] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:45:41,218] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:45:41,247] {logging_mixin.py:115} INFO - [2023-02-20 23:45:41,246] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:45:41,281] {logging_mixin.py:115} INFO - [2023-02-20 23:45:41,280] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:45:41,305] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.110 seconds
+[2023-02-20 23:46:11,722] {processor.py:153} INFO - Started process (PID=53523) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:46:11,723] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:46:11,724] {logging_mixin.py:115} INFO - [2023-02-20 23:46:11,724] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:46:11,739] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:46:11,776] {logging_mixin.py:115} INFO - [2023-02-20 23:46:11,776] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:46:11,812] {logging_mixin.py:115} INFO - [2023-02-20 23:46:11,811] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:46:11,831] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.114 seconds
+[2023-02-20 23:46:42,852] {processor.py:153} INFO - Started process (PID=53653) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:46:42,854] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:46:42,855] {logging_mixin.py:115} INFO - [2023-02-20 23:46:42,855] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:46:42,871] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:46:42,900] {logging_mixin.py:115} INFO - [2023-02-20 23:46:42,900] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:46:42,935] {logging_mixin.py:115} INFO - [2023-02-20 23:46:42,934] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:46:42,955] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds
+[2023-02-20 23:47:14,125] {processor.py:153} INFO - Started process (PID=53801) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:47:14,139] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:47:14,140] {logging_mixin.py:115} INFO - [2023-02-20 23:47:14,140] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:47:14,194] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:47:14,288] {logging_mixin.py:115} INFO - [2023-02-20 23:47:14,288] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:47:14,356] {logging_mixin.py:115} INFO - [2023-02-20 23:47:14,356] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:47:14,495] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.402 seconds
+[2023-02-20 23:47:44,972] {processor.py:153} INFO - Started process (PID=53849) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:47:44,974] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:47:44,976] {logging_mixin.py:115} INFO - [2023-02-20 23:47:44,975] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:47:44,992] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:47:45,021] {logging_mixin.py:115} INFO - [2023-02-20 23:47:45,021] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:47:45,059] {logging_mixin.py:115} INFO - [2023-02-20 23:47:45,059] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:47:45,080] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.113 seconds
+[2023-02-20 23:48:15,506] {processor.py:153} INFO - Started process (PID=53870) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:48:15,506] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:48:15,507] {logging_mixin.py:115} INFO - [2023-02-20 23:48:15,507] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:48:15,523] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:48:15,551] {logging_mixin.py:115} INFO - [2023-02-20 23:48:15,551] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:48:15,585] {logging_mixin.py:115} INFO - [2023-02-20 23:48:15,585] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:48:15,612] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.112 seconds
+[2023-02-20 23:48:46,001] {processor.py:153} INFO - Started process (PID=53894) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:48:46,003] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:48:46,004] {logging_mixin.py:115} INFO - [2023-02-20 23:48:46,003] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:48:46,019] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:48:46,058] {logging_mixin.py:115} INFO - [2023-02-20 23:48:46,058] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:48:46,100] {logging_mixin.py:115} INFO - [2023-02-20 23:48:46,100] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:48:46,155] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.160 seconds
+[2023-02-20 23:49:16,521] {processor.py:153} INFO - Started process (PID=53911) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:49:16,522] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:49:16,523] {logging_mixin.py:115} INFO - [2023-02-20 23:49:16,523] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:49:16,538] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:49:16,569] {logging_mixin.py:115} INFO - [2023-02-20 23:49:16,568] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:49:16,606] {logging_mixin.py:115} INFO - [2023-02-20 23:49:16,606] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:49:16,629] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.115 seconds
+[2023-02-20 23:49:47,015] {processor.py:153} INFO - Started process (PID=53928) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:49:47,017] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:49:47,018] {logging_mixin.py:115} INFO - [2023-02-20 23:49:47,018] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:49:47,034] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:49:47,066] {logging_mixin.py:115} INFO - [2023-02-20 23:49:47,066] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:49:47,107] {logging_mixin.py:115} INFO - [2023-02-20 23:49:47,106] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:49:47,128] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.118 seconds
+[2023-02-20 23:50:17,514] {processor.py:153} INFO - Started process (PID=53955) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:50:17,518] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:50:17,519] {logging_mixin.py:115} INFO - [2023-02-20 23:50:17,519] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:50:17,534] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:50:17,565] {logging_mixin.py:115} INFO - [2023-02-20 23:50:17,565] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:50:17,598] {logging_mixin.py:115} INFO - [2023-02-20 23:50:17,598] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:50:17,645] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.136 seconds
+[2023-02-20 23:50:48,019] {processor.py:153} INFO - Started process (PID=53973) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:50:48,020] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:50:48,021] {logging_mixin.py:115} INFO - [2023-02-20 23:50:48,021] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:50:48,036] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:50:48,067] {logging_mixin.py:115} INFO - [2023-02-20 23:50:48,067] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:50:48,096] {logging_mixin.py:115} INFO - [2023-02-20 23:50:48,096] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:50:48,122] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds
+[2023-02-20 23:51:18,272] {processor.py:153} INFO - Started process (PID=53994) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:51:18,275] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:51:18,276] {logging_mixin.py:115} INFO - [2023-02-20 23:51:18,275] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:51:18,291] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:51:18,323] {logging_mixin.py:115} INFO - [2023-02-20 23:51:18,323] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:51:18,355] {logging_mixin.py:115} INFO - [2023-02-20 23:51:18,355] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:51:18,374] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.110 seconds
+[2023-02-20 23:51:48,747] {processor.py:153} INFO - Started process (PID=54015) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:51:48,748] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:51:48,749] {logging_mixin.py:115} INFO - [2023-02-20 23:51:48,748] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:51:48,764] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:51:48,795] {logging_mixin.py:115} INFO - [2023-02-20 23:51:48,795] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:51:48,826] {logging_mixin.py:115} INFO - [2023-02-20 23:51:48,825] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:51:48,871] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.130 seconds
+[2023-02-20 23:52:23,909] {processor.py:153} INFO - Started process (PID=54289) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:52:23,911] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:52:23,912] {logging_mixin.py:115} INFO - [2023-02-20 23:52:23,912] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:52:23,951] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:52:24,020] {logging_mixin.py:115} INFO - [2023-02-20 23:52:24,020] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:52:24,050] {logging_mixin.py:115} INFO - [2023-02-20 23:52:24,050] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:52:24,090] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.197 seconds
+[2023-02-20 23:52:54,596] {processor.py:153} INFO - Started process (PID=54456) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:52:54,598] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:52:54,599] {logging_mixin.py:115} INFO - [2023-02-20 23:52:54,599] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:52:54,621] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:52:54,651] {logging_mixin.py:115} INFO - [2023-02-20 23:52:54,651] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:52:54,691] {logging_mixin.py:115} INFO - [2023-02-20 23:52:54,691] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:52:54,713] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.123 seconds
+[2023-02-20 23:53:25,536] {processor.py:153} INFO - Started process (PID=54486) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:53:25,537] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:53:25,538] {logging_mixin.py:115} INFO - [2023-02-20 23:53:25,538] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:53:25,558] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:53:25,585] {logging_mixin.py:115} INFO - [2023-02-20 23:53:25,585] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:53:25,624] {logging_mixin.py:115} INFO - [2023-02-20 23:53:25,623] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:53:25,655] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.124 seconds
+[2023-02-20 23:54:05,286] {processor.py:153} INFO - Started process (PID=54717) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:54:05,290] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:54:05,291] {logging_mixin.py:115} INFO - [2023-02-20 23:54:05,291] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:54:05,315] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:54:05,351] {logging_mixin.py:115} INFO - [2023-02-20 23:54:05,351] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:54:05,395] {logging_mixin.py:115} INFO - [2023-02-20 23:54:05,394] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:54:05,428] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.147 seconds
+[2023-02-20 23:54:41,716] {processor.py:153} INFO - Started process (PID=54768) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:54:41,717] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:54:41,718] {logging_mixin.py:115} INFO - [2023-02-20 23:54:41,718] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:54:41,744] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:54:41,779] {logging_mixin.py:115} INFO - [2023-02-20 23:54:41,778] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:54:41,817] {logging_mixin.py:115} INFO - [2023-02-20 23:54:41,817] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:54:41,842] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.134 seconds
+[2023-02-20 23:55:13,731] {processor.py:153} INFO - Started process (PID=54789) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:55:13,741] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:55:13,743] {logging_mixin.py:115} INFO - [2023-02-20 23:55:13,742] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:55:13,770] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:55:13,841] {logging_mixin.py:115} INFO - [2023-02-20 23:55:13,840] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:55:13,876] {logging_mixin.py:115} INFO - [2023-02-20 23:55:13,876] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:55:13,905] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.181 seconds
+[2023-02-20 23:55:48,940] {processor.py:153} INFO - Started process (PID=54807) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:55:48,942] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:55:48,943] {logging_mixin.py:115} INFO - [2023-02-20 23:55:48,942] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:55:48,959] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:55:48,994] {logging_mixin.py:115} INFO - [2023-02-20 23:55:48,993] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:55:49,031] {logging_mixin.py:115} INFO - [2023-02-20 23:55:49,031] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:55:50,666] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 1.732 seconds
+[2023-02-20 23:56:21,184] {processor.py:153} INFO - Started process (PID=54835) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:56:21,185] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:56:21,186] {logging_mixin.py:115} INFO - [2023-02-20 23:56:21,186] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:56:21,201] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:56:21,230] {logging_mixin.py:115} INFO - [2023-02-20 23:56:21,230] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:56:21,261] {logging_mixin.py:115} INFO - [2023-02-20 23:56:21,260] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:56:22,072] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.894 seconds
+[2023-02-20 23:56:53,380] {processor.py:153} INFO - Started process (PID=54853) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:56:53,386] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:56:53,387] {logging_mixin.py:115} INFO - [2023-02-20 23:56:53,387] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:56:53,403] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:56:55,968] {logging_mixin.py:115} INFO - [2023-02-20 23:56:55,968] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:56:56,005] {logging_mixin.py:115} INFO - [2023-02-20 23:56:56,005] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:56:56,523] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 3.149 seconds
+[2023-02-20 23:57:27,570] {processor.py:153} INFO - Started process (PID=55053) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:57:27,571] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-20 23:57:27,572] {logging_mixin.py:115} INFO - [2023-02-20 23:57:27,572] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:57:27,625] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-20 23:57:27,742] {logging_mixin.py:115} INFO - [2023-02-20 23:57:27,742] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:57:27,857] {logging_mixin.py:115} INFO - [2023-02-20 23:57:27,857] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-20 23:57:27,940] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.386 seconds
+[2023-02-21 03:44:31,310] {processor.py:153} INFO - Started process (PID=58856) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:44:31,329] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:44:31,330] {logging_mixin.py:115} INFO - [2023-02-21 03:44:31,330] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:44:31,381] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:44:31,567] {logging_mixin.py:115} INFO - [2023-02-21 03:44:31,567] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:44:31,670] {logging_mixin.py:115} INFO - [2023-02-21 03:44:31,669] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:44:31,775] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.481 seconds
+[2023-02-21 03:48:46,870] {processor.py:153} INFO - Started process (PID=59374) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:48:46,896] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:48:46,898] {logging_mixin.py:115} INFO - [2023-02-21 03:48:46,898] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:48:46,922] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:48:46,980] {logging_mixin.py:115} INFO - [2023-02-21 03:48:46,980] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:48:47,026] {logging_mixin.py:115} INFO - [2023-02-21 03:48:47,026] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:48:47,069] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.223 seconds
+[2023-02-21 03:49:19,839] {processor.py:153} INFO - Started process (PID=59676) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:49:19,848] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:49:19,850] {logging_mixin.py:115} INFO - [2023-02-21 03:49:19,849] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:49:19,885] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:49:20,002] {logging_mixin.py:115} INFO - [2023-02-21 03:49:19,977] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:49:20,047] {logging_mixin.py:115} INFO - [2023-02-21 03:49:20,046] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:49:20,082] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.248 seconds
+[2023-02-21 03:52:03,961] {processor.py:153} INFO - Started process (PID=59907) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:52:03,969] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:52:03,970] {logging_mixin.py:115} INFO - [2023-02-21 03:52:03,970] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:52:04,035] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:52:04,082] {logging_mixin.py:115} INFO - [2023-02-21 03:52:04,080] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:52:04,142] {logging_mixin.py:115} INFO - [2023-02-21 03:52:04,142] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:52:04,181] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.233 seconds
+[2023-02-21 03:52:46,660] {processor.py:153} INFO - Started process (PID=59977) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:52:46,663] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:52:46,664] {logging_mixin.py:115} INFO - [2023-02-21 03:52:46,664] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:52:46,688] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:52:46,717] {logging_mixin.py:115} INFO - [2023-02-21 03:52:46,717] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:52:46,753] {logging_mixin.py:115} INFO - [2023-02-21 03:52:46,753] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:52:46,774] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.120 seconds
+[2023-02-21 03:53:17,968] {processor.py:153} INFO - Started process (PID=60020) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:53:17,969] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:53:17,971] {logging_mixin.py:115} INFO - [2023-02-21 03:53:17,970] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:53:17,992] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:53:18,020] {logging_mixin.py:115} INFO - [2023-02-21 03:53:18,020] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:53:18,055] {logging_mixin.py:115} INFO - [2023-02-21 03:53:18,055] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:53:18,092] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.131 seconds
+[2023-02-21 03:53:48,708] {processor.py:153} INFO - Started process (PID=60113) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:53:48,710] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:53:48,711] {logging_mixin.py:115} INFO - [2023-02-21 03:53:48,711] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:53:48,726] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:53:48,756] {logging_mixin.py:115} INFO - [2023-02-21 03:53:48,756] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:53:48,801] {logging_mixin.py:115} INFO - [2023-02-21 03:53:48,801] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:53:48,904] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.203 seconds
+[2023-02-21 03:54:19,269] {processor.py:153} INFO - Started process (PID=60130) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:54:19,270] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:54:19,271] {logging_mixin.py:115} INFO - [2023-02-21 03:54:19,271] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:54:19,286] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:54:19,318] {logging_mixin.py:115} INFO - [2023-02-21 03:54:19,318] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:54:19,352] {logging_mixin.py:115} INFO - [2023-02-21 03:54:19,352] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:54:19,375] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.112 seconds
+[2023-02-21 03:54:49,832] {processor.py:153} INFO - Started process (PID=60154) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:54:49,835] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:54:49,836] {logging_mixin.py:115} INFO - [2023-02-21 03:54:49,836] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:54:49,852] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:54:49,882] {logging_mixin.py:115} INFO - [2023-02-21 03:54:49,882] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:54:49,918] {logging_mixin.py:115} INFO - [2023-02-21 03:54:49,918] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:54:49,947] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.121 seconds
+[2023-02-21 03:55:20,539] {processor.py:153} INFO - Started process (PID=60180) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:55:20,540] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:55:20,541] {logging_mixin.py:115} INFO - [2023-02-21 03:55:20,541] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:55:20,557] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:55:20,590] {logging_mixin.py:115} INFO - [2023-02-21 03:55:20,590] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:55:20,624] {logging_mixin.py:115} INFO - [2023-02-21 03:55:20,623] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:55:20,648] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.115 seconds
+[2023-02-21 03:55:51,087] {processor.py:153} INFO - Started process (PID=60204) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:55:51,090] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:55:51,093] {logging_mixin.py:115} INFO - [2023-02-21 03:55:51,092] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:55:51,119] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:55:51,153] {logging_mixin.py:115} INFO - [2023-02-21 03:55:51,153] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:55:51,191] {logging_mixin.py:115} INFO - [2023-02-21 03:55:51,191] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:55:51,212] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.132 seconds
+[2023-02-21 03:56:21,665] {processor.py:153} INFO - Started process (PID=60233) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:56:21,666] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:56:21,666] {logging_mixin.py:115} INFO - [2023-02-21 03:56:21,666] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:56:21,697] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:56:21,780] {logging_mixin.py:115} INFO - [2023-02-21 03:56:21,779] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:56:21,811] {logging_mixin.py:115} INFO - [2023-02-21 03:56:21,810] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:56:21,831] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.172 seconds
+[2023-02-21 03:56:52,240] {processor.py:153} INFO - Started process (PID=60258) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:56:52,244] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:56:52,249] {logging_mixin.py:115} INFO - [2023-02-21 03:56:52,249] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:56:52,264] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:56:52,292] {logging_mixin.py:115} INFO - [2023-02-21 03:56:52,292] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:56:52,324] {logging_mixin.py:115} INFO - [2023-02-21 03:56:52,324] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:56:52,345] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.110 seconds
+[2023-02-21 03:57:22,756] {processor.py:153} INFO - Started process (PID=60290) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:57:22,759] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:57:22,760] {logging_mixin.py:115} INFO - [2023-02-21 03:57:22,760] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:57:22,775] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:57:22,802] {logging_mixin.py:115} INFO - [2023-02-21 03:57:22,802] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:57:22,832] {logging_mixin.py:115} INFO - [2023-02-21 03:57:22,832] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:57:22,856] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.106 seconds
+[2023-02-21 03:57:53,271] {processor.py:153} INFO - Started process (PID=60326) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:57:53,273] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:57:53,274] {logging_mixin.py:115} INFO - [2023-02-21 03:57:53,274] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:57:53,289] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:57:53,317] {logging_mixin.py:115} INFO - [2023-02-21 03:57:53,317] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:57:53,348] {logging_mixin.py:115} INFO - [2023-02-21 03:57:53,347] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:57:53,372] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.106 seconds
+[2023-02-21 03:58:23,817] {processor.py:153} INFO - Started process (PID=60355) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:58:23,818] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:58:23,819] {logging_mixin.py:115} INFO - [2023-02-21 03:58:23,819] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:58:23,835] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:58:23,864] {logging_mixin.py:115} INFO - [2023-02-21 03:58:23,863] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:58:23,895] {logging_mixin.py:115} INFO - [2023-02-21 03:58:23,894] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:58:23,921] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.109 seconds
+[2023-02-21 03:58:54,361] {processor.py:153} INFO - Started process (PID=60391) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:58:54,394] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 03:58:54,396] {logging_mixin.py:115} INFO - [2023-02-21 03:58:54,395] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:58:54,412] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 03:58:54,442] {logging_mixin.py:115} INFO - [2023-02-21 03:58:54,442] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:58:54,478] {logging_mixin.py:115} INFO - [2023-02-21 03:58:54,478] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 03:58:54,500] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.144 seconds
+[2023-02-21 05:08:04,113] {processor.py:153} INFO - Started process (PID=62965) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:08:04,122] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:08:04,135] {logging_mixin.py:115} INFO - [2023-02-21 05:08:04,133] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:08:04,281] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:08:04,635] {logging_mixin.py:115} INFO - [2023-02-21 05:08:04,622] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:09:25,541] {logging_mixin.py:115} INFO - [2023-02-21 05:09:08,218] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:09:38,233] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 94.153 seconds
+[2023-02-21 05:24:12,572] {processor.py:153} INFO - Started process (PID=63770) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:24:12,574] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:24:12,575] {logging_mixin.py:115} INFO - [2023-02-21 05:24:12,575] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:24:12,593] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:24:12,622] {logging_mixin.py:115} INFO - [2023-02-21 05:24:12,622] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:24:12,653] {logging_mixin.py:115} INFO - [2023-02-21 05:24:12,653] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:24:12,676] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.110 seconds
+[2023-02-21 05:24:43,206] {processor.py:153} INFO - Started process (PID=63787) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:24:43,208] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:24:43,209] {logging_mixin.py:115} INFO - [2023-02-21 05:24:43,209] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:24:43,225] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:24:43,254] {logging_mixin.py:115} INFO - [2023-02-21 05:24:43,254] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:24:43,285] {logging_mixin.py:115} INFO - [2023-02-21 05:24:43,285] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:24:43,309] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds
+[2023-02-21 05:25:14,665] {processor.py:153} INFO - Started process (PID=63811) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:25:14,666] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:25:14,667] {logging_mixin.py:115} INFO - [2023-02-21 05:25:14,667] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:25:14,683] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:25:14,716] {logging_mixin.py:115} INFO - [2023-02-21 05:25:14,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:25:14,752] {logging_mixin.py:115} INFO - [2023-02-21 05:25:14,752] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:25:14,774] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.115 seconds
+[2023-02-21 05:25:45,230] {processor.py:153} INFO - Started process (PID=63842) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:25:45,233] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:25:45,234] {logging_mixin.py:115} INFO - [2023-02-21 05:25:45,234] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:25:45,249] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:25:45,279] {logging_mixin.py:115} INFO - [2023-02-21 05:25:45,279] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:25:45,311] {logging_mixin.py:115} INFO - [2023-02-21 05:25:45,311] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:25:45,334] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.110 seconds
+[2023-02-21 05:26:16,338] {processor.py:153} INFO - Started process (PID=63874) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:26:16,340] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:26:16,342] {logging_mixin.py:115} INFO - [2023-02-21 05:26:16,342] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:26:16,359] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:26:16,389] {logging_mixin.py:115} INFO - [2023-02-21 05:26:16,389] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:26:16,428] {logging_mixin.py:115} INFO - [2023-02-21 05:26:16,428] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:26:16,450] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.118 seconds
+[2023-02-21 05:26:47,316] {processor.py:153} INFO - Started process (PID=63895) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:26:47,317] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:26:47,318] {logging_mixin.py:115} INFO - [2023-02-21 05:26:47,317] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:26:47,333] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:26:47,362] {logging_mixin.py:115} INFO - [2023-02-21 05:26:47,361] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:26:47,392] {logging_mixin.py:115} INFO - [2023-02-21 05:26:47,392] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:26:47,418] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds
+[2023-02-21 05:27:18,277] {processor.py:153} INFO - Started process (PID=63916) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:27:18,278] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:27:18,279] {logging_mixin.py:115} INFO - [2023-02-21 05:27:18,279] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:27:18,294] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:27:18,323] {logging_mixin.py:115} INFO - [2023-02-21 05:27:18,323] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:27:18,354] {logging_mixin.py:115} INFO - [2023-02-21 05:27:18,354] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:27:18,377] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.106 seconds
+[2023-02-21 05:27:48,815] {processor.py:153} INFO - Started process (PID=63934) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:27:48,816] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:27:48,817] {logging_mixin.py:115} INFO - [2023-02-21 05:27:48,817] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:27:48,832] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:27:48,862] {logging_mixin.py:115} INFO - [2023-02-21 05:27:48,862] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:27:48,893] {logging_mixin.py:115} INFO - [2023-02-21 05:27:48,893] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:27:48,917] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.107 seconds
+[2023-02-21 05:28:19,368] {processor.py:153} INFO - Started process (PID=63957) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:28:19,374] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:28:19,375] {logging_mixin.py:115} INFO - [2023-02-21 05:28:19,374] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:28:19,404] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:28:19,433] {logging_mixin.py:115} INFO - [2023-02-21 05:28:19,433] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:28:19,463] {logging_mixin.py:115} INFO - [2023-02-21 05:28:19,463] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:28:19,485] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.141 seconds
+[2023-02-21 05:28:50,888] {processor.py:153} INFO - Started process (PID=63974) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:28:50,889] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:28:50,889] {logging_mixin.py:115} INFO - [2023-02-21 05:28:50,889] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:28:50,905] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:28:50,932] {logging_mixin.py:115} INFO - [2023-02-21 05:28:50,931] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:28:50,961] {logging_mixin.py:115} INFO - [2023-02-21 05:28:50,961] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:28:50,984] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.102 seconds
+[2023-02-21 05:29:21,422] {processor.py:153} INFO - Started process (PID=63996) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:29:21,425] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:29:21,427] {logging_mixin.py:115} INFO - [2023-02-21 05:29:21,427] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:29:21,443] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:29:21,491] {logging_mixin.py:115} INFO - [2023-02-21 05:29:21,491] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:29:21,523] {logging_mixin.py:115} INFO - [2023-02-21 05:29:21,522] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:29:21,543] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.126 seconds
+[2023-02-21 05:29:55,520] {processor.py:153} INFO - Started process (PID=64019) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:29:55,540] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:29:55,541] {logging_mixin.py:115} INFO - [2023-02-21 05:29:55,540] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:29:55,557] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:29:55,586] {logging_mixin.py:115} INFO - [2023-02-21 05:29:55,585] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:29:55,615] {logging_mixin.py:115} INFO - [2023-02-21 05:29:55,615] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:29:55,637] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.123 seconds
+[2023-02-21 05:30:26,770] {processor.py:153} INFO - Started process (PID=64037) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:30:26,771] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:30:26,773] {logging_mixin.py:115} INFO - [2023-02-21 05:30:26,773] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:30:26,788] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:30:26,816] {logging_mixin.py:115} INFO - [2023-02-21 05:30:26,816] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:30:26,847] {logging_mixin.py:115} INFO - [2023-02-21 05:30:26,846] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:30:26,869] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.106 seconds
+[2023-02-21 05:30:57,117] {processor.py:153} INFO - Started process (PID=64058) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:30:57,119] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:30:57,120] {logging_mixin.py:115} INFO - [2023-02-21 05:30:57,120] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:30:57,145] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:30:57,179] {logging_mixin.py:115} INFO - [2023-02-21 05:30:57,178] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:30:57,220] {logging_mixin.py:115} INFO - [2023-02-21 05:30:57,220] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:30:57,255] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.147 seconds
+[2023-02-21 05:31:28,125] {processor.py:153} INFO - Started process (PID=64081) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:31:28,127] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:31:28,128] {logging_mixin.py:115} INFO - [2023-02-21 05:31:28,128] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:31:28,143] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:31:28,172] {logging_mixin.py:115} INFO - [2023-02-21 05:31:28,171] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:31:28,202] {logging_mixin.py:115} INFO - [2023-02-21 05:31:28,202] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:31:28,224] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.105 seconds
+[2023-02-21 05:31:58,882] {processor.py:153} INFO - Started process (PID=64100) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:31:58,890] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:31:58,891] {logging_mixin.py:115} INFO - [2023-02-21 05:31:58,891] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:31:58,915] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:31:58,974] {logging_mixin.py:115} INFO - [2023-02-21 05:31:58,973] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:31:59,038] {logging_mixin.py:115} INFO - [2023-02-21 05:31:59,038] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:31:59,063] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.197 seconds
+[2023-02-21 05:32:30,992] {processor.py:153} INFO - Started process (PID=64132) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:32:30,993] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:32:30,994] {logging_mixin.py:115} INFO - [2023-02-21 05:32:30,994] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:32:31,009] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:32:31,038] {logging_mixin.py:115} INFO - [2023-02-21 05:32:31,038] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:32:31,069] {logging_mixin.py:115} INFO - [2023-02-21 05:32:31,069] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:32:31,141] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.156 seconds
+[2023-02-21 05:33:03,394] {processor.py:153} INFO - Started process (PID=64165) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:33:03,396] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:33:03,398] {logging_mixin.py:115} INFO - [2023-02-21 05:33:03,397] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:33:03,423] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:33:03,455] {logging_mixin.py:115} INFO - [2023-02-21 05:33:03,455] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:33:03,490] {logging_mixin.py:115} INFO - [2023-02-21 05:33:03,490] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:33:03,511] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.123 seconds
+[2023-02-21 05:33:44,647] {processor.py:153} INFO - Started process (PID=64182) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:33:44,648] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:33:44,649] {logging_mixin.py:115} INFO - [2023-02-21 05:33:44,649] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:33:44,665] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:33:44,693] {logging_mixin.py:115} INFO - [2023-02-21 05:33:44,692] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:33:44,723] {logging_mixin.py:115} INFO - [2023-02-21 05:33:44,723] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:33:47,427] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 2.785 seconds
+[2023-02-21 05:34:18,305] {processor.py:153} INFO - Started process (PID=64202) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:34:18,305] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:34:18,306] {logging_mixin.py:115} INFO - [2023-02-21 05:34:18,306] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:34:18,321] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:34:18,349] {logging_mixin.py:115} INFO - [2023-02-21 05:34:18,349] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:34:18,386] {logging_mixin.py:115} INFO - [2023-02-21 05:34:18,386] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:34:18,407] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds
+[2023-02-21 05:34:51,348] {processor.py:153} INFO - Started process (PID=64219) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:34:51,353] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:34:51,354] {logging_mixin.py:115} INFO - [2023-02-21 05:34:51,354] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:34:51,375] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:34:51,410] {logging_mixin.py:115} INFO - [2023-02-21 05:34:51,409] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:34:51,452] {logging_mixin.py:115} INFO - [2023-02-21 05:34:51,452] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:34:51,485] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.145 seconds
+[2023-02-21 05:35:28,633] {processor.py:153} INFO - Started process (PID=64240) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:35:28,635] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:35:28,636] {logging_mixin.py:115} INFO - [2023-02-21 05:35:28,636] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:35:28,653] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:35:28,685] {logging_mixin.py:115} INFO - [2023-02-21 05:35:28,685] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:35:28,720] {logging_mixin.py:115} INFO - [2023-02-21 05:35:28,720] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:35:28,751] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.123 seconds
+[2023-02-21 05:36:19,480] {processor.py:153} INFO - Started process (PID=64267) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:36:19,482] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:36:19,483] {logging_mixin.py:115} INFO - [2023-02-21 05:36:19,483] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:36:19,499] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:36:19,528] {logging_mixin.py:115} INFO - [2023-02-21 05:36:19,528] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:36:19,563] {logging_mixin.py:115} INFO - [2023-02-21 05:36:19,563] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:36:20,080] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.607 seconds
+[2023-02-21 05:36:51,588] {processor.py:153} INFO - Started process (PID=64284) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:36:51,590] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:36:51,591] {logging_mixin.py:115} INFO - [2023-02-21 05:36:51,591] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:36:51,607] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:36:51,636] {logging_mixin.py:115} INFO - [2023-02-21 05:36:51,636] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:36:51,667] {logging_mixin.py:115} INFO - [2023-02-21 05:36:51,667] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:36:51,691] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds
+[2023-02-21 05:37:23,645] {processor.py:153} INFO - Started process (PID=64302) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:37:23,647] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:37:23,648] {logging_mixin.py:115} INFO - [2023-02-21 05:37:23,647] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:37:23,663] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:37:23,695] {logging_mixin.py:115} INFO - [2023-02-21 05:37:23,695] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:37:23,733] {logging_mixin.py:115} INFO - [2023-02-21 05:37:23,733] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:37:24,426] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.786 seconds
+[2023-02-21 05:37:54,801] {processor.py:153} INFO - Started process (PID=64319) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:37:54,804] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:37:54,804] {logging_mixin.py:115} INFO - [2023-02-21 05:37:54,804] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:37:54,833] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:37:54,866] {logging_mixin.py:115} INFO - [2023-02-21 05:37:54,866] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:37:54,903] {logging_mixin.py:115} INFO - [2023-02-21 05:37:54,903] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:37:54,939] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.144 seconds
+[2023-02-21 05:38:27,665] {processor.py:153} INFO - Started process (PID=64337) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:38:27,666] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:38:27,667] {logging_mixin.py:115} INFO - [2023-02-21 05:38:27,667] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:38:27,682] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:38:27,711] {logging_mixin.py:115} INFO - [2023-02-21 05:38:27,711] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:38:27,741] {logging_mixin.py:115} INFO - [2023-02-21 05:38:27,741] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:38:27,761] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.102 seconds
+[2023-02-21 05:39:16,844] {processor.py:153} INFO - Started process (PID=64363) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:39:16,846] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:39:16,847] {logging_mixin.py:115} INFO - [2023-02-21 05:39:16,846] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:39:16,862] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:39:16,892] {logging_mixin.py:115} INFO - [2023-02-21 05:39:16,891] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:39:16,923] {logging_mixin.py:115} INFO - [2023-02-21 05:39:16,923] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:39:17,436] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.598 seconds
+[2023-02-21 05:39:52,823] {processor.py:153} INFO - Started process (PID=64411) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:39:52,827] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:39:52,828] {logging_mixin.py:115} INFO - [2023-02-21 05:39:52,827] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:39:52,843] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:39:52,875] {logging_mixin.py:115} INFO - [2023-02-21 05:39:52,875] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:39:52,919] {logging_mixin.py:115} INFO - [2023-02-21 05:39:52,919] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:39:52,945] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.129 seconds
+[2023-02-21 05:40:23,234] {processor.py:153} INFO - Started process (PID=64430) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:40:23,235] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:40:23,236] {logging_mixin.py:115} INFO - [2023-02-21 05:40:23,236] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:40:23,252] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:40:23,281] {logging_mixin.py:115} INFO - [2023-02-21 05:40:23,281] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:40:23,310] {logging_mixin.py:115} INFO - [2023-02-21 05:40:23,310] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:40:24,116] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.887 seconds
+[2023-02-21 05:40:55,093] {processor.py:153} INFO - Started process (PID=64447) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:40:55,095] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:40:55,096] {logging_mixin.py:115} INFO - [2023-02-21 05:40:55,096] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:40:55,112] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:40:55,140] {logging_mixin.py:115} INFO - [2023-02-21 05:40:55,140] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:40:55,169] {logging_mixin.py:115} INFO - [2023-02-21 05:40:55,169] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:40:55,192] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.105 seconds
+[2023-02-21 05:41:25,673] {processor.py:153} INFO - Started process (PID=64471) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:41:25,677] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:41:25,679] {logging_mixin.py:115} INFO - [2023-02-21 05:41:25,679] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:41:25,696] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:41:25,727] {logging_mixin.py:115} INFO - [2023-02-21 05:41:25,726] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:41:25,758] {logging_mixin.py:115} INFO - [2023-02-21 05:41:25,757] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:41:25,778] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.111 seconds
+[2023-02-21 05:41:56,504] {processor.py:153} INFO - Started process (PID=64488) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:41:56,506] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:41:56,507] {logging_mixin.py:115} INFO - [2023-02-21 05:41:56,506] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:41:56,522] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:41:56,550] {logging_mixin.py:115} INFO - [2023-02-21 05:41:56,550] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:41:56,581] {logging_mixin.py:115} INFO - [2023-02-21 05:41:56,580] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:41:56,605] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.107 seconds
+[2023-02-21 05:42:27,149] {processor.py:153} INFO - Started process (PID=64506) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:42:27,150] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:42:27,151] {logging_mixin.py:115} INFO - [2023-02-21 05:42:27,151] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:42:27,165] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:42:27,193] {logging_mixin.py:115} INFO - [2023-02-21 05:42:27,193] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:42:27,222] {logging_mixin.py:115} INFO - [2023-02-21 05:42:27,222] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:42:27,244] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.101 seconds
+[2023-02-21 05:42:57,979] {processor.py:153} INFO - Started process (PID=64524) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:42:57,981] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:42:57,982] {logging_mixin.py:115} INFO - [2023-02-21 05:42:57,982] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:42:57,999] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:42:58,036] {logging_mixin.py:115} INFO - [2023-02-21 05:42:58,036] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:42:58,066] {logging_mixin.py:115} INFO - [2023-02-21 05:42:58,066] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:42:58,088] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.114 seconds
+[2023-02-21 05:43:28,713] {processor.py:153} INFO - Started process (PID=64542) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:43:28,713] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:43:28,714] {logging_mixin.py:115} INFO - [2023-02-21 05:43:28,714] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:43:28,730] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:43:28,758] {logging_mixin.py:115} INFO - [2023-02-21 05:43:28,758] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:43:28,805] {logging_mixin.py:115} INFO - [2023-02-21 05:43:28,805] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:43:28,827] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.120 seconds
+[2023-02-21 05:43:59,459] {processor.py:153} INFO - Started process (PID=64566) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:43:59,462] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:43:59,463] {logging_mixin.py:115} INFO - [2023-02-21 05:43:59,463] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:43:59,481] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:43:59,511] {logging_mixin.py:115} INFO - [2023-02-21 05:43:59,511] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:43:59,542] {logging_mixin.py:115} INFO - [2023-02-21 05:43:59,542] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:43:59,565] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.111 seconds
+[2023-02-21 05:44:30,115] {processor.py:153} INFO - Started process (PID=64585) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:44:30,116] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:44:30,117] {logging_mixin.py:115} INFO - [2023-02-21 05:44:30,117] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:44:30,132] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:44:30,160] {logging_mixin.py:115} INFO - [2023-02-21 05:44:30,160] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:44:30,189] {logging_mixin.py:115} INFO - [2023-02-21 05:44:30,189] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:44:30,210] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.103 seconds
+[2023-02-21 05:45:00,836] {processor.py:153} INFO - Started process (PID=64602) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:45:00,841] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:45:00,841] {logging_mixin.py:115} INFO - [2023-02-21 05:45:00,841] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:45:00,856] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:45:00,887] {logging_mixin.py:115} INFO - [2023-02-21 05:45:00,887] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:45:00,929] {logging_mixin.py:115} INFO - [2023-02-21 05:45:00,929] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:45:00,955] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.124 seconds
+[2023-02-21 05:45:31,639] {processor.py:153} INFO - Started process (PID=64624) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:45:31,640] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:45:31,641] {logging_mixin.py:115} INFO - [2023-02-21 05:45:31,641] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:45:31,656] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:45:31,685] {logging_mixin.py:115} INFO - [2023-02-21 05:45:31,685] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:45:31,714] {logging_mixin.py:115} INFO - [2023-02-21 05:45:31,714] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:45:31,737] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.103 seconds
+[2023-02-21 05:46:02,372] {processor.py:153} INFO - Started process (PID=64661) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:46:02,374] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:46:02,375] {logging_mixin.py:115} INFO - [2023-02-21 05:46:02,375] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:46:02,391] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:46:02,420] {logging_mixin.py:115} INFO - [2023-02-21 05:46:02,419] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:46:02,449] {logging_mixin.py:115} INFO - [2023-02-21 05:46:02,449] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:46:02,473] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.109 seconds
+[2023-02-21 05:46:33,136] {processor.py:153} INFO - Started process (PID=64684) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:46:33,137] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:46:33,138] {logging_mixin.py:115} INFO - [2023-02-21 05:46:33,138] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:46:33,152] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:46:33,181] {logging_mixin.py:115} INFO - [2023-02-21 05:46:33,180] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:46:33,211] {logging_mixin.py:115} INFO - [2023-02-21 05:46:33,210] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:46:33,234] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.104 seconds
+[2023-02-21 05:47:03,864] {processor.py:153} INFO - Started process (PID=64714) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:47:03,866] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:47:03,867] {logging_mixin.py:115} INFO - [2023-02-21 05:47:03,866] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:47:03,882] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:47:03,910] {logging_mixin.py:115} INFO - [2023-02-21 05:47:03,910] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:47:03,940] {logging_mixin.py:115} INFO - [2023-02-21 05:47:03,939] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:47:03,965] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds
+[2023-02-21 05:47:34,798] {processor.py:153} INFO - Started process (PID=64740) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:47:34,799] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:47:34,800] {logging_mixin.py:115} INFO - [2023-02-21 05:47:34,800] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:47:34,831] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:47:34,871] {logging_mixin.py:115} INFO - [2023-02-21 05:47:34,871] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:47:34,903] {logging_mixin.py:115} INFO - [2023-02-21 05:47:34,903] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:47:34,924] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.133 seconds
+[2023-02-21 05:48:05,592] {processor.py:153} INFO - Started process (PID=64761) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:48:05,594] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:48:05,595] {logging_mixin.py:115} INFO - [2023-02-21 05:48:05,595] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:48:05,611] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:48:05,647] {logging_mixin.py:115} INFO - [2023-02-21 05:48:05,647] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:48:05,681] {logging_mixin.py:115} INFO - [2023-02-21 05:48:05,680] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:48:05,704] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.121 seconds
+[2023-02-21 05:48:36,373] {processor.py:153} INFO - Started process (PID=64779) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:48:36,403] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:48:36,404] {logging_mixin.py:115} INFO - [2023-02-21 05:48:36,404] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:48:36,423] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:48:36,453] {logging_mixin.py:115} INFO - [2023-02-21 05:48:36,453] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:48:36,485] {logging_mixin.py:115} INFO - [2023-02-21 05:48:36,485] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:48:36,506] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.143 seconds
+[2023-02-21 05:49:07,162] {processor.py:153} INFO - Started process (PID=64797) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:49:07,163] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:49:07,164] {logging_mixin.py:115} INFO - [2023-02-21 05:49:07,164] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:49:07,179] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:49:07,208] {logging_mixin.py:115} INFO - [2023-02-21 05:49:07,208] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:49:07,236] {logging_mixin.py:115} INFO - [2023-02-21 05:49:07,236] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:49:07,258] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.103 seconds
+[2023-02-21 05:49:37,769] {processor.py:153} INFO - Started process (PID=64820) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:49:37,770] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:49:37,771] {logging_mixin.py:115} INFO - [2023-02-21 05:49:37,771] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:49:37,786] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:49:37,813] {logging_mixin.py:115} INFO - [2023-02-21 05:49:37,813] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:49:37,846] {logging_mixin.py:115} INFO - [2023-02-21 05:49:37,845] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:49:37,869] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.106 seconds
+[2023-02-21 05:50:08,549] {processor.py:153} INFO - Started process (PID=64839) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:50:08,551] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:50:08,552] {logging_mixin.py:115} INFO - [2023-02-21 05:50:08,552] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:50:08,582] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:50:08,611] {logging_mixin.py:115} INFO - [2023-02-21 05:50:08,610] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:50:08,646] {logging_mixin.py:115} INFO - [2023-02-21 05:50:08,646] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:50:08,666] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.124 seconds
+[2023-02-21 05:50:39,232] {processor.py:153} INFO - Started process (PID=64856) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:50:39,233] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:50:39,234] {logging_mixin.py:115} INFO - [2023-02-21 05:50:39,234] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:50:39,249] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:50:39,277] {logging_mixin.py:115} INFO - [2023-02-21 05:50:39,277] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:50:39,306] {logging_mixin.py:115} INFO - [2023-02-21 05:50:39,306] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:50:39,343] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.117 seconds
+[2023-02-21 05:51:09,919] {processor.py:153} INFO - Started process (PID=64880) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:51:09,921] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:51:09,922] {logging_mixin.py:115} INFO - [2023-02-21 05:51:09,922] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:51:09,937] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:51:09,966] {logging_mixin.py:115} INFO - [2023-02-21 05:51:09,966] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:51:10,005] {logging_mixin.py:115} INFO - [2023-02-21 05:51:10,005] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:51:10,028] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.114 seconds
+[2023-02-21 05:51:40,601] {processor.py:153} INFO - Started process (PID=64900) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:51:40,601] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:51:40,602] {logging_mixin.py:115} INFO - [2023-02-21 05:51:40,602] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:51:40,617] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:51:40,645] {logging_mixin.py:115} INFO - [2023-02-21 05:51:40,644] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:51:40,674] {logging_mixin.py:115} INFO - [2023-02-21 05:51:40,674] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:51:40,694] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.102 seconds
+[2023-02-21 05:52:11,337] {processor.py:153} INFO - Started process (PID=64924) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:52:11,339] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:52:11,340] {logging_mixin.py:115} INFO - [2023-02-21 05:52:11,340] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:52:11,355] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:52:11,385] {logging_mixin.py:115} INFO - [2023-02-21 05:52:11,385] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:52:11,416] {logging_mixin.py:115} INFO - [2023-02-21 05:52:11,416] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:52:11,437] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.105 seconds
+[2023-02-21 05:52:42,224] {processor.py:153} INFO - Started process (PID=64950) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:52:42,225] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:52:42,226] {logging_mixin.py:115} INFO - [2023-02-21 05:52:42,226] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:52:42,241] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:52:42,270] {logging_mixin.py:115} INFO - [2023-02-21 05:52:42,270] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:52:42,300] {logging_mixin.py:115} INFO - [2023-02-21 05:52:42,299] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:52:42,323] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.105 seconds
+[2023-02-21 05:53:12,980] {processor.py:153} INFO - Started process (PID=64969) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:53:12,982] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:53:12,983] {logging_mixin.py:115} INFO - [2023-02-21 05:53:12,983] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:53:12,999] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:53:13,031] {logging_mixin.py:115} INFO - [2023-02-21 05:53:13,031] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:53:13,061] {logging_mixin.py:115} INFO - [2023-02-21 05:53:13,061] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:53:13,087] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.113 seconds
+[2023-02-21 05:53:43,765] {processor.py:153} INFO - Started process (PID=64986) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:53:43,768] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:53:43,769] {logging_mixin.py:115} INFO - [2023-02-21 05:53:43,769] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:53:43,785] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:53:43,814] {logging_mixin.py:115} INFO - [2023-02-21 05:53:43,814] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:53:43,847] {logging_mixin.py:115} INFO - [2023-02-21 05:53:43,846] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:53:43,873] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.113 seconds
+[2023-02-21 05:54:14,462] {processor.py:153} INFO - Started process (PID=65014) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:54:14,464] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:54:14,464] {logging_mixin.py:115} INFO - [2023-02-21 05:54:14,464] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:54:14,479] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:54:14,506] {logging_mixin.py:115} INFO - [2023-02-21 05:54:14,506] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:54:14,538] {logging_mixin.py:115} INFO - [2023-02-21 05:54:14,538] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:54:14,561] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.104 seconds
+[2023-02-21 05:54:45,247] {processor.py:153} INFO - Started process (PID=65031) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:54:45,247] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:54:45,248] {logging_mixin.py:115} INFO - [2023-02-21 05:54:45,248] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:54:45,264] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:54:45,295] {logging_mixin.py:115} INFO - [2023-02-21 05:54:45,294] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:54:45,337] {logging_mixin.py:115} INFO - [2023-02-21 05:54:45,336] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:54:45,359] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.118 seconds
+[2023-02-21 05:55:16,004] {processor.py:153} INFO - Started process (PID=65052) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:55:16,007] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:55:16,008] {logging_mixin.py:115} INFO - [2023-02-21 05:55:16,008] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:55:16,023] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:55:16,059] {logging_mixin.py:115} INFO - [2023-02-21 05:55:16,059] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:55:16,091] {logging_mixin.py:115} INFO - [2023-02-21 05:55:16,091] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:55:16,112] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.121 seconds
+[2023-02-21 05:55:46,759] {processor.py:153} INFO - Started process (PID=65075) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:55:46,760] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:55:46,761] {logging_mixin.py:115} INFO - [2023-02-21 05:55:46,761] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:55:46,786] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:55:46,813] {logging_mixin.py:115} INFO - [2023-02-21 05:55:46,813] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:55:46,844] {logging_mixin.py:115} INFO - [2023-02-21 05:55:46,844] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:55:46,867] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.116 seconds
+[2023-02-21 05:56:17,548] {processor.py:153} INFO - Started process (PID=65097) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:56:17,550] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:56:17,551] {logging_mixin.py:115} INFO - [2023-02-21 05:56:17,551] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:56:17,567] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:56:17,600] {logging_mixin.py:115} INFO - [2023-02-21 05:56:17,600] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:56:17,632] {logging_mixin.py:115} INFO - [2023-02-21 05:56:17,632] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:56:17,652] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.109 seconds
+[2023-02-21 05:56:48,401] {processor.py:153} INFO - Started process (PID=65120) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:56:48,402] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:56:48,403] {logging_mixin.py:115} INFO - [2023-02-21 05:56:48,403] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:56:48,418] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:56:48,446] {logging_mixin.py:115} INFO - [2023-02-21 05:56:48,446] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:56:48,479] {logging_mixin.py:115} INFO - [2023-02-21 05:56:48,479] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:56:48,505] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.110 seconds
+[2023-02-21 05:57:19,073] {processor.py:153} INFO - Started process (PID=65138) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:57:19,074] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:57:19,075] {logging_mixin.py:115} INFO - [2023-02-21 05:57:19,075] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:57:19,091] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:57:19,118] {logging_mixin.py:115} INFO - [2023-02-21 05:57:19,118] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:57:19,149] {logging_mixin.py:115} INFO - [2023-02-21 05:57:19,149] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:57:19,172] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.105 seconds
+[2023-02-21 05:57:49,782] {processor.py:153} INFO - Started process (PID=65155) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:57:49,784] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:57:49,785] {logging_mixin.py:115} INFO - [2023-02-21 05:57:49,785] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:57:49,801] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:57:49,839] {logging_mixin.py:115} INFO - [2023-02-21 05:57:49,839] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:57:49,873] {logging_mixin.py:115} INFO - [2023-02-21 05:57:49,872] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:57:49,893] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.117 seconds
+[2023-02-21 05:58:20,623] {processor.py:153} INFO - Started process (PID=65179) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:58:20,625] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:58:20,626] {logging_mixin.py:115} INFO - [2023-02-21 05:58:20,626] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:58:20,643] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:58:20,671] {logging_mixin.py:115} INFO - [2023-02-21 05:58:20,671] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:58:20,701] {logging_mixin.py:115} INFO - [2023-02-21 05:58:20,701] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:58:20,724] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.114 seconds
+[2023-02-21 05:58:51,356] {processor.py:153} INFO - Started process (PID=65196) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:58:51,357] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:58:51,358] {logging_mixin.py:115} INFO - [2023-02-21 05:58:51,358] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:58:51,374] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:58:51,403] {logging_mixin.py:115} INFO - [2023-02-21 05:58:51,403] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:58:51,435] {logging_mixin.py:115} INFO - [2023-02-21 05:58:51,434] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:58:51,458] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.107 seconds
+[2023-02-21 05:59:22,076] {processor.py:153} INFO - Started process (PID=65220) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:59:22,078] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:59:22,079] {logging_mixin.py:115} INFO - [2023-02-21 05:59:22,079] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:59:22,094] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:59:22,122] {logging_mixin.py:115} INFO - [2023-02-21 05:59:22,122] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:59:22,151] {logging_mixin.py:115} INFO - [2023-02-21 05:59:22,151] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:59:22,198] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.127 seconds
+[2023-02-21 05:59:54,014] {processor.py:153} INFO - Started process (PID=65237) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:59:54,015] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 05:59:54,016] {logging_mixin.py:115} INFO - [2023-02-21 05:59:54,016] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:59:54,042] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 05:59:54,071] {logging_mixin.py:115} INFO - [2023-02-21 05:59:54,071] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:59:54,104] {logging_mixin.py:115} INFO - [2023-02-21 05:59:54,104] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 05:59:54,126] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.117 seconds
+[2023-02-21 06:00:34,965] {processor.py:153} INFO - Started process (PID=65263) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:00:34,967] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:00:34,968] {logging_mixin.py:115} INFO - [2023-02-21 06:00:34,968] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:00:34,986] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:00:35,018] {logging_mixin.py:115} INFO - [2023-02-21 06:00:35,018] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:00:35,055] {logging_mixin.py:115} INFO - [2023-02-21 06:00:35,055] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:00:35,088] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.130 seconds
+[2023-02-21 06:01:12,457] {processor.py:153} INFO - Started process (PID=65281) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:01:12,458] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:01:12,462] {logging_mixin.py:115} INFO - [2023-02-21 06:01:12,462] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:01:12,481] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:01:12,510] {logging_mixin.py:115} INFO - [2023-02-21 06:01:12,510] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:01:12,546] {logging_mixin.py:115} INFO - [2023-02-21 06:01:12,545] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:01:12,567] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.116 seconds
+[2023-02-21 06:01:46,696] {processor.py:153} INFO - Started process (PID=65304) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:01:46,697] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:01:46,698] {logging_mixin.py:115} INFO - [2023-02-21 06:01:46,698] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:01:46,714] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:01:46,743] {logging_mixin.py:115} INFO - [2023-02-21 06:01:46,743] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:01:46,775] {logging_mixin.py:115} INFO - [2023-02-21 06:01:46,775] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:01:46,796] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.106 seconds
+[2023-02-21 06:02:21,274] {processor.py:153} INFO - Started process (PID=65322) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:02:21,276] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:02:21,277] {logging_mixin.py:115} INFO - [2023-02-21 06:02:21,277] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:02:21,292] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:02:21,320] {logging_mixin.py:115} INFO - [2023-02-21 06:02:21,320] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:02:21,350] {logging_mixin.py:115} INFO - [2023-02-21 06:02:21,350] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:02:21,370] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.101 seconds
+[2023-02-21 06:02:53,763] {processor.py:153} INFO - Started process (PID=65345) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:02:53,808] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:02:53,809] {logging_mixin.py:115} INFO - [2023-02-21 06:02:53,809] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:02:53,826] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:02:53,855] {logging_mixin.py:115} INFO - [2023-02-21 06:02:53,854] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:02:53,889] {logging_mixin.py:115} INFO - [2023-02-21 06:02:53,889] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:02:55,247] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 1.489 seconds
+[2023-02-21 06:03:28,463] {processor.py:153} INFO - Started process (PID=65366) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:03:28,464] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:03:28,465] {logging_mixin.py:115} INFO - [2023-02-21 06:03:28,465] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:03:28,485] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:03:28,519] {logging_mixin.py:115} INFO - [2023-02-21 06:03:28,519] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:03:28,558] {logging_mixin.py:115} INFO - [2023-02-21 06:03:28,558] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:03:28,579] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.122 seconds
+[2023-02-21 06:04:03,007] {processor.py:153} INFO - Started process (PID=65408) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:04:03,009] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:04:03,011] {logging_mixin.py:115} INFO - [2023-02-21 06:04:03,010] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:04:03,027] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:04:03,061] {logging_mixin.py:115} INFO - [2023-02-21 06:04:03,061] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:04:03,094] {logging_mixin.py:115} INFO - [2023-02-21 06:04:03,094] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:04:03,119] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.117 seconds
+[2023-02-21 06:04:33,341] {processor.py:153} INFO - Started process (PID=65438) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:04:33,342] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:04:33,342] {logging_mixin.py:115} INFO - [2023-02-21 06:04:33,342] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:04:33,359] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:04:33,395] {logging_mixin.py:115} INFO - [2023-02-21 06:04:33,395] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:04:33,425] {logging_mixin.py:115} INFO - [2023-02-21 06:04:33,425] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:04:33,456] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.122 seconds
+[2023-02-21 06:05:04,232] {processor.py:153} INFO - Started process (PID=65465) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:05:04,234] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:05:04,235] {logging_mixin.py:115} INFO - [2023-02-21 06:05:04,235] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:05:04,250] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:05:04,280] {logging_mixin.py:115} INFO - [2023-02-21 06:05:04,280] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:05:04,318] {logging_mixin.py:115} INFO - [2023-02-21 06:05:04,317] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:05:04,341] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.115 seconds
+[2023-02-21 06:05:34,883] {processor.py:153} INFO - Started process (PID=65499) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:05:34,885] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:05:34,886] {logging_mixin.py:115} INFO - [2023-02-21 06:05:34,886] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:05:34,901] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:05:34,929] {logging_mixin.py:115} INFO - [2023-02-21 06:05:34,929] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:05:34,959] {logging_mixin.py:115} INFO - [2023-02-21 06:05:34,959] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:05:34,979] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.101 seconds
+[2023-02-21 06:06:17,595] {processor.py:153} INFO - Started process (PID=65524) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:06:17,598] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:06:17,599] {logging_mixin.py:115} INFO - [2023-02-21 06:06:17,599] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:06:17,620] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:06:17,649] {logging_mixin.py:115} INFO - [2023-02-21 06:06:17,649] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:06:17,681] {logging_mixin.py:115} INFO - [2023-02-21 06:06:17,680] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:06:17,703] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.113 seconds
+[2023-02-21 06:06:48,250] {processor.py:153} INFO - Started process (PID=65547) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:06:48,251] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:06:48,252] {logging_mixin.py:115} INFO - [2023-02-21 06:06:48,251] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:06:48,267] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:06:48,300] {logging_mixin.py:115} INFO - [2023-02-21 06:06:48,300] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:06:48,334] {logging_mixin.py:115} INFO - [2023-02-21 06:06:48,333] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:06:48,356] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.112 seconds
+[2023-02-21 06:07:25,065] {processor.py:153} INFO - Started process (PID=65579) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:07:25,067] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:07:25,068] {logging_mixin.py:115} INFO - [2023-02-21 06:07:25,067] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:07:25,083] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:07:25,111] {logging_mixin.py:115} INFO - [2023-02-21 06:07:25,111] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:07:25,140] {logging_mixin.py:115} INFO - [2023-02-21 06:07:25,140] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:07:25,166] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.107 seconds
+[2023-02-21 06:07:57,342] {processor.py:153} INFO - Started process (PID=65604) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:07:57,344] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:07:57,345] {logging_mixin.py:115} INFO - [2023-02-21 06:07:57,345] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:07:57,361] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:07:57,389] {logging_mixin.py:115} INFO - [2023-02-21 06:07:57,389] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:07:57,420] {logging_mixin.py:115} INFO - [2023-02-21 06:07:57,419] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:07:57,440] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.103 seconds
+[2023-02-21 06:08:28,593] {processor.py:153} INFO - Started process (PID=65633) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:08:28,594] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:08:28,595] {logging_mixin.py:115} INFO - [2023-02-21 06:08:28,595] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:08:28,613] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:08:28,674] {logging_mixin.py:115} INFO - [2023-02-21 06:08:28,674] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:08:28,738] {logging_mixin.py:115} INFO - [2023-02-21 06:08:28,737] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:08:28,769] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.186 seconds
+[2023-02-21 06:09:02,396] {processor.py:153} INFO - Started process (PID=65655) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:09:02,399] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:09:02,400] {logging_mixin.py:115} INFO - [2023-02-21 06:09:02,400] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:09:02,418] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:09:02,449] {logging_mixin.py:115} INFO - [2023-02-21 06:09:02,448] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:09:02,486] {logging_mixin.py:115} INFO - [2023-02-21 06:09:02,485] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:09:02,512] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.126 seconds
+[2023-02-21 06:09:33,158] {processor.py:153} INFO - Started process (PID=65708) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:09:33,160] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:09:33,161] {logging_mixin.py:115} INFO - [2023-02-21 06:09:33,161] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:09:33,179] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:09:33,208] {logging_mixin.py:115} INFO - [2023-02-21 06:09:33,208] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:09:33,251] {logging_mixin.py:115} INFO - [2023-02-21 06:09:33,251] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:09:33,280] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.130 seconds
+[2023-02-21 06:10:03,908] {processor.py:153} INFO - Started process (PID=65727) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:10:03,909] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:10:03,910] {logging_mixin.py:115} INFO - [2023-02-21 06:10:03,910] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:10:03,925] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:10:03,955] {logging_mixin.py:115} INFO - [2023-02-21 06:10:03,954] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:10:03,984] {logging_mixin.py:115} INFO - [2023-02-21 06:10:03,984] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:10:04,022] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.120 seconds
+[2023-02-21 06:10:34,582] {processor.py:153} INFO - Started process (PID=65750) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:10:34,583] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:10:34,584] {logging_mixin.py:115} INFO - [2023-02-21 06:10:34,584] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:10:34,602] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:10:34,631] {logging_mixin.py:115} INFO - [2023-02-21 06:10:34,630] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:10:34,660] {logging_mixin.py:115} INFO - [2023-02-21 06:10:34,660] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:10:34,684] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.109 seconds
+[2023-02-21 06:11:04,972] {processor.py:153} INFO - Started process (PID=65774) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:11:04,974] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:11:04,975] {logging_mixin.py:115} INFO - [2023-02-21 06:11:04,975] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:11:04,991] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:11:05,022] {logging_mixin.py:115} INFO - [2023-02-21 06:11:05,022] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:11:05,055] {logging_mixin.py:115} INFO - [2023-02-21 06:11:05,055] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:11:05,081] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.115 seconds
+[2023-02-21 06:11:35,500] {processor.py:153} INFO - Started process (PID=65795) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:11:35,501] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:11:35,502] {logging_mixin.py:115} INFO - [2023-02-21 06:11:35,502] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:11:35,518] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:11:35,547] {logging_mixin.py:115} INFO - [2023-02-21 06:11:35,547] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:11:35,576] {logging_mixin.py:115} INFO - [2023-02-21 06:11:35,576] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:11:35,606] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.111 seconds
+[2023-02-21 06:12:06,032] {processor.py:153} INFO - Started process (PID=65819) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:12:06,033] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:12:06,034] {logging_mixin.py:115} INFO - [2023-02-21 06:12:06,034] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:12:06,049] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:12:06,077] {logging_mixin.py:115} INFO - [2023-02-21 06:12:06,076] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:12:06,106] {logging_mixin.py:115} INFO - [2023-02-21 06:12:06,106] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:12:06,130] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.104 seconds
+[2023-02-21 06:12:37,811] {processor.py:153} INFO - Started process (PID=65842) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:12:37,812] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:12:37,813] {logging_mixin.py:115} INFO - [2023-02-21 06:12:37,813] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:12:37,828] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:12:37,857] {logging_mixin.py:115} INFO - [2023-02-21 06:12:37,857] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:12:37,888] {logging_mixin.py:115} INFO - [2023-02-21 06:12:37,887] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:12:37,911] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.106 seconds
+[2023-02-21 06:13:08,484] {processor.py:153} INFO - Started process (PID=65866) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:13:08,488] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:13:08,489] {logging_mixin.py:115} INFO - [2023-02-21 06:13:08,489] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:13:08,504] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:13:08,533] {logging_mixin.py:115} INFO - [2023-02-21 06:13:08,533] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:13:08,570] {logging_mixin.py:115} INFO - [2023-02-21 06:13:08,570] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:13:08,597] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.119 seconds
+[2023-02-21 06:13:39,042] {processor.py:153} INFO - Started process (PID=65894) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:13:39,042] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:13:39,043] {logging_mixin.py:115} INFO - [2023-02-21 06:13:39,043] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:13:39,064] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:13:39,093] {logging_mixin.py:115} INFO - [2023-02-21 06:13:39,093] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:13:39,128] {logging_mixin.py:115} INFO - [2023-02-21 06:13:39,128] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:13:39,162] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.126 seconds
+[2023-02-21 06:14:10,822] {processor.py:153} INFO - Started process (PID=65926) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:14:10,829] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:14:10,830] {logging_mixin.py:115} INFO - [2023-02-21 06:14:10,830] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:14:10,846] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:14:10,878] {logging_mixin.py:115} INFO - [2023-02-21 06:14:10,878] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:14:10,918] {logging_mixin.py:115} INFO - [2023-02-21 06:14:10,917] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:14:10,947] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.132 seconds
+[2023-02-21 06:14:42,877] {processor.py:153} INFO - Started process (PID=65963) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:14:42,878] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:14:42,880] {logging_mixin.py:115} INFO - [2023-02-21 06:14:42,880] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:14:42,900] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:14:42,949] {logging_mixin.py:115} INFO - [2023-02-21 06:14:42,949] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:14:42,988] {logging_mixin.py:115} INFO - [2023-02-21 06:14:42,988] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:14:43,035] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.169 seconds
+[2023-02-21 06:15:13,723] {processor.py:153} INFO - Started process (PID=65989) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:15:13,725] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:15:13,726] {logging_mixin.py:115} INFO - [2023-02-21 06:15:13,725] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:15:13,741] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:15:13,770] {logging_mixin.py:115} INFO - [2023-02-21 06:15:13,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:15:13,802] {logging_mixin.py:115} INFO - [2023-02-21 06:15:13,801] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:15:13,824] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.107 seconds
+[2023-02-21 06:15:44,816] {processor.py:153} INFO - Started process (PID=66012) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:15:44,817] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:15:44,819] {logging_mixin.py:115} INFO - [2023-02-21 06:15:44,819] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:15:44,834] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:15:44,863] {logging_mixin.py:115} INFO - [2023-02-21 06:15:44,862] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:15:44,895] {logging_mixin.py:115} INFO - [2023-02-21 06:15:44,895] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:15:44,919] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.109 seconds
+[2023-02-21 06:16:15,885] {processor.py:153} INFO - Started process (PID=66036) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:16:15,886] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:16:15,887] {logging_mixin.py:115} INFO - [2023-02-21 06:16:15,886] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:16:15,901] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:16:15,929] {logging_mixin.py:115} INFO - [2023-02-21 06:16:15,929] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:16:15,963] {logging_mixin.py:115} INFO - [2023-02-21 06:16:15,962] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:16:15,991] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.112 seconds
+[2023-02-21 06:16:48,706] {processor.py:153} INFO - Started process (PID=66072) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:16:48,708] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:16:48,710] {logging_mixin.py:115} INFO - [2023-02-21 06:16:48,710] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:16:48,726] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:16:48,760] {logging_mixin.py:115} INFO - [2023-02-21 06:16:48,759] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:16:48,808] {logging_mixin.py:115} INFO - [2023-02-21 06:16:48,808] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:16:48,834] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.134 seconds
+[2023-02-21 06:17:19,787] {processor.py:153} INFO - Started process (PID=66112) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:17:19,790] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:17:19,791] {logging_mixin.py:115} INFO - [2023-02-21 06:17:19,791] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:17:19,820] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:17:19,852] {logging_mixin.py:115} INFO - [2023-02-21 06:17:19,852] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:17:19,891] {logging_mixin.py:115} INFO - [2023-02-21 06:17:19,890] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:17:19,963] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.182 seconds
+[2023-02-21 06:17:51,357] {processor.py:153} INFO - Started process (PID=66129) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:17:51,358] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:17:51,359] {logging_mixin.py:115} INFO - [2023-02-21 06:17:51,359] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:17:51,376] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:17:51,407] {logging_mixin.py:115} INFO - [2023-02-21 06:17:51,406] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:17:51,452] {logging_mixin.py:115} INFO - [2023-02-21 06:17:51,451] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:17:51,479] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.133 seconds
+[2023-02-21 06:18:22,127] {processor.py:153} INFO - Started process (PID=66154) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:18:22,129] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:18:22,130] {logging_mixin.py:115} INFO - [2023-02-21 06:18:22,130] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:18:22,146] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:18:22,175] {logging_mixin.py:115} INFO - [2023-02-21 06:18:22,175] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:18:22,210] {logging_mixin.py:115} INFO - [2023-02-21 06:18:22,210] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:18:22,232] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.111 seconds
+[2023-02-21 06:18:53,210] {processor.py:153} INFO - Started process (PID=66246) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:18:53,212] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:18:53,213] {logging_mixin.py:115} INFO - [2023-02-21 06:18:53,213] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:18:53,229] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:18:53,258] {logging_mixin.py:115} INFO - [2023-02-21 06:18:53,258] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:18:53,289] {logging_mixin.py:115} INFO - [2023-02-21 06:18:53,288] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:18:53,316] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.111 seconds
+[2023-02-21 06:19:24,023] {processor.py:153} INFO - Started process (PID=66271) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:19:24,024] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:19:24,025] {logging_mixin.py:115} INFO - [2023-02-21 06:19:24,024] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:19:24,041] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:19:24,070] {logging_mixin.py:115} INFO - [2023-02-21 06:19:24,070] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:19:24,100] {logging_mixin.py:115} INFO - [2023-02-21 06:19:24,100] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:19:24,125] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds
+[2023-02-21 06:19:55,663] {processor.py:153} INFO - Started process (PID=66294) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:19:55,665] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:19:55,667] {logging_mixin.py:115} INFO - [2023-02-21 06:19:55,666] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:19:55,685] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:19:55,717] {logging_mixin.py:115} INFO - [2023-02-21 06:19:55,717] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:19:55,753] {logging_mixin.py:115} INFO - [2023-02-21 06:19:55,752] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:19:55,775] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.117 seconds
+[2023-02-21 06:20:26,173] {processor.py:153} INFO - Started process (PID=66319) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:20:26,175] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:20:26,176] {logging_mixin.py:115} INFO - [2023-02-21 06:20:26,176] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:20:26,197] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:20:26,227] {logging_mixin.py:115} INFO - [2023-02-21 06:20:26,226] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:20:26,258] {logging_mixin.py:115} INFO - [2023-02-21 06:20:26,258] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:20:26,282] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.115 seconds
+[2023-02-21 06:20:56,669] {processor.py:153} INFO - Started process (PID=66336) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:20:56,671] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:20:56,672] {logging_mixin.py:115} INFO - [2023-02-21 06:20:56,672] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:20:56,687] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:20:56,716] {logging_mixin.py:115} INFO - [2023-02-21 06:20:56,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:20:56,746] {logging_mixin.py:115} INFO - [2023-02-21 06:20:56,746] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:20:56,772] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.109 seconds
+[2023-02-21 06:21:28,515] {processor.py:153} INFO - Started process (PID=66361) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:21:28,515] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:21:28,516] {logging_mixin.py:115} INFO - [2023-02-21 06:21:28,516] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:21:28,532] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:21:28,562] {logging_mixin.py:115} INFO - [2023-02-21 06:21:28,562] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:21:28,593] {logging_mixin.py:115} INFO - [2023-02-21 06:21:28,592] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:21:28,614] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.105 seconds
+[2023-02-21 06:21:59,427] {processor.py:153} INFO - Started process (PID=66393) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:21:59,428] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:21:59,429] {logging_mixin.py:115} INFO - [2023-02-21 06:21:59,429] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:21:59,445] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:21:59,476] {logging_mixin.py:115} INFO - [2023-02-21 06:21:59,476] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:21:59,508] {logging_mixin.py:115} INFO - [2023-02-21 06:21:59,508] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:21:59,531] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.110 seconds
+[2023-02-21 06:22:30,230] {processor.py:153} INFO - Started process (PID=66418) to work on /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:22:30,231] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/03_dependencias.py for tasks to queue
+[2023-02-21 06:22:30,232] {logging_mixin.py:115} INFO - [2023-02-21 06:22:30,232] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:22:30,248] {processor.py:651} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/milo/13-airflow/airflowhome/dags/03_dependencias.py
+[2023-02-21 06:22:30,278] {logging_mixin.py:115} INFO - [2023-02-21 06:22:30,278] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:22:30,311] {logging_mixin.py:115} INFO - [2023-02-21 06:22:30,310] {dag.py:2968} INFO - Setting next_dagrun for dependencies to 2023-01-24T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-02-21 06:22:30,332] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/03_dependencias.py took 0.108 seconds

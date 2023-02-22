@@ -1,0 +1,28 @@
+[2023-02-07 19:41:22,977] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.3_file_sensor.end_task scheduled__2022-11-04T00:00:00+00:00 [queued]>
+[2023-02-07 19:41:22,994] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.3_file_sensor.end_task scheduled__2022-11-04T00:00:00+00:00 [queued]>
+[2023-02-07 19:41:22,994] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:41:22,994] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-07 19:41:22,995] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:41:23,018] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): end_task> on 2022-11-04 00:00:00+00:00
+[2023-02-07 19:41:23,022] {standard_task_runner.py:52} INFO - Started process 42679 to run task
+[2023-02-07 19:41:23,028] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '07.3_file_sensor', 'end_task', 'scheduled__2022-11-04T00:00:00+00:00', '--job-id', '699', '--raw', '--subdir', 'DAGS_FOLDER/07.3_file_sensor.py', '--cfg-path', '/tmp/tmpx58hahik', '--error-file', '/tmp/tmpm3mphgu4']
+[2023-02-07 19:41:23,030] {standard_task_runner.py:80} INFO - Job 699: Subtask end_task
+[2023-02-07 19:41:23,131] {task_command.py:371} INFO - Running <TaskInstance: 07.3_file_sensor.end_task scheduled__2022-11-04T00:00:00+00:00 [running]> on host pc.
+[2023-02-07 19:41:23,224] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=07.3_file_sensor
+AIRFLOW_CTX_TASK_ID=end_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-04T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-04T00:00:00+00:00
+[2023-02-07 19:41:23,225] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-07 19:41:23,226] {subprocess.py:74} INFO - Running command: ['bash', '-c', "echo 'The file has arrived!'"]
+[2023-02-07 19:41:23,238] {subprocess.py:85} INFO - Output:
+[2023-02-07 19:41:23,240] {subprocess.py:92} INFO - The file has arrived!
+[2023-02-07 19:41:23,240] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-07 19:41:23,269] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=07.3_file_sensor, task_id=end_task, execution_date=20221104T000000, start_date=20230208T004122, end_date=20230208T004123
+[2023-02-07 19:41:23,321] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-07 19:41:23,347] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

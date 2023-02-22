@@ -1,0 +1,24 @@
+[2023-02-21 06:03:52,561] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.fetch_games scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 06:03:52,573] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.fetch_games scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 06:03:52,573] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 06:03:52,573] {taskinstance.py:1377} INFO - Starting attempt 3 of 3
+[2023-02-21 06:03:52,574] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 06:03:52,605] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): fetch_games> on 2022-07-01 00:00:00+00:00
+[2023-02-21 06:03:52,609] {standard_task_runner.py:52} INFO - Started process 65392 to run task
+[2023-02-21 06:03:52,623] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'steam_dag', 'fetch_games', 'scheduled__2022-07-01T00:00:00+00:00', '--job-id', '1475', '--raw', '--subdir', 'DAGS_FOLDER/steam_dag.py', '--cfg-path', '/tmp/tmpjk0xb_2x', '--error-file', '/tmp/tmpv6puuuye']
+[2023-02-21 06:03:52,625] {standard_task_runner.py:80} INFO - Job 1475: Subtask fetch_games
+[2023-02-21 06:03:52,713] {task_command.py:371} INFO - Running <TaskInstance: steam_dag.fetch_games scheduled__2022-07-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-21 06:03:52,942] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=steam_dag
+AIRFLOW_CTX_TASK_ID=fetch_games
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=3
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-01T00:00:00+00:00
+[2023-02-21 06:03:53,563] {logging_mixin.py:115} INFO - {'game': 'Atomic Heart', 'game_url': 'https://store.steampowered.com/app/668580/Atomic_Heart/?snr=1_239_new__145', 'tags': 'Horror, Mystery, Puzzle, FPS', 'platforms': 'Windows', 'final price': 'COL$ 199.900', 'original_price': 'None'}
+[2023-02-21 06:03:53,581] {python.py:173} INFO - Done. Returned value was: None
+[2023-02-21 06:03:53,592] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=steam_dag, task_id=fetch_games, execution_date=20220701T000000, start_date=20230221T110352, end_date=20230221T110353
+[2023-02-21 06:03:53,644] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-21 06:03:53,695] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

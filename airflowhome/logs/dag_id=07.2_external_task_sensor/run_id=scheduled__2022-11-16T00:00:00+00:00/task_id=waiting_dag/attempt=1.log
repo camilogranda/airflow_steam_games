@@ -1,0 +1,24 @@
+[2023-02-07 19:11:59,325] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.2_external_task_sensor.waiting_dag scheduled__2022-11-16T00:00:00+00:00 [queued]>
+[2023-02-07 19:11:59,335] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.2_external_task_sensor.waiting_dag scheduled__2022-11-16T00:00:00+00:00 [queued]>
+[2023-02-07 19:11:59,335] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:11:59,336] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-07 19:11:59,336] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:11:59,582] {taskinstance.py:1397} INFO - Executing <Task(ExternalTaskSensor): waiting_dag> on 2022-11-16 00:00:00+00:00
+[2023-02-07 19:11:59,585] {standard_task_runner.py:52} INFO - Started process 38727 to run task
+[2023-02-07 19:11:59,591] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '07.2_external_task_sensor', 'waiting_dag', 'scheduled__2022-11-16T00:00:00+00:00', '--job-id', '493', '--raw', '--subdir', 'DAGS_FOLDER/07.2_external_task_sensor.py', '--cfg-path', '/tmp/tmpry451dm0', '--error-file', '/tmp/tmpwss3j5nn']
+[2023-02-07 19:11:59,593] {standard_task_runner.py:80} INFO - Job 493: Subtask waiting_dag
+[2023-02-07 19:11:59,675] {task_command.py:371} INFO - Running <TaskInstance: 07.2_external_task_sensor.waiting_dag scheduled__2022-11-16T00:00:00+00:00 [running]> on host pc.
+[2023-02-07 19:11:59,770] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=07.2_external_task_sensor
+AIRFLOW_CTX_TASK_ID=waiting_dag
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-16T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-16T00:00:00+00:00
+[2023-02-07 19:11:59,771] {external_task.py:184} INFO - Poking for tasks ['external_task_1'] in dag 07.1_external_dag on 2022-11-16T00:00:00+00:00 ... 
+[2023-02-07 19:11:59,778] {base.py:301} INFO - Success criteria met. Exiting.
+[2023-02-07 19:11:59,788] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=07.2_external_task_sensor, task_id=waiting_dag, execution_date=20221116T000000, start_date=20230208T001159, end_date=20230208T001159
+[2023-02-07 19:11:59,843] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-07 19:11:59,892] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

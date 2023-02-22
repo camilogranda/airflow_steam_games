@@ -1,0 +1,27 @@
+[2023-02-07 19:45:45,192] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.3_file_sensor.file_task scheduled__2022-11-15T00:00:00+00:00 [queued]>
+[2023-02-07 19:45:45,203] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.3_file_sensor.file_task scheduled__2022-11-15T00:00:00+00:00 [queued]>
+[2023-02-07 19:45:45,203] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:45:45,203] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-07 19:45:45,203] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:45:45,225] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): file_task> on 2022-11-15 00:00:00+00:00
+[2023-02-07 19:45:45,229] {standard_task_runner.py:52} INFO - Started process 42855 to run task
+[2023-02-07 19:45:45,236] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '07.3_file_sensor', 'file_task', 'scheduled__2022-11-15T00:00:00+00:00', '--job-id', '745', '--raw', '--subdir', 'DAGS_FOLDER/07.3_file_sensor.py', '--cfg-path', '/tmp/tmpueyxqz3h', '--error-file', '/tmp/tmpdypno7fp']
+[2023-02-07 19:45:45,237] {standard_task_runner.py:80} INFO - Job 745: Subtask file_task
+[2023-02-07 19:45:45,329] {task_command.py:371} INFO - Running <TaskInstance: 07.3_file_sensor.file_task scheduled__2022-11-15T00:00:00+00:00 [running]> on host pc.
+[2023-02-07 19:45:45,424] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=07.3_file_sensor
+AIRFLOW_CTX_TASK_ID=file_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-15T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-15T00:00:00+00:00
+[2023-02-07 19:45:45,426] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-07 19:45:45,426] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'sleep 10 && touch /tmp/file.txt']
+[2023-02-07 19:45:45,436] {subprocess.py:85} INFO - Output:
+[2023-02-07 19:45:55,440] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-07 19:45:56,703] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=07.3_file_sensor, task_id=file_task, execution_date=20221115T000000, start_date=20230208T004545, end_date=20230208T004556
+[2023-02-07 19:45:56,736] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-07 19:45:56,778] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

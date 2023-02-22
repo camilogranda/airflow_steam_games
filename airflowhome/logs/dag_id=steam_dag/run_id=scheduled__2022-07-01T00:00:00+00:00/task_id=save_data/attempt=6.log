@@ -1,0 +1,98 @@
+[2023-02-21 06:17:06,209] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 06:17:06,220] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 06:17:06,220] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 06:17:06,220] {taskinstance.py:1377} INFO - Starting attempt 6 of 6
+[2023-02-21 06:17:06,221] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 06:17:06,242] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): save_data> on 2022-07-01 00:00:00+00:00
+[2023-02-21 06:17:06,246] {standard_task_runner.py:52} INFO - Started process 66090 to run task
+[2023-02-21 06:17:06,251] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'steam_dag', 'save_data', 'scheduled__2022-07-01T00:00:00+00:00', '--job-id', '1483', '--raw', '--subdir', 'DAGS_FOLDER/steam_dag.py', '--cfg-path', '/tmp/tmp5mop_y9n', '--error-file', '/tmp/tmpn8pu6b22']
+[2023-02-21 06:17:06,253] {standard_task_runner.py:80} INFO - Job 1483: Subtask save_data
+[2023-02-21 06:17:06,337] {task_command.py:371} INFO - Running <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-21 06:17:06,558] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=steam_dag
+AIRFLOW_CTX_TASK_ID=save_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=6
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-01T00:00:00+00:00
+[2023-02-21 06:17:06,570] {logging_mixin.py:115} INFO - Saved as .JSON!
+[2023-02-21 06:17:06,577] {logging_mixin.py:115} INFO - Saved as .csv!
+[2023-02-21 06:17:06,577] {logging_mixin.py:115} INFO - Today New Games:
+[2023-02-21 06:17:06,577] {logging_mixin.py:115} INFO - Atomic Heart [Horror, Mystery, Puzzle, FPS]
+[2023-02-21 06:17:06,578] {logging_mixin.py:115} INFO - My Dream Setup [Design & Illustration, Simulation, Relaxing, Casual]
+[2023-02-21 06:17:06,578] {logging_mixin.py:115} INFO - Selene ~Apoptosis~ [Sexual Content, Nudity, Visual Novel, Horror]
+[2023-02-21 06:17:06,578] {logging_mixin.py:115} INFO - WILD HEARTS™ [Action, Adventure, Multiplayer, Co-op]
+[2023-02-21 06:17:06,579] {logging_mixin.py:115} INFO - Returnal™ [Action, Singleplayer, Roguelike, Action Roguelike]
+[2023-02-21 06:17:06,579] {logging_mixin.py:115} INFO - Returnal™ [Action, Singleplayer, Roguelike, Action Roguelike]
+[2023-02-21 06:17:06,579] {logging_mixin.py:115} INFO - Tower Escape [Roguelike, Creature Collector, Tower Defense, Deckbuilding]
+[2023-02-21 06:17:06,579] {logging_mixin.py:115} INFO - SkyIsland [Action, Adventure, Action-Adventure, Exploration]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - Labyrinth of Galleria: The Moon Society [RPG, Strategy, Adventure, Dungeon Crawler]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - Missing Hiker [Horror, Free to Play, Thriller, Psychological Horror]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - United heist [Co-op Campaign, Puzzle, Adventure, Mystery]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - Hogwarts Legacy [Magic, Fantasy, Open World, Singleplayer]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - Gloria Victis: Medieval MMORPG [MMORPG, Medieval, Open World, Massively Multiplayer]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - Your Only Move Is HUSTLE [2D Fighter, Turn-Based Strategy, Action, Strategy]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - X Invader: Prologue [Action, Roguelike, Shooter, Action Roguelike]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - Treason [FPS, PvP, Investigation, Mystery]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - HELLCARD: Prologue [Card Battler, Dungeon Crawler, Roguelite, Turn-Based]
+[2023-02-21 06:17:06,580] {logging_mixin.py:115} INFO - Bloody Hell [Metroidvania, Bullet Hell, Twin Stick Shooter, Indie]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Dead Space [Horror, Third-Person Shooter, Sci-fi, Space]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Dead Space [Horror, Third-Person Shooter, Sci-fi, Space]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Crosshair V2 [Utilities]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Pizza Tower [2D Platformer, Great Soundtrack, Cartoony, Action]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Hi-Fi RUSH [Rhythm, Action, Hack and Slash, Singleplayer]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Pets Hotel: Prologue [Simulation, Family Friendly, Realistic, Relaxing]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Monster Girl2 [Sexual Content, Nudity, Hentai, Mature]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - WooLoop [Casual, Puzzle, 2.5D, Colorful]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - ONE PIECE ODYSSEY [Open World, Anime, Turn-Based Combat, JRPG]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Die in the Dungeon: PROLOGUE [Roguelike Deckbuilder, Card Game, Card Battler, Roguelike]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - I commissioned some bees 0 [Casual, Singleplayer, 2D, Abstract]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - SCP: Labrat [Horror, VR, Multiplayer, Singleplayer]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Antimatter Dimensions [Strategy, Idler, Clicker, Casual]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Outpath: First Journey [Base Building, Resource Management, Crafting, Clicker]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Melatonin [Indie, Rhythm, Action, Hand-drawn]
+[2023-02-21 06:17:06,581] {logging_mixin.py:115} INFO - Chicken Invaders Universe [Shooter, Shoot 'Em Up, Top-Down Shooter, Action]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Buriedbornes - Dungeon RPG [Turn-Based Strategy, RPG, Dark Fantasy, Roguelike]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - High On Life [FPS, Comedy, Singleplayer, Adventure]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Kleebuu Craves Fruit Salad [Puzzle Platformer, Atmospheric, Horror, Precision Platformer]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - The Final Matrix (CPC/Spectrum) [Retro, Shoot 'Em Up, Top-Down Shooter, Puzzle]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - SpiderAttack [Action, Arcade, 2D Platformer, 2D]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Boundary Walls [Casual, Platformer, 2D Platformer, 2D]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - GRADIENT [Stylized, Arena Shooter, Open World, Exploration]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Golgotha [Simulation, First-Person, Realistic, Atmospheric]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Size story [Adventure, Action-Adventure, Puzzle, Roguelike]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Bad Hop Baseball [Casual, Sports, Arcade, Turn-Based Tactics]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Connected Hearts: The Musketeers Saga Collector's Edition [Inventory Management, Story Rich, Hidden Object, Puzzle]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Classic Car Simulator: Car Driving [Action, Simulation, Racing, Indie]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - How long can you survive [Survival, 2D, Colorful, Pixel Graphics]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Hkons Beanrunner [Action, Parkour, First-Person, Platformer]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Roadkill Raceway [Action, Casual, Racing, Automobile Sim]
+[2023-02-21 06:17:06,582] {logging_mixin.py:115} INFO - Role of Hex [Roguelike, Tower Defense, Procedural Generation, Exploration]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Atomic Heart [Horror, Mystery, Puzzle, FPS]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Atomic Heart [Horror, Mystery, Puzzle, FPS]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Vanessa [Action, Adventure, Action-Adventure, Exploration]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Traveler - The AI Story [Adventure, Artificial Intelligence, Visual Novel, Exploration]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Risnuch [Action, Indie, Casual, Adventure]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Risnuch [Action, Indie, Casual, Adventure]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Risnuch [Action, Indie, Casual, Adventure]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Back To Ashes [Action, Indie, RPG, Adventure]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Dawn Of Hell [Action-Adventure, Medieval, 3D, Horror]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Defend from Candyland! [Strategy, Tower Defense, Casual, Clicker]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Turtle Racer [Racing, Education, Time Management, 3D]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Mythargia [Adventure, RPG, Exploration, Investigation]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - The Test: Secrets of the Soul [Simulation, Choices Matter, Multiple Endings, Choose Your Own Adventure]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Stacks:Space! [Casual, Card Game, Sci-fi, Crafting]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Fight in the Arena [Text-Based, CRPG, Turn-Based Combat, RPG]
+[2023-02-21 06:17:06,583] {logging_mixin.py:115} INFO - Johnny Lionface [Action RPG, Dark Humor, Party-Based RPG, RPG]
+[2023-02-21 06:17:06,584] {logging_mixin.py:115} INFO - Flashback [Anime, Strategy, Choices Matter, Roguelite]
+[2023-02-21 06:17:06,584] {logging_mixin.py:115} INFO - My Dream Setup [Design & Illustration, Simulation, Relaxing, Casual]
+[2023-02-21 06:17:06,584] {logging_mixin.py:115} INFO - My Lovely Pets Collector's Edition [Casual, Hidden Object, Realistic, Family Friendly]
+[2023-02-21 06:17:06,584] {logging_mixin.py:115} INFO - XXX_CYBERRAT_XXX [Horror, Hacking, Psychological, Dark]
+[2023-02-21 06:17:06,584] {logging_mixin.py:115} INFO - Draw the Road [Casual, Simulation, Racing, Sports]
+[2023-02-21 06:17:06,584] {logging_mixin.py:115} INFO - Mimics the bots [Casual, Board Game, Real Time Tactics, Third Person]
+[2023-02-21 06:17:06,584] {python.py:173} INFO - Done. Returned value was: None
+[2023-02-21 06:17:06,594] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=steam_dag, task_id=save_data, execution_date=20220701T000000, start_date=20230221T111706, end_date=20230221T111706
+[2023-02-21 06:17:06,624] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-21 06:17:06,661] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

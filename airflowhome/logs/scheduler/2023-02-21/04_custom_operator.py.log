@@ -1,0 +1,1099 @@
+[2023-02-20 23:42:34,836] {processor.py:153} INFO - Started process (PID=53240) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:42:34,849] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:42:34,852] {logging_mixin.py:115} INFO - [2023-02-20 23:42:34,851] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:42:34,873] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:42:34,960] {logging_mixin.py:115} INFO - [2023-02-20 23:42:34,960] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:42:35,067] {logging_mixin.py:115} INFO - [2023-02-20 23:42:35,067] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:42:35,127] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.297 seconds
+[2023-02-20 23:43:05,795] {processor.py:153} INFO - Started process (PID=53264) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:43:05,796] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:43:05,797] {logging_mixin.py:115} INFO - [2023-02-20 23:43:05,797] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:43:05,803] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:43:05,831] {logging_mixin.py:115} INFO - [2023-02-20 23:43:05,831] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:43:05,863] {logging_mixin.py:115} INFO - [2023-02-20 23:43:05,863] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:43:05,886] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.097 seconds
+[2023-02-20 23:43:37,777] {processor.py:153} INFO - Started process (PID=53280) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:43:37,778] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:43:37,779] {logging_mixin.py:115} INFO - [2023-02-20 23:43:37,779] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:43:37,786] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:43:37,815] {logging_mixin.py:115} INFO - [2023-02-20 23:43:37,815] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:43:37,846] {logging_mixin.py:115} INFO - [2023-02-20 23:43:37,846] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:43:37,872] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.101 seconds
+[2023-02-20 23:44:08,278] {processor.py:153} INFO - Started process (PID=53300) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:44:08,279] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:44:08,280] {logging_mixin.py:115} INFO - [2023-02-20 23:44:08,279] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:44:08,287] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:44:08,314] {logging_mixin.py:115} INFO - [2023-02-20 23:44:08,314] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:44:08,359] {logging_mixin.py:115} INFO - [2023-02-20 23:44:08,359] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:44:08,380] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.112 seconds
+[2023-02-20 23:44:38,823] {processor.py:153} INFO - Started process (PID=53316) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:44:38,825] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:44:38,826] {logging_mixin.py:115} INFO - [2023-02-20 23:44:38,826] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:44:38,833] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:44:38,860] {logging_mixin.py:115} INFO - [2023-02-20 23:44:38,860] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:44:38,895] {logging_mixin.py:115} INFO - [2023-02-20 23:44:38,895] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:44:38,917] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.101 seconds
+[2023-02-20 23:45:09,425] {processor.py:153} INFO - Started process (PID=53354) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:45:09,426] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:45:09,427] {logging_mixin.py:115} INFO - [2023-02-20 23:45:09,427] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:45:09,434] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:45:09,463] {logging_mixin.py:115} INFO - [2023-02-20 23:45:09,463] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:45:09,496] {logging_mixin.py:115} INFO - [2023-02-20 23:45:09,496] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:45:09,523] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.104 seconds
+[2023-02-20 23:45:39,959] {processor.py:153} INFO - Started process (PID=53497) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:45:39,961] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:45:39,962] {logging_mixin.py:115} INFO - [2023-02-20 23:45:39,962] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:45:39,969] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:45:39,998] {logging_mixin.py:115} INFO - [2023-02-20 23:45:39,997] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:45:40,028] {logging_mixin.py:115} INFO - [2023-02-20 23:45:40,028] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:45:40,057] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.103 seconds
+[2023-02-20 23:46:10,480] {processor.py:153} INFO - Started process (PID=53522) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:46:10,482] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:46:10,487] {logging_mixin.py:115} INFO - [2023-02-20 23:46:10,487] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:46:10,493] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:46:10,521] {logging_mixin.py:115} INFO - [2023-02-20 23:46:10,521] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:46:10,551] {logging_mixin.py:115} INFO - [2023-02-20 23:46:10,551] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:46:10,577] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.102 seconds
+[2023-02-20 23:46:41,601] {processor.py:153} INFO - Started process (PID=53652) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:46:41,603] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:46:41,604] {logging_mixin.py:115} INFO - [2023-02-20 23:46:41,604] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:46:41,610] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:46:41,638] {logging_mixin.py:115} INFO - [2023-02-20 23:46:41,637] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:46:41,681] {logging_mixin.py:115} INFO - [2023-02-20 23:46:41,680] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:46:41,710] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.114 seconds
+[2023-02-20 23:47:12,658] {processor.py:153} INFO - Started process (PID=53798) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:47:12,659] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:47:12,660] {logging_mixin.py:115} INFO - [2023-02-20 23:47:12,660] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:47:12,684] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:47:12,782] {logging_mixin.py:115} INFO - [2023-02-20 23:47:12,781] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:47:12,949] {logging_mixin.py:115} INFO - [2023-02-20 23:47:12,949] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:47:13,042] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.428 seconds
+[2023-02-20 23:47:43,106] {processor.py:153} INFO - Started process (PID=53848) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:47:43,151] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:47:43,152] {logging_mixin.py:115} INFO - [2023-02-20 23:47:43,152] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:47:43,162] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:47:43,191] {logging_mixin.py:115} INFO - [2023-02-20 23:47:43,191] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:47:43,226] {logging_mixin.py:115} INFO - [2023-02-20 23:47:43,226] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:47:43,255] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.160 seconds
+[2023-02-20 23:48:13,332] {processor.py:153} INFO - Started process (PID=53869) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:48:13,333] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:48:13,334] {logging_mixin.py:115} INFO - [2023-02-20 23:48:13,334] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:48:13,344] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:48:13,383] {logging_mixin.py:115} INFO - [2023-02-20 23:48:13,383] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:48:13,426] {logging_mixin.py:115} INFO - [2023-02-20 23:48:13,426] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:48:13,453] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.127 seconds
+[2023-02-20 23:48:43,889] {processor.py:153} INFO - Started process (PID=53892) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:48:43,907] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:48:43,914] {logging_mixin.py:115} INFO - [2023-02-20 23:48:43,913] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:48:43,921] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:48:43,966] {logging_mixin.py:115} INFO - [2023-02-20 23:48:43,966] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:48:44,014] {logging_mixin.py:115} INFO - [2023-02-20 23:48:44,014] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:48:44,041] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.169 seconds
+[2023-02-20 23:49:14,404] {processor.py:153} INFO - Started process (PID=53910) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:49:14,405] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:49:14,406] {logging_mixin.py:115} INFO - [2023-02-20 23:49:14,406] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:49:14,413] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:49:14,442] {logging_mixin.py:115} INFO - [2023-02-20 23:49:14,442] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:49:14,476] {logging_mixin.py:115} INFO - [2023-02-20 23:49:14,476] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:49:14,505] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.106 seconds
+[2023-02-20 23:49:44,947] {processor.py:153} INFO - Started process (PID=53926) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:49:44,949] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:49:44,950] {logging_mixin.py:115} INFO - [2023-02-20 23:49:44,949] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:49:44,956] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:49:44,984] {logging_mixin.py:115} INFO - [2023-02-20 23:49:44,984] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:49:45,018] {logging_mixin.py:115} INFO - [2023-02-20 23:49:45,018] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:49:45,047] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.106 seconds
+[2023-02-20 23:50:15,556] {processor.py:153} INFO - Started process (PID=53954) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:50:15,557] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:50:15,557] {logging_mixin.py:115} INFO - [2023-02-20 23:50:15,557] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:50:15,574] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:50:15,604] {logging_mixin.py:115} INFO - [2023-02-20 23:50:15,604] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:50:15,639] {logging_mixin.py:115} INFO - [2023-02-20 23:50:15,639] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:50:15,665] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.114 seconds
+[2023-02-20 23:50:46,068] {processor.py:153} INFO - Started process (PID=53972) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:50:46,070] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:50:46,071] {logging_mixin.py:115} INFO - [2023-02-20 23:50:46,070] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:50:46,077] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:50:46,105] {logging_mixin.py:115} INFO - [2023-02-20 23:50:46,105] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:50:46,141] {logging_mixin.py:115} INFO - [2023-02-20 23:50:46,141] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:50:46,182] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.120 seconds
+[2023-02-20 23:51:16,608] {processor.py:153} INFO - Started process (PID=53993) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:51:16,609] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:51:16,610] {logging_mixin.py:115} INFO - [2023-02-20 23:51:16,610] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:51:16,617] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:51:16,644] {logging_mixin.py:115} INFO - [2023-02-20 23:51:16,644] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:51:16,676] {logging_mixin.py:115} INFO - [2023-02-20 23:51:16,676] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:51:16,699] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.098 seconds
+[2023-02-20 23:51:47,146] {processor.py:153} INFO - Started process (PID=54014) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:51:47,148] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:51:47,149] {logging_mixin.py:115} INFO - [2023-02-20 23:51:47,149] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:51:47,156] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:51:47,192] {logging_mixin.py:115} INFO - [2023-02-20 23:51:47,192] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:51:47,246] {logging_mixin.py:115} INFO - [2023-02-20 23:51:47,246] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:51:47,269] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.130 seconds
+[2023-02-20 23:52:20,971] {processor.py:153} INFO - Started process (PID=54284) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:52:20,982] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:52:20,983] {logging_mixin.py:115} INFO - [2023-02-20 23:52:20,983] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:52:21,004] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:52:21,101] {logging_mixin.py:115} INFO - [2023-02-20 23:52:21,100] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:52:21,174] {logging_mixin.py:115} INFO - [2023-02-20 23:52:21,174] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:52:21,199] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.298 seconds
+[2023-02-20 23:52:51,953] {processor.py:153} INFO - Started process (PID=54454) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:52:51,965] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:52:51,966] {logging_mixin.py:115} INFO - [2023-02-20 23:52:51,966] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:52:51,984] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:52:52,018] {logging_mixin.py:115} INFO - [2023-02-20 23:52:52,017] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:52:52,053] {logging_mixin.py:115} INFO - [2023-02-20 23:52:52,053] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:52:52,074] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.125 seconds
+[2023-02-20 23:53:22,395] {processor.py:153} INFO - Started process (PID=54484) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:53:22,396] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:53:22,397] {logging_mixin.py:115} INFO - [2023-02-20 23:53:22,397] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:53:22,404] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:53:22,445] {logging_mixin.py:115} INFO - [2023-02-20 23:53:22,445] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:53:22,501] {logging_mixin.py:115} INFO - [2023-02-20 23:53:22,501] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:53:22,549] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.159 seconds
+[2023-02-20 23:54:01,588] {processor.py:153} INFO - Started process (PID=54559) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:54:01,591] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:54:01,593] {logging_mixin.py:115} INFO - [2023-02-20 23:54:01,593] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:54:01,602] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:54:01,643] {logging_mixin.py:115} INFO - [2023-02-20 23:54:01,643] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:54:01,699] {logging_mixin.py:115} INFO - [2023-02-20 23:54:01,698] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:54:01,725] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.145 seconds
+[2023-02-20 23:54:40,012] {processor.py:153} INFO - Started process (PID=54766) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:54:40,014] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:54:40,015] {logging_mixin.py:115} INFO - [2023-02-20 23:54:40,015] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:54:40,022] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:54:40,050] {logging_mixin.py:115} INFO - [2023-02-20 23:54:40,050] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:54:40,085] {logging_mixin.py:115} INFO - [2023-02-20 23:54:40,085] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:54:40,125] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.119 seconds
+[2023-02-20 23:55:10,738] {processor.py:153} INFO - Started process (PID=54787) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:55:10,740] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:55:10,741] {logging_mixin.py:115} INFO - [2023-02-20 23:55:10,741] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:55:10,749] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:55:10,815] {logging_mixin.py:115} INFO - [2023-02-20 23:55:10,815] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:55:10,894] {logging_mixin.py:115} INFO - [2023-02-20 23:55:10,894] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:55:11,067] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.336 seconds
+[2023-02-20 23:55:43,691] {processor.py:153} INFO - Started process (PID=54804) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:55:43,695] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:55:43,696] {logging_mixin.py:115} INFO - [2023-02-20 23:55:43,695] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:55:43,702] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:55:43,735] {logging_mixin.py:115} INFO - [2023-02-20 23:55:43,735] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:55:43,777] {logging_mixin.py:115} INFO - [2023-02-20 23:55:43,777] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:55:43,812] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.127 seconds
+[2023-02-20 23:56:17,595] {processor.py:153} INFO - Started process (PID=54826) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:56:17,596] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:56:17,597] {logging_mixin.py:115} INFO - [2023-02-20 23:56:17,597] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:56:17,614] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:56:17,741] {logging_mixin.py:115} INFO - [2023-02-20 23:56:17,740] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:56:17,906] {logging_mixin.py:115} INFO - [2023-02-20 23:56:17,906] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:56:18,010] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.452 seconds
+[2023-02-20 23:56:49,129] {processor.py:153} INFO - Started process (PID=54851) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:56:49,156] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:56:49,157] {logging_mixin.py:115} INFO - [2023-02-20 23:56:49,156] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:56:49,163] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:56:49,195] {logging_mixin.py:115} INFO - [2023-02-20 23:56:49,195] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:56:49,226] {logging_mixin.py:115} INFO - [2023-02-20 23:56:49,226] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:56:49,675] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.552 seconds
+[2023-02-20 23:57:20,329] {processor.py:153} INFO - Started process (PID=54995) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:57:20,330] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-20 23:57:20,331] {logging_mixin.py:115} INFO - [2023-02-20 23:57:20,331] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:57:20,360] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-20 23:57:20,431] {logging_mixin.py:115} INFO - [2023-02-20 23:57:20,431] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 23:57:20,518] {logging_mixin.py:115} INFO - [2023-02-20 23:57:20,518] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-20 23:57:20,570] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.265 seconds
+[2023-02-21 03:44:29,547] {processor.py:153} INFO - Started process (PID=58847) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:44:29,578] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:44:29,580] {logging_mixin.py:115} INFO - [2023-02-21 03:44:29,579] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:44:29,618] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:44:29,743] {logging_mixin.py:115} INFO - [2023-02-21 03:44:29,743] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:44:30,006] {logging_mixin.py:115} INFO - [2023-02-21 03:44:30,006] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:44:30,093] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.559 seconds
+[2023-02-21 03:48:45,541] {processor.py:153} INFO - Started process (PID=59371) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:48:45,560] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:48:45,561] {logging_mixin.py:115} INFO - [2023-02-21 03:48:45,561] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:48:45,571] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:48:45,634] {logging_mixin.py:115} INFO - [2023-02-21 03:48:45,633] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:48:45,747] {logging_mixin.py:115} INFO - [2023-02-21 03:48:45,746] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:48:45,800] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.275 seconds
+[2023-02-21 03:49:18,175] {processor.py:153} INFO - Started process (PID=59666) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:49:18,188] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:49:18,189] {logging_mixin.py:115} INFO - [2023-02-21 03:49:18,189] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:49:18,202] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:49:18,345] {logging_mixin.py:115} INFO - [2023-02-21 03:49:18,345] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:49:18,601] {logging_mixin.py:115} INFO - [2023-02-21 03:49:18,576] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:49:18,649] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.510 seconds
+[2023-02-21 03:52:02,506] {processor.py:153} INFO - Started process (PID=59897) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:52:02,509] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:52:02,510] {logging_mixin.py:115} INFO - [2023-02-21 03:52:02,510] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:52:02,556] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:52:02,639] {logging_mixin.py:115} INFO - [2023-02-21 03:52:02,639] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:52:02,709] {logging_mixin.py:115} INFO - [2023-02-21 03:52:02,709] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:52:02,780] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.285 seconds
+[2023-02-21 03:52:45,419] {processor.py:153} INFO - Started process (PID=59976) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:52:45,421] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:52:45,422] {logging_mixin.py:115} INFO - [2023-02-21 03:52:45,422] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:52:45,431] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:52:45,462] {logging_mixin.py:115} INFO - [2023-02-21 03:52:45,462] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:52:45,493] {logging_mixin.py:115} INFO - [2023-02-21 03:52:45,493] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:52:45,515] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.102 seconds
+[2023-02-21 03:53:16,569] {processor.py:153} INFO - Started process (PID=60013) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:53:16,571] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:53:16,572] {logging_mixin.py:115} INFO - [2023-02-21 03:53:16,572] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:53:16,589] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:53:16,646] {logging_mixin.py:115} INFO - [2023-02-21 03:53:16,646] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:53:16,736] {logging_mixin.py:115} INFO - [2023-02-21 03:53:16,736] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:53:16,801] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.255 seconds
+[2023-02-21 03:53:47,445] {processor.py:153} INFO - Started process (PID=60112) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:53:47,445] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:53:47,446] {logging_mixin.py:115} INFO - [2023-02-21 03:53:47,446] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:53:47,454] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:53:47,483] {logging_mixin.py:115} INFO - [2023-02-21 03:53:47,483] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:53:47,516] {logging_mixin.py:115} INFO - [2023-02-21 03:53:47,516] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:53:47,542] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.103 seconds
+[2023-02-21 03:54:18,001] {processor.py:153} INFO - Started process (PID=60129) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:54:18,003] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:54:18,004] {logging_mixin.py:115} INFO - [2023-02-21 03:54:18,004] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:54:18,011] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:54:18,042] {logging_mixin.py:115} INFO - [2023-02-21 03:54:18,042] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:54:18,078] {logging_mixin.py:115} INFO - [2023-02-21 03:54:18,077] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:54:18,107] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.112 seconds
+[2023-02-21 03:54:48,509] {processor.py:153} INFO - Started process (PID=60153) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:54:48,510] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:54:48,511] {logging_mixin.py:115} INFO - [2023-02-21 03:54:48,511] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:54:48,518] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:54:48,548] {logging_mixin.py:115} INFO - [2023-02-21 03:54:48,547] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:54:48,585] {logging_mixin.py:115} INFO - [2023-02-21 03:54:48,585] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:54:48,612] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.109 seconds
+[2023-02-21 03:55:19,268] {processor.py:153} INFO - Started process (PID=60179) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:55:19,269] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:55:19,270] {logging_mixin.py:115} INFO - [2023-02-21 03:55:19,270] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:55:19,277] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:55:19,320] {logging_mixin.py:115} INFO - [2023-02-21 03:55:19,320] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:55:19,358] {logging_mixin.py:115} INFO - [2023-02-21 03:55:19,357] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:55:19,385] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.123 seconds
+[2023-02-21 03:55:49,775] {processor.py:153} INFO - Started process (PID=60203) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:55:49,776] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:55:49,777] {logging_mixin.py:115} INFO - [2023-02-21 03:55:49,777] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:55:49,783] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:55:49,812] {logging_mixin.py:115} INFO - [2023-02-21 03:55:49,812] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:55:49,853] {logging_mixin.py:115} INFO - [2023-02-21 03:55:49,849] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:55:49,884] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.118 seconds
+[2023-02-21 03:56:20,343] {processor.py:153} INFO - Started process (PID=60232) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:56:20,346] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:56:20,348] {logging_mixin.py:115} INFO - [2023-02-21 03:56:20,347] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:56:20,354] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:56:20,389] {logging_mixin.py:115} INFO - [2023-02-21 03:56:20,389] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:56:20,422] {logging_mixin.py:115} INFO - [2023-02-21 03:56:20,421] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:56:20,447] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.109 seconds
+[2023-02-21 03:56:50,887] {processor.py:153} INFO - Started process (PID=60257) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:56:50,888] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:56:50,889] {logging_mixin.py:115} INFO - [2023-02-21 03:56:50,889] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:56:50,896] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:56:50,972] {logging_mixin.py:115} INFO - [2023-02-21 03:56:50,972] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:56:51,059] {logging_mixin.py:115} INFO - [2023-02-21 03:56:51,058] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:56:51,102] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.228 seconds
+[2023-02-21 03:57:21,444] {processor.py:153} INFO - Started process (PID=60289) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:57:21,446] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:57:21,447] {logging_mixin.py:115} INFO - [2023-02-21 03:57:21,447] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:57:21,453] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:57:21,480] {logging_mixin.py:115} INFO - [2023-02-21 03:57:21,480] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:57:21,516] {logging_mixin.py:115} INFO - [2023-02-21 03:57:21,516] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:57:21,541] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.103 seconds
+[2023-02-21 03:57:51,956] {processor.py:153} INFO - Started process (PID=60325) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:57:51,957] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:57:51,963] {logging_mixin.py:115} INFO - [2023-02-21 03:57:51,963] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:57:51,970] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:57:51,997] {logging_mixin.py:115} INFO - [2023-02-21 03:57:51,997] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:57:52,028] {logging_mixin.py:115} INFO - [2023-02-21 03:57:52,028] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:57:52,053] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.102 seconds
+[2023-02-21 03:58:22,497] {processor.py:153} INFO - Started process (PID=60354) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:58:22,499] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:58:22,500] {logging_mixin.py:115} INFO - [2023-02-21 03:58:22,500] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:58:22,507] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:58:22,535] {logging_mixin.py:115} INFO - [2023-02-21 03:58:22,534] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:58:22,571] {logging_mixin.py:115} INFO - [2023-02-21 03:58:22,571] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:58:22,594] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.102 seconds
+[2023-02-21 03:58:53,056] {processor.py:153} INFO - Started process (PID=60390) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:58:53,057] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 03:58:53,058] {logging_mixin.py:115} INFO - [2023-02-21 03:58:53,058] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:58:53,065] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 03:58:53,093] {logging_mixin.py:115} INFO - [2023-02-21 03:58:53,092] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 03:58:53,125] {logging_mixin.py:115} INFO - [2023-02-21 03:58:53,125] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 03:58:53,150] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:08:02,331] {processor.py:153} INFO - Started process (PID=62960) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:08:02,358] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:08:02,359] {logging_mixin.py:115} INFO - [2023-02-21 05:08:02,359] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:08:02,444] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:08:02,878] {logging_mixin.py:115} INFO - [2023-02-21 05:08:02,847] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:08:03,099] {logging_mixin.py:115} INFO - [2023-02-21 05:08:03,098] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:08:03,254] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.926 seconds
+[2023-02-21 05:24:11,330] {processor.py:153} INFO - Started process (PID=63769) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:24:11,334] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:24:11,335] {logging_mixin.py:115} INFO - [2023-02-21 05:24:11,334] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:24:11,341] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:24:11,396] {logging_mixin.py:115} INFO - [2023-02-21 05:24:11,396] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:24:11,446] {logging_mixin.py:115} INFO - [2023-02-21 05:24:11,446] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:24:11,477] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.154 seconds
+[2023-02-21 05:24:41,964] {processor.py:153} INFO - Started process (PID=63786) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:24:41,965] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:24:41,966] {logging_mixin.py:115} INFO - [2023-02-21 05:24:41,966] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:24:41,973] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:24:42,005] {logging_mixin.py:115} INFO - [2023-02-21 05:24:42,005] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:24:42,041] {logging_mixin.py:115} INFO - [2023-02-21 05:24:42,041] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:24:42,065] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.107 seconds
+[2023-02-21 05:25:13,749] {processor.py:153} INFO - Started process (PID=63810) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:25:13,752] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:25:13,753] {logging_mixin.py:115} INFO - [2023-02-21 05:25:13,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:25:13,760] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:25:13,801] {logging_mixin.py:115} INFO - [2023-02-21 05:25:13,801] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:25:13,889] {logging_mixin.py:115} INFO - [2023-02-21 05:25:13,889] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:25:13,941] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.201 seconds
+[2023-02-21 05:25:44,131] {processor.py:153} INFO - Started process (PID=63840) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:25:44,135] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:25:44,136] {logging_mixin.py:115} INFO - [2023-02-21 05:25:44,136] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:25:44,143] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:25:44,173] {logging_mixin.py:115} INFO - [2023-02-21 05:25:44,173] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:25:44,206] {logging_mixin.py:115} INFO - [2023-02-21 05:25:44,206] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:25:44,229] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.103 seconds
+[2023-02-21 05:26:15,092] {processor.py:153} INFO - Started process (PID=63873) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:26:15,093] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:26:15,094] {logging_mixin.py:115} INFO - [2023-02-21 05:26:15,094] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:26:15,101] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:26:15,133] {logging_mixin.py:115} INFO - [2023-02-21 05:26:15,132] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:26:15,166] {logging_mixin.py:115} INFO - [2023-02-21 05:26:15,166] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:26:15,194] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.107 seconds
+[2023-02-21 05:26:46,075] {processor.py:153} INFO - Started process (PID=63894) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:26:46,077] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:26:46,078] {logging_mixin.py:115} INFO - [2023-02-21 05:26:46,078] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:26:46,085] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:26:46,114] {logging_mixin.py:115} INFO - [2023-02-21 05:26:46,114] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:26:46,145] {logging_mixin.py:115} INFO - [2023-02-21 05:26:46,145] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:26:46,173] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.103 seconds
+[2023-02-21 05:27:17,035] {processor.py:153} INFO - Started process (PID=63915) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:27:17,036] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:27:17,037] {logging_mixin.py:115} INFO - [2023-02-21 05:27:17,037] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:27:17,044] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:27:17,073] {logging_mixin.py:115} INFO - [2023-02-21 05:27:17,073] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:27:17,104] {logging_mixin.py:115} INFO - [2023-02-21 05:27:17,104] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:27:17,126] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.096 seconds
+[2023-02-21 05:27:47,979] {processor.py:153} INFO - Started process (PID=63933) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:27:48,005] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:27:48,006] {logging_mixin.py:115} INFO - [2023-02-21 05:27:48,006] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:27:48,012] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:27:48,045] {logging_mixin.py:115} INFO - [2023-02-21 05:27:48,045] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:27:48,079] {logging_mixin.py:115} INFO - [2023-02-21 05:27:48,079] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:27:48,104] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.130 seconds
+[2023-02-21 05:28:18,967] {processor.py:153} INFO - Started process (PID=63956) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:28:18,968] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:28:18,969] {logging_mixin.py:115} INFO - [2023-02-21 05:28:18,969] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:28:18,976] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:28:19,009] {logging_mixin.py:115} INFO - [2023-02-21 05:28:19,009] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:28:19,040] {logging_mixin.py:115} INFO - [2023-02-21 05:28:19,039] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:28:19,062] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.100 seconds
+[2023-02-21 05:28:49,638] {processor.py:153} INFO - Started process (PID=63973) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:28:49,640] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:28:49,641] {logging_mixin.py:115} INFO - [2023-02-21 05:28:49,640] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:28:49,647] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:28:49,676] {logging_mixin.py:115} INFO - [2023-02-21 05:28:49,676] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:28:49,707] {logging_mixin.py:115} INFO - [2023-02-21 05:28:49,707] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:28:49,731] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:29:20,173] {processor.py:153} INFO - Started process (PID=63995) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:29:20,175] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:29:20,176] {logging_mixin.py:115} INFO - [2023-02-21 05:29:20,176] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:29:20,183] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:29:20,211] {logging_mixin.py:115} INFO - [2023-02-21 05:29:20,210] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:29:20,241] {logging_mixin.py:115} INFO - [2023-02-21 05:29:20,241] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:29:20,265] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.097 seconds
+[2023-02-21 05:29:54,243] {processor.py:153} INFO - Started process (PID=64018) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:29:54,245] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:29:54,246] {logging_mixin.py:115} INFO - [2023-02-21 05:29:54,245] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:29:54,252] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:29:54,281] {logging_mixin.py:115} INFO - [2023-02-21 05:29:54,281] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:29:54,321] {logging_mixin.py:115} INFO - [2023-02-21 05:29:54,321] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:29:54,346] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.109 seconds
+[2023-02-21 05:30:24,761] {processor.py:153} INFO - Started process (PID=64036) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:30:24,762] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:30:24,763] {logging_mixin.py:115} INFO - [2023-02-21 05:30:24,763] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:30:24,770] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:30:24,798] {logging_mixin.py:115} INFO - [2023-02-21 05:30:24,798] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:30:24,829] {logging_mixin.py:115} INFO - [2023-02-21 05:30:24,829] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:30:24,852] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.096 seconds
+[2023-02-21 05:30:55,866] {processor.py:153} INFO - Started process (PID=64057) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:30:55,869] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:30:55,871] {logging_mixin.py:115} INFO - [2023-02-21 05:30:55,871] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:30:55,877] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:30:55,927] {logging_mixin.py:115} INFO - [2023-02-21 05:30:55,927] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:30:55,962] {logging_mixin.py:115} INFO - [2023-02-21 05:30:55,961] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:30:56,005] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.146 seconds
+[2023-02-21 05:31:26,882] {processor.py:153} INFO - Started process (PID=64080) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:31:26,883] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:31:26,884] {logging_mixin.py:115} INFO - [2023-02-21 05:31:26,884] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:31:26,891] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:31:26,919] {logging_mixin.py:115} INFO - [2023-02-21 05:31:26,919] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:31:26,951] {logging_mixin.py:115} INFO - [2023-02-21 05:31:26,951] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:31:26,975] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:31:57,618] {processor.py:153} INFO - Started process (PID=64099) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:31:57,619] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:31:57,620] {logging_mixin.py:115} INFO - [2023-02-21 05:31:57,620] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:31:57,627] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:31:57,655] {logging_mixin.py:115} INFO - [2023-02-21 05:31:57,655] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:31:57,687] {logging_mixin.py:115} INFO - [2023-02-21 05:31:57,687] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:31:57,710] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.098 seconds
+[2023-02-21 05:32:29,724] {processor.py:153} INFO - Started process (PID=64131) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:32:29,727] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:32:29,728] {logging_mixin.py:115} INFO - [2023-02-21 05:32:29,728] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:32:29,735] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:32:29,774] {logging_mixin.py:115} INFO - [2023-02-21 05:32:29,774] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:32:29,808] {logging_mixin.py:115} INFO - [2023-02-21 05:32:29,808] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:32:29,828] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.110 seconds
+[2023-02-21 05:33:02,248] {processor.py:153} INFO - Started process (PID=64164) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:33:02,249] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:33:02,250] {logging_mixin.py:115} INFO - [2023-02-21 05:33:02,250] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:33:02,256] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:33:02,285] {logging_mixin.py:115} INFO - [2023-02-21 05:33:02,285] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:33:02,315] {logging_mixin.py:115} INFO - [2023-02-21 05:33:02,315] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:33:02,337] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.094 seconds
+[2023-02-21 05:33:43,405] {processor.py:153} INFO - Started process (PID=64181) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:33:43,413] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:33:43,414] {logging_mixin.py:115} INFO - [2023-02-21 05:33:43,414] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:33:43,421] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:33:43,449] {logging_mixin.py:115} INFO - [2023-02-21 05:33:43,449] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:33:43,484] {logging_mixin.py:115} INFO - [2023-02-21 05:33:43,484] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:33:43,516] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.116 seconds
+[2023-02-21 05:34:18,042] {processor.py:153} INFO - Started process (PID=64201) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:34:18,044] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:34:18,045] {logging_mixin.py:115} INFO - [2023-02-21 05:34:18,045] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:34:18,051] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:34:18,080] {logging_mixin.py:115} INFO - [2023-02-21 05:34:18,080] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:34:18,110] {logging_mixin.py:115} INFO - [2023-02-21 05:34:18,110] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:34:18,135] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:34:50,198] {processor.py:153} INFO - Started process (PID=64218) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:34:50,199] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:34:50,200] {logging_mixin.py:115} INFO - [2023-02-21 05:34:50,200] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:34:50,207] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:34:50,234] {logging_mixin.py:115} INFO - [2023-02-21 05:34:50,234] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:34:50,265] {logging_mixin.py:115} INFO - [2023-02-21 05:34:50,264] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:34:50,285] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.093 seconds
+[2023-02-21 05:35:25,851] {processor.py:153} INFO - Started process (PID=64239) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:35:26,341] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:35:26,342] {logging_mixin.py:115} INFO - [2023-02-21 05:35:26,342] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:35:26,348] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:35:26,378] {logging_mixin.py:115} INFO - [2023-02-21 05:35:26,378] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:35:26,410] {logging_mixin.py:115} INFO - [2023-02-21 05:35:26,410] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:35:27,538] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 1.692 seconds
+[2023-02-21 05:36:06,721] {processor.py:153} INFO - Started process (PID=64263) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:36:06,723] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:36:06,724] {logging_mixin.py:115} INFO - [2023-02-21 05:36:06,724] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:36:06,730] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:36:06,758] {logging_mixin.py:115} INFO - [2023-02-21 05:36:06,758] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:36:06,791] {logging_mixin.py:115} INFO - [2023-02-21 05:36:06,791] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:36:08,809] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 2.093 seconds
+[2023-02-21 05:36:39,370] {processor.py:153} INFO - Started process (PID=64280) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:36:39,370] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:36:39,371] {logging_mixin.py:115} INFO - [2023-02-21 05:36:39,371] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:36:39,378] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:36:39,407] {logging_mixin.py:115} INFO - [2023-02-21 05:36:39,407] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:36:39,445] {logging_mixin.py:115} INFO - [2023-02-21 05:36:39,445] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:36:40,664] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 1.300 seconds
+[2023-02-21 05:37:14,349] {processor.py:153} INFO - Started process (PID=64298) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:37:14,351] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:37:14,352] {logging_mixin.py:115} INFO - [2023-02-21 05:37:14,352] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:37:14,358] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:37:14,388] {logging_mixin.py:115} INFO - [2023-02-21 05:37:14,388] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:37:14,425] {logging_mixin.py:115} INFO - [2023-02-21 05:37:14,425] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:37:15,268] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.926 seconds
+[2023-02-21 05:37:47,470] {processor.py:153} INFO - Started process (PID=64315) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:37:47,489] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:37:47,490] {logging_mixin.py:115} INFO - [2023-02-21 05:37:47,489] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:37:47,496] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:37:47,526] {logging_mixin.py:115} INFO - [2023-02-21 05:37:47,526] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:37:47,559] {logging_mixin.py:115} INFO - [2023-02-21 05:37:47,559] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:37:48,161] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.699 seconds
+[2023-02-21 05:38:18,514] {processor.py:153} INFO - Started process (PID=64333) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:38:18,515] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:38:18,516] {logging_mixin.py:115} INFO - [2023-02-21 05:38:18,516] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:38:18,523] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:38:18,551] {logging_mixin.py:115} INFO - [2023-02-21 05:38:18,551] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:38:18,582] {logging_mixin.py:115} INFO - [2023-02-21 05:38:18,582] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:38:18,608] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:39:14,031] {processor.py:153} INFO - Started process (PID=64362) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:39:14,033] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:39:14,034] {logging_mixin.py:115} INFO - [2023-02-21 05:39:14,033] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:39:14,040] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:39:14,071] {logging_mixin.py:115} INFO - [2023-02-21 05:39:14,071] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:39:14,105] {logging_mixin.py:115} INFO - [2023-02-21 05:39:14,105] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:39:16,412] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 2.387 seconds
+[2023-02-21 05:39:47,081] {processor.py:153} INFO - Started process (PID=64408) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:39:47,082] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:39:47,083] {logging_mixin.py:115} INFO - [2023-02-21 05:39:47,083] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:39:47,090] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:39:47,118] {logging_mixin.py:115} INFO - [2023-02-21 05:39:47,118] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:39:47,150] {logging_mixin.py:115} INFO - [2023-02-21 05:39:47,150] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:39:49,272] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 2.197 seconds
+[2023-02-21 05:40:20,270] {processor.py:153} INFO - Started process (PID=64427) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:40:20,272] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:40:20,273] {logging_mixin.py:115} INFO - [2023-02-21 05:40:20,273] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:40:20,280] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:40:20,307] {logging_mixin.py:115} INFO - [2023-02-21 05:40:20,307] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:40:20,338] {logging_mixin.py:115} INFO - [2023-02-21 05:40:20,338] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:40:20,509] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.244 seconds
+[2023-02-21 05:40:52,347] {processor.py:153} INFO - Started process (PID=64445) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:40:52,348] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:40:52,349] {logging_mixin.py:115} INFO - [2023-02-21 05:40:52,349] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:40:52,356] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:40:52,387] {logging_mixin.py:115} INFO - [2023-02-21 05:40:52,387] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:40:52,435] {logging_mixin.py:115} INFO - [2023-02-21 05:40:52,435] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:40:52,455] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.114 seconds
+[2023-02-21 05:41:23,471] {processor.py:153} INFO - Started process (PID=64470) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:41:23,473] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:41:23,473] {logging_mixin.py:115} INFO - [2023-02-21 05:41:23,473] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:41:23,480] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:41:23,510] {logging_mixin.py:115} INFO - [2023-02-21 05:41:23,510] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:41:23,541] {logging_mixin.py:115} INFO - [2023-02-21 05:41:23,541] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:41:23,562] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.098 seconds
+[2023-02-21 05:41:54,202] {processor.py:153} INFO - Started process (PID=64487) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:41:54,202] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:41:54,203] {logging_mixin.py:115} INFO - [2023-02-21 05:41:54,203] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:41:54,213] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:41:54,243] {logging_mixin.py:115} INFO - [2023-02-21 05:41:54,243] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:41:54,274] {logging_mixin.py:115} INFO - [2023-02-21 05:41:54,274] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:41:54,295] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:42:26,002] {processor.py:153} INFO - Started process (PID=64505) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:42:26,004] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:42:26,005] {logging_mixin.py:115} INFO - [2023-02-21 05:42:26,005] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:42:26,012] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:42:26,040] {logging_mixin.py:115} INFO - [2023-02-21 05:42:26,040] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:42:26,070] {logging_mixin.py:115} INFO - [2023-02-21 05:42:26,070] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:42:26,091] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.095 seconds
+[2023-02-21 05:42:56,737] {processor.py:153} INFO - Started process (PID=64522) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:42:56,738] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:42:56,739] {logging_mixin.py:115} INFO - [2023-02-21 05:42:56,739] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:42:56,746] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:42:56,774] {logging_mixin.py:115} INFO - [2023-02-21 05:42:56,774] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:42:56,805] {logging_mixin.py:115} INFO - [2023-02-21 05:42:56,805] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:42:56,831] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:43:27,469] {processor.py:153} INFO - Started process (PID=64541) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:43:27,471] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:43:27,472] {logging_mixin.py:115} INFO - [2023-02-21 05:43:27,472] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:43:27,478] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:43:27,508] {logging_mixin.py:115} INFO - [2023-02-21 05:43:27,507] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:43:27,538] {logging_mixin.py:115} INFO - [2023-02-21 05:43:27,538] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:43:27,561] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.097 seconds
+[2023-02-21 05:43:58,204] {processor.py:153} INFO - Started process (PID=64565) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:43:58,205] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:43:58,206] {logging_mixin.py:115} INFO - [2023-02-21 05:43:58,206] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:43:58,214] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:43:58,253] {logging_mixin.py:115} INFO - [2023-02-21 05:43:58,253] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:43:58,310] {logging_mixin.py:115} INFO - [2023-02-21 05:43:58,310] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:43:58,332] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.134 seconds
+[2023-02-21 05:44:28,863] {processor.py:153} INFO - Started process (PID=64584) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:44:28,865] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:44:28,866] {logging_mixin.py:115} INFO - [2023-02-21 05:44:28,865] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:44:28,872] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:44:28,900] {logging_mixin.py:115} INFO - [2023-02-21 05:44:28,900] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:44:28,933] {logging_mixin.py:115} INFO - [2023-02-21 05:44:28,933] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:44:28,968] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.110 seconds
+[2023-02-21 05:44:59,583] {processor.py:153} INFO - Started process (PID=64601) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:44:59,584] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:44:59,586] {logging_mixin.py:115} INFO - [2023-02-21 05:44:59,585] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:44:59,594] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:44:59,631] {logging_mixin.py:115} INFO - [2023-02-21 05:44:59,630] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:44:59,672] {logging_mixin.py:115} INFO - [2023-02-21 05:44:59,672] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:44:59,699] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.121 seconds
+[2023-02-21 05:45:30,399] {processor.py:153} INFO - Started process (PID=64623) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:45:30,401] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:45:30,402] {logging_mixin.py:115} INFO - [2023-02-21 05:45:30,402] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:45:30,408] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:45:30,436] {logging_mixin.py:115} INFO - [2023-02-21 05:45:30,436] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:45:30,467] {logging_mixin.py:115} INFO - [2023-02-21 05:45:30,467] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:45:30,493] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.100 seconds
+[2023-02-21 05:46:01,129] {processor.py:153} INFO - Started process (PID=64659) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:46:01,131] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:46:01,132] {logging_mixin.py:115} INFO - [2023-02-21 05:46:01,132] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:46:01,138] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:46:01,186] {logging_mixin.py:115} INFO - [2023-02-21 05:46:01,186] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:46:01,222] {logging_mixin.py:115} INFO - [2023-02-21 05:46:01,221] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:46:01,246] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.124 seconds
+[2023-02-21 05:46:31,889] {processor.py:153} INFO - Started process (PID=64681) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:46:31,890] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:46:31,891] {logging_mixin.py:115} INFO - [2023-02-21 05:46:31,891] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:46:31,898] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:46:31,927] {logging_mixin.py:115} INFO - [2023-02-21 05:46:31,927] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:46:31,963] {logging_mixin.py:115} INFO - [2023-02-21 05:46:31,963] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:46:31,991] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.113 seconds
+[2023-02-21 05:47:02,619] {processor.py:153} INFO - Started process (PID=64713) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:47:02,619] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:47:02,620] {logging_mixin.py:115} INFO - [2023-02-21 05:47:02,620] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:47:02,627] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:47:02,655] {logging_mixin.py:115} INFO - [2023-02-21 05:47:02,655] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:47:02,686] {logging_mixin.py:115} INFO - [2023-02-21 05:47:02,686] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:47:02,713] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.100 seconds
+[2023-02-21 05:47:33,555] {processor.py:153} INFO - Started process (PID=64739) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:47:33,557] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:47:33,558] {logging_mixin.py:115} INFO - [2023-02-21 05:47:33,558] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:47:33,564] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:47:33,594] {logging_mixin.py:115} INFO - [2023-02-21 05:47:33,593] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:47:33,624] {logging_mixin.py:115} INFO - [2023-02-21 05:47:33,624] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:47:33,645] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.097 seconds
+[2023-02-21 05:48:04,348] {processor.py:153} INFO - Started process (PID=64760) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:48:04,349] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:48:04,350] {logging_mixin.py:115} INFO - [2023-02-21 05:48:04,350] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:48:04,357] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:48:04,384] {logging_mixin.py:115} INFO - [2023-02-21 05:48:04,384] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:48:04,418] {logging_mixin.py:115} INFO - [2023-02-21 05:48:04,418] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:48:04,439] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.098 seconds
+[2023-02-21 05:48:35,110] {processor.py:153} INFO - Started process (PID=64778) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:48:35,111] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:48:35,112] {logging_mixin.py:115} INFO - [2023-02-21 05:48:35,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:48:35,119] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:48:35,148] {logging_mixin.py:115} INFO - [2023-02-21 05:48:35,148] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:48:35,180] {logging_mixin.py:115} INFO - [2023-02-21 05:48:35,180] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:48:35,221] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.117 seconds
+[2023-02-21 05:49:05,889] {processor.py:153} INFO - Started process (PID=64796) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:49:05,890] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:49:05,891] {logging_mixin.py:115} INFO - [2023-02-21 05:49:05,891] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:49:05,897] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:49:05,932] {logging_mixin.py:115} INFO - [2023-02-21 05:49:05,932] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:49:05,963] {logging_mixin.py:115} INFO - [2023-02-21 05:49:05,963] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:49:05,985] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.101 seconds
+[2023-02-21 05:49:36,624] {processor.py:153} INFO - Started process (PID=64819) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:49:36,626] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:49:36,627] {logging_mixin.py:115} INFO - [2023-02-21 05:49:36,627] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:49:36,634] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:49:36,661] {logging_mixin.py:115} INFO - [2023-02-21 05:49:36,661] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:49:36,691] {logging_mixin.py:115} INFO - [2023-02-21 05:49:36,691] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:49:36,711] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.092 seconds
+[2023-02-21 05:50:07,305] {processor.py:153} INFO - Started process (PID=64838) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:50:07,307] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:50:07,308] {logging_mixin.py:115} INFO - [2023-02-21 05:50:07,308] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:50:07,317] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:50:07,346] {logging_mixin.py:115} INFO - [2023-02-21 05:50:07,345] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:50:07,375] {logging_mixin.py:115} INFO - [2023-02-21 05:50:07,375] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:50:07,399] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:50:37,991] {processor.py:153} INFO - Started process (PID=64855) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:50:37,992] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:50:37,998] {logging_mixin.py:115} INFO - [2023-02-21 05:50:37,997] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:50:38,004] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:50:38,034] {logging_mixin.py:115} INFO - [2023-02-21 05:50:38,033] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:50:38,063] {logging_mixin.py:115} INFO - [2023-02-21 05:50:38,063] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:50:38,090] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.105 seconds
+[2023-02-21 05:51:08,686] {processor.py:153} INFO - Started process (PID=64879) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:51:08,691] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:51:08,692] {logging_mixin.py:115} INFO - [2023-02-21 05:51:08,692] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:51:08,700] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:51:08,729] {logging_mixin.py:115} INFO - [2023-02-21 05:51:08,729] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:51:08,761] {logging_mixin.py:115} INFO - [2023-02-21 05:51:08,761] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:51:08,784] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.105 seconds
+[2023-02-21 05:51:39,453] {processor.py:153} INFO - Started process (PID=64899) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:51:39,454] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:51:39,455] {logging_mixin.py:115} INFO - [2023-02-21 05:51:39,455] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:51:39,462] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:51:39,489] {logging_mixin.py:115} INFO - [2023-02-21 05:51:39,489] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:51:39,521] {logging_mixin.py:115} INFO - [2023-02-21 05:51:39,521] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:51:39,542] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.094 seconds
+[2023-02-21 05:52:10,187] {processor.py:153} INFO - Started process (PID=64923) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:52:10,188] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:52:10,189] {logging_mixin.py:115} INFO - [2023-02-21 05:52:10,189] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:52:10,196] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:52:10,224] {logging_mixin.py:115} INFO - [2023-02-21 05:52:10,224] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:52:10,254] {logging_mixin.py:115} INFO - [2023-02-21 05:52:10,254] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:52:10,276] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.095 seconds
+[2023-02-21 05:52:40,982] {processor.py:153} INFO - Started process (PID=64949) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:52:40,983] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:52:40,984] {logging_mixin.py:115} INFO - [2023-02-21 05:52:40,984] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:52:40,992] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:52:41,028] {logging_mixin.py:115} INFO - [2023-02-21 05:52:41,028] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:52:41,061] {logging_mixin.py:115} INFO - [2023-02-21 05:52:41,060] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:52:41,081] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.104 seconds
+[2023-02-21 05:53:11,733] {processor.py:153} INFO - Started process (PID=64968) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:53:11,738] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:53:11,739] {logging_mixin.py:115} INFO - [2023-02-21 05:53:11,739] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:53:11,745] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:53:11,810] {logging_mixin.py:115} INFO - [2023-02-21 05:53:11,810] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:53:11,866] {logging_mixin.py:115} INFO - [2023-02-21 05:53:11,866] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:53:11,890] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.163 seconds
+[2023-02-21 05:53:42,520] {processor.py:153} INFO - Started process (PID=64985) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:53:42,521] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:53:42,522] {logging_mixin.py:115} INFO - [2023-02-21 05:53:42,522] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:53:42,529] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:53:42,558] {logging_mixin.py:115} INFO - [2023-02-21 05:53:42,558] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:53:42,600] {logging_mixin.py:115} INFO - [2023-02-21 05:53:42,600] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:53:42,634] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.119 seconds
+[2023-02-21 05:54:13,210] {processor.py:153} INFO - Started process (PID=65013) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:54:13,212] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:54:13,213] {logging_mixin.py:115} INFO - [2023-02-21 05:54:13,213] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:54:13,220] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:54:13,248] {logging_mixin.py:115} INFO - [2023-02-21 05:54:13,248] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:54:13,304] {logging_mixin.py:115} INFO - [2023-02-21 05:54:13,304] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:54:13,367] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.162 seconds
+[2023-02-21 05:54:44,013] {processor.py:153} INFO - Started process (PID=65030) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:54:44,014] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:54:44,015] {logging_mixin.py:115} INFO - [2023-02-21 05:54:44,015] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:54:44,028] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:54:44,059] {logging_mixin.py:115} INFO - [2023-02-21 05:54:44,059] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:54:44,093] {logging_mixin.py:115} INFO - [2023-02-21 05:54:44,093] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:54:44,116] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.118 seconds
+[2023-02-21 05:55:14,755] {processor.py:153} INFO - Started process (PID=65051) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:55:14,757] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:55:14,758] {logging_mixin.py:115} INFO - [2023-02-21 05:55:14,758] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:55:14,764] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:55:14,791] {logging_mixin.py:115} INFO - [2023-02-21 05:55:14,791] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:55:14,821] {logging_mixin.py:115} INFO - [2023-02-21 05:55:14,821] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:55:14,845] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.095 seconds
+[2023-02-21 05:55:45,514] {processor.py:153} INFO - Started process (PID=65074) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:55:45,515] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:55:45,516] {logging_mixin.py:115} INFO - [2023-02-21 05:55:45,515] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:55:45,522] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:55:45,554] {logging_mixin.py:115} INFO - [2023-02-21 05:55:45,554] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:55:45,584] {logging_mixin.py:115} INFO - [2023-02-21 05:55:45,584] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:55:45,607] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 05:56:16,304] {processor.py:153} INFO - Started process (PID=65096) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:56:16,305] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:56:16,306] {logging_mixin.py:115} INFO - [2023-02-21 05:56:16,306] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:56:16,315] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:56:16,343] {logging_mixin.py:115} INFO - [2023-02-21 05:56:16,343] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:56:16,374] {logging_mixin.py:115} INFO - [2023-02-21 05:56:16,374] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:56:16,396] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.097 seconds
+[2023-02-21 05:56:47,079] {processor.py:153} INFO - Started process (PID=65116) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:56:47,091] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:56:47,094] {logging_mixin.py:115} INFO - [2023-02-21 05:56:47,094] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:56:47,103] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:56:47,201] {logging_mixin.py:115} INFO - [2023-02-21 05:56:47,201] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:56:47,244] {logging_mixin.py:115} INFO - [2023-02-21 05:56:47,243] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:56:47,296] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.240 seconds
+[2023-02-21 05:57:17,845] {processor.py:153} INFO - Started process (PID=65137) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:57:17,848] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:57:17,849] {logging_mixin.py:115} INFO - [2023-02-21 05:57:17,848] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:57:17,855] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:57:17,883] {logging_mixin.py:115} INFO - [2023-02-21 05:57:17,883] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:57:17,916] {logging_mixin.py:115} INFO - [2023-02-21 05:57:17,916] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:57:17,939] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.112 seconds
+[2023-02-21 05:57:48,631] {processor.py:153} INFO - Started process (PID=65154) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:57:48,632] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:57:48,633] {logging_mixin.py:115} INFO - [2023-02-21 05:57:48,633] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:57:48,639] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:57:48,667] {logging_mixin.py:115} INFO - [2023-02-21 05:57:48,667] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:57:48,697] {logging_mixin.py:115} INFO - [2023-02-21 05:57:48,697] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:57:48,719] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.094 seconds
+[2023-02-21 05:58:19,364] {processor.py:153} INFO - Started process (PID=65178) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:58:19,366] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:58:19,367] {logging_mixin.py:115} INFO - [2023-02-21 05:58:19,367] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:58:19,374] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:58:19,402] {logging_mixin.py:115} INFO - [2023-02-21 05:58:19,402] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:58:19,433] {logging_mixin.py:115} INFO - [2023-02-21 05:58:19,433] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:58:19,456] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.098 seconds
+[2023-02-21 05:58:50,113] {processor.py:153} INFO - Started process (PID=65195) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:58:50,114] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:58:50,115] {logging_mixin.py:115} INFO - [2023-02-21 05:58:50,114] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:58:50,121] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:58:50,149] {logging_mixin.py:115} INFO - [2023-02-21 05:58:50,149] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:58:50,181] {logging_mixin.py:115} INFO - [2023-02-21 05:58:50,181] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:58:50,217] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.110 seconds
+[2023-02-21 05:59:20,835] {processor.py:153} INFO - Started process (PID=65219) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:59:20,837] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:59:20,839] {logging_mixin.py:115} INFO - [2023-02-21 05:59:20,839] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:59:20,854] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:59:20,893] {logging_mixin.py:115} INFO - [2023-02-21 05:59:20,893] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:59:20,926] {logging_mixin.py:115} INFO - [2023-02-21 05:59:20,926] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:59:20,946] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.117 seconds
+[2023-02-21 05:59:52,763] {processor.py:153} INFO - Started process (PID=65236) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:59:52,765] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 05:59:52,766] {logging_mixin.py:115} INFO - [2023-02-21 05:59:52,766] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:59:52,776] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 05:59:52,808] {logging_mixin.py:115} INFO - [2023-02-21 05:59:52,808] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 05:59:52,842] {logging_mixin.py:115} INFO - [2023-02-21 05:59:52,842] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 05:59:52,868] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.110 seconds
+[2023-02-21 06:00:30,968] {processor.py:153} INFO - Started process (PID=65262) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:00:30,989] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:00:30,991] {logging_mixin.py:115} INFO - [2023-02-21 06:00:30,990] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:00:30,997] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:00:31,026] {logging_mixin.py:115} INFO - [2023-02-21 06:00:31,026] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:00:31,057] {logging_mixin.py:115} INFO - [2023-02-21 06:00:31,057] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:00:33,811] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 2.849 seconds
+[2023-02-21 06:01:08,484] {processor.py:153} INFO - Started process (PID=65280) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:01:08,531] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:01:08,532] {logging_mixin.py:115} INFO - [2023-02-21 06:01:08,532] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:01:08,539] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:01:08,568] {logging_mixin.py:115} INFO - [2023-02-21 06:01:08,568] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:01:08,602] {logging_mixin.py:115} INFO - [2023-02-21 06:01:08,602] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:01:11,260] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 2.783 seconds
+[2023-02-21 06:01:45,791] {processor.py:153} INFO - Started process (PID=65303) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:01:45,794] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:01:45,795] {logging_mixin.py:115} INFO - [2023-02-21 06:01:45,795] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:01:45,802] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:01:45,831] {logging_mixin.py:115} INFO - [2023-02-21 06:01:45,830] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:01:45,862] {logging_mixin.py:115} INFO - [2023-02-21 06:01:45,861] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:01:45,900] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.116 seconds
+[2023-02-21 06:02:19,504] {processor.py:153} INFO - Started process (PID=65321) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:02:19,506] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:02:19,507] {logging_mixin.py:115} INFO - [2023-02-21 06:02:19,507] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:02:19,514] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:02:19,543] {logging_mixin.py:115} INFO - [2023-02-21 06:02:19,543] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:02:19,575] {logging_mixin.py:115} INFO - [2023-02-21 06:02:19,575] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:02:20,072] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.578 seconds
+[2023-02-21 06:02:51,720] {processor.py:153} INFO - Started process (PID=65344) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:02:51,720] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:02:51,721] {logging_mixin.py:115} INFO - [2023-02-21 06:02:51,721] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:02:51,728] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:02:51,756] {logging_mixin.py:115} INFO - [2023-02-21 06:02:51,756] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:02:51,786] {logging_mixin.py:115} INFO - [2023-02-21 06:02:51,786] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:02:52,663] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.949 seconds
+[2023-02-21 06:03:27,218] {processor.py:153} INFO - Started process (PID=65365) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:03:27,220] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:03:27,221] {logging_mixin.py:115} INFO - [2023-02-21 06:03:27,221] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:03:27,228] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:03:27,257] {logging_mixin.py:115} INFO - [2023-02-21 06:03:27,257] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:03:27,290] {logging_mixin.py:115} INFO - [2023-02-21 06:03:27,290] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:03:27,312] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.099 seconds
+[2023-02-21 06:04:01,766] {processor.py:153} INFO - Started process (PID=65406) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:04:01,768] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:04:01,769] {logging_mixin.py:115} INFO - [2023-02-21 06:04:01,769] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:04:01,776] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:04:01,807] {logging_mixin.py:115} INFO - [2023-02-21 06:04:01,807] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:04:01,839] {logging_mixin.py:115} INFO - [2023-02-21 06:04:01,839] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:04:01,861] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.101 seconds
+[2023-02-21 06:04:32,192] {processor.py:153} INFO - Started process (PID=65437) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:04:32,193] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:04:32,194] {logging_mixin.py:115} INFO - [2023-02-21 06:04:32,194] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:04:32,200] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:04:32,228] {logging_mixin.py:115} INFO - [2023-02-21 06:04:32,228] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:04:32,259] {logging_mixin.py:115} INFO - [2023-02-21 06:04:32,259] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:04:32,280] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.094 seconds
+[2023-02-21 06:05:02,989] {processor.py:153} INFO - Started process (PID=65464) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:05:02,991] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:05:02,995] {logging_mixin.py:115} INFO - [2023-02-21 06:05:02,995] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:05:03,002] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:05:03,032] {logging_mixin.py:115} INFO - [2023-02-21 06:05:03,032] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:05:03,068] {logging_mixin.py:115} INFO - [2023-02-21 06:05:03,068] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:05:03,097] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.115 seconds
+[2023-02-21 06:05:34,423] {processor.py:153} INFO - Started process (PID=65498) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:05:34,424] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:05:34,425] {logging_mixin.py:115} INFO - [2023-02-21 06:05:34,424] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:05:34,431] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:05:34,459] {logging_mixin.py:115} INFO - [2023-02-21 06:05:34,458] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:05:34,490] {logging_mixin.py:115} INFO - [2023-02-21 06:05:34,490] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:05:34,511] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.098 seconds
+[2023-02-21 06:06:13,713] {processor.py:153} INFO - Started process (PID=65523) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:06:13,718] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:06:13,719] {logging_mixin.py:115} INFO - [2023-02-21 06:06:13,719] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:06:13,726] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:06:13,757] {logging_mixin.py:115} INFO - [2023-02-21 06:06:13,756] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:06:13,788] {logging_mixin.py:115} INFO - [2023-02-21 06:06:13,788] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:06:16,502] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 2.794 seconds
+[2023-02-21 06:06:46,880] {processor.py:153} INFO - Started process (PID=65546) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:06:46,881] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:06:46,883] {logging_mixin.py:115} INFO - [2023-02-21 06:06:46,882] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:06:46,890] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:06:46,919] {logging_mixin.py:115} INFO - [2023-02-21 06:06:46,919] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:06:46,951] {logging_mixin.py:115} INFO - [2023-02-21 06:06:46,951] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:06:47,124] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.250 seconds
+[2023-02-21 06:07:21,381] {processor.py:153} INFO - Started process (PID=65575) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:07:21,383] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:07:21,384] {logging_mixin.py:115} INFO - [2023-02-21 06:07:21,384] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:07:21,390] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:07:21,422] {logging_mixin.py:115} INFO - [2023-02-21 06:07:21,422] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:07:21,473] {logging_mixin.py:115} INFO - [2023-02-21 06:07:21,473] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:07:21,506] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.132 seconds
+[2023-02-21 06:07:51,843] {processor.py:153} INFO - Started process (PID=65601) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:07:51,845] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:07:51,847] {logging_mixin.py:115} INFO - [2023-02-21 06:07:51,846] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:07:51,854] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:07:51,883] {logging_mixin.py:115} INFO - [2023-02-21 06:07:51,883] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:07:51,915] {logging_mixin.py:115} INFO - [2023-02-21 06:07:51,915] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:07:54,476] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 2.640 seconds
+[2023-02-21 06:08:24,738] {processor.py:153} INFO - Started process (PID=65630) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:08:24,739] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:08:24,740] {logging_mixin.py:115} INFO - [2023-02-21 06:08:24,740] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:08:24,746] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:08:24,774] {logging_mixin.py:115} INFO - [2023-02-21 06:08:24,774] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:08:24,805] {logging_mixin.py:115} INFO - [2023-02-21 06:08:24,804] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:08:24,825] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.093 seconds
+[2023-02-21 06:08:56,006] {processor.py:153} INFO - Started process (PID=65649) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:08:56,013] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:08:56,015] {logging_mixin.py:115} INFO - [2023-02-21 06:08:56,014] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:08:56,022] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:08:56,053] {logging_mixin.py:115} INFO - [2023-02-21 06:08:56,053] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:08:56,088] {logging_mixin.py:115} INFO - [2023-02-21 06:08:56,087] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:08:56,642] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.652 seconds
+[2023-02-21 06:09:27,553] {processor.py:153} INFO - Started process (PID=65704) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:09:27,559] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:09:27,560] {logging_mixin.py:115} INFO - [2023-02-21 06:09:27,560] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:09:27,567] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:09:27,599] {logging_mixin.py:115} INFO - [2023-02-21 06:09:27,599] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:09:27,633] {logging_mixin.py:115} INFO - [2023-02-21 06:09:27,632] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:09:27,661] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.120 seconds
+[2023-02-21 06:09:58,152] {processor.py:153} INFO - Started process (PID=65721) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:09:58,153] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:09:58,155] {logging_mixin.py:115} INFO - [2023-02-21 06:09:58,154] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:09:58,162] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:09:58,191] {logging_mixin.py:115} INFO - [2023-02-21 06:09:58,191] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:09:58,226] {logging_mixin.py:115} INFO - [2023-02-21 06:09:58,226] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:09:58,258] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.111 seconds
+[2023-02-21 06:10:28,646] {processor.py:153} INFO - Started process (PID=65746) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:10:28,649] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:10:28,650] {logging_mixin.py:115} INFO - [2023-02-21 06:10:28,650] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:10:28,657] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:10:28,690] {logging_mixin.py:115} INFO - [2023-02-21 06:10:28,690] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:10:28,767] {logging_mixin.py:115} INFO - [2023-02-21 06:10:28,767] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:10:28,799] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.158 seconds
+[2023-02-21 06:10:59,140] {processor.py:153} INFO - Started process (PID=65769) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:10:59,141] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:10:59,142] {logging_mixin.py:115} INFO - [2023-02-21 06:10:59,142] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:10:59,149] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:10:59,176] {logging_mixin.py:115} INFO - [2023-02-21 06:10:59,176] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:10:59,206] {logging_mixin.py:115} INFO - [2023-02-21 06:10:59,206] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:10:59,229] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.095 seconds
+[2023-02-21 06:11:29,535] {processor.py:153} INFO - Started process (PID=65791) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:11:29,537] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:11:29,539] {logging_mixin.py:115} INFO - [2023-02-21 06:11:29,538] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:11:29,545] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:11:29,572] {logging_mixin.py:115} INFO - [2023-02-21 06:11:29,572] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:11:29,604] {logging_mixin.py:115} INFO - [2023-02-21 06:11:29,604] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:11:29,626] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.096 seconds
+[2023-02-21 06:12:00,033] {processor.py:153} INFO - Started process (PID=65814) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:12:00,034] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:12:00,034] {logging_mixin.py:115} INFO - [2023-02-21 06:12:00,034] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:12:00,047] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:12:00,079] {logging_mixin.py:115} INFO - [2023-02-21 06:12:00,079] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:12:00,110] {logging_mixin.py:115} INFO - [2023-02-21 06:12:00,110] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:12:00,131] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.113 seconds
+[2023-02-21 06:12:30,514] {processor.py:153} INFO - Started process (PID=65838) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:12:30,516] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:12:30,517] {logging_mixin.py:115} INFO - [2023-02-21 06:12:30,517] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:12:30,524] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:12:30,552] {logging_mixin.py:115} INFO - [2023-02-21 06:12:30,552] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:12:30,583] {logging_mixin.py:115} INFO - [2023-02-21 06:12:30,583] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:12:30,605] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.098 seconds
+[2023-02-21 06:13:00,752] {processor.py:153} INFO - Started process (PID=65859) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:13:00,753] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:13:00,754] {logging_mixin.py:115} INFO - [2023-02-21 06:13:00,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:13:00,762] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:13:00,791] {logging_mixin.py:115} INFO - [2023-02-21 06:13:00,791] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:13:00,827] {logging_mixin.py:115} INFO - [2023-02-21 06:13:00,827] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:13:00,850] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.105 seconds
+[2023-02-21 06:13:31,246] {processor.py:153} INFO - Started process (PID=65890) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:13:31,248] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:13:31,249] {logging_mixin.py:115} INFO - [2023-02-21 06:13:31,249] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:13:31,255] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:13:31,283] {logging_mixin.py:115} INFO - [2023-02-21 06:13:31,283] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:13:31,315] {logging_mixin.py:115} INFO - [2023-02-21 06:13:31,315] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:13:31,335] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.095 seconds
+[2023-02-21 06:14:01,702] {processor.py:153} INFO - Started process (PID=65918) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:14:01,703] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:14:01,704] {logging_mixin.py:115} INFO - [2023-02-21 06:14:01,704] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:14:01,716] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:14:01,749] {logging_mixin.py:115} INFO - [2023-02-21 06:14:01,748] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:14:01,810] {logging_mixin.py:115} INFO - [2023-02-21 06:14:01,809] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:14:01,934] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.238 seconds
+[2023-02-21 06:14:37,333] {processor.py:153} INFO - Started process (PID=65957) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:14:37,335] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:14:37,337] {logging_mixin.py:115} INFO - [2023-02-21 06:14:37,336] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:14:37,345] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:14:37,378] {logging_mixin.py:115} INFO - [2023-02-21 06:14:37,377] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:14:37,415] {logging_mixin.py:115} INFO - [2023-02-21 06:14:37,415] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:14:37,447] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.120 seconds
+[2023-02-21 06:15:07,894] {processor.py:153} INFO - Started process (PID=65985) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:15:07,895] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:15:07,896] {logging_mixin.py:115} INFO - [2023-02-21 06:15:07,896] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:15:07,904] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:15:07,942] {logging_mixin.py:115} INFO - [2023-02-21 06:15:07,941] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:15:07,972] {logging_mixin.py:115} INFO - [2023-02-21 06:15:07,972] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:15:07,996] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.108 seconds
+[2023-02-21 06:15:38,679] {processor.py:153} INFO - Started process (PID=66008) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:15:38,681] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:15:38,682] {logging_mixin.py:115} INFO - [2023-02-21 06:15:38,681] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:15:38,688] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:15:38,716] {logging_mixin.py:115} INFO - [2023-02-21 06:15:38,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:15:38,746] {logging_mixin.py:115} INFO - [2023-02-21 06:15:38,746] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:15:38,770] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.097 seconds
+[2023-02-21 06:16:09,750] {processor.py:153} INFO - Started process (PID=66032) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:16:09,752] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:16:09,753] {logging_mixin.py:115} INFO - [2023-02-21 06:16:09,752] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:16:09,759] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:16:09,788] {logging_mixin.py:115} INFO - [2023-02-21 06:16:09,788] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:16:09,820] {logging_mixin.py:115} INFO - [2023-02-21 06:16:09,820] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:16:09,844] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.100 seconds
+[2023-02-21 06:16:40,820] {processor.py:153} INFO - Started process (PID=66056) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:16:40,821] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:16:40,822] {logging_mixin.py:115} INFO - [2023-02-21 06:16:40,822] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:16:40,829] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:16:40,856] {logging_mixin.py:115} INFO - [2023-02-21 06:16:40,856] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:16:40,890] {logging_mixin.py:115} INFO - [2023-02-21 06:16:40,890] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:16:40,915] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.100 seconds
+[2023-02-21 06:17:11,751] {processor.py:153} INFO - Started process (PID=66099) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:17:11,753] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:17:11,754] {logging_mixin.py:115} INFO - [2023-02-21 06:17:11,754] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:17:11,760] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:17:11,789] {logging_mixin.py:115} INFO - [2023-02-21 06:17:11,789] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:17:11,824] {logging_mixin.py:115} INFO - [2023-02-21 06:17:11,824] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:17:11,847] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.102 seconds
+[2023-02-21 06:17:42,089] {processor.py:153} INFO - Started process (PID=66124) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:17:42,091] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:17:42,091] {logging_mixin.py:115} INFO - [2023-02-21 06:17:42,091] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:17:42,098] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:17:42,126] {logging_mixin.py:115} INFO - [2023-02-21 06:17:42,126] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:17:42,157] {logging_mixin.py:115} INFO - [2023-02-21 06:17:42,157] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:17:42,179] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.096 seconds
+[2023-02-21 06:18:12,638] {processor.py:153} INFO - Started process (PID=66149) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:18:12,639] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:18:12,640] {logging_mixin.py:115} INFO - [2023-02-21 06:18:12,640] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:18:12,647] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:18:12,675] {logging_mixin.py:115} INFO - [2023-02-21 06:18:12,675] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:18:12,706] {logging_mixin.py:115} INFO - [2023-02-21 06:18:12,706] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:18:12,727] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.095 seconds
+[2023-02-21 06:18:43,391] {processor.py:153} INFO - Started process (PID=66241) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:18:43,395] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:18:43,396] {logging_mixin.py:115} INFO - [2023-02-21 06:18:43,396] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:18:43,403] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:18:43,432] {logging_mixin.py:115} INFO - [2023-02-21 06:18:43,432] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:18:43,471] {logging_mixin.py:115} INFO - [2023-02-21 06:18:43,470] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:18:43,499] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.115 seconds
+[2023-02-21 06:19:14,248] {processor.py:153} INFO - Started process (PID=66265) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:19:14,249] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:19:14,259] {logging_mixin.py:115} INFO - [2023-02-21 06:19:14,259] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:19:14,266] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:19:14,299] {logging_mixin.py:115} INFO - [2023-02-21 06:19:14,299] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:19:14,338] {logging_mixin.py:115} INFO - [2023-02-21 06:19:14,338] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:19:14,360] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.118 seconds
+[2023-02-21 06:19:45,039] {processor.py:153} INFO - Started process (PID=66282) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:19:45,041] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:19:45,042] {logging_mixin.py:115} INFO - [2023-02-21 06:19:45,042] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:19:45,049] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:19:45,081] {logging_mixin.py:115} INFO - [2023-02-21 06:19:45,081] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:19:45,113] {logging_mixin.py:115} INFO - [2023-02-21 06:19:45,113] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:19:45,139] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.109 seconds
+[2023-02-21 06:20:16,021] {processor.py:153} INFO - Started process (PID=66307) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:20:16,022] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:20:16,023] {logging_mixin.py:115} INFO - [2023-02-21 06:20:16,023] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:20:16,029] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:20:16,059] {logging_mixin.py:115} INFO - [2023-02-21 06:20:16,058] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:20:16,092] {logging_mixin.py:115} INFO - [2023-02-21 06:20:16,091] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:20:16,118] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.108 seconds
+[2023-02-21 06:20:46,755] {processor.py:153} INFO - Started process (PID=66330) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:20:46,757] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:20:46,758] {logging_mixin.py:115} INFO - [2023-02-21 06:20:46,758] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:20:46,767] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:20:46,795] {logging_mixin.py:115} INFO - [2023-02-21 06:20:46,795] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:20:46,825] {logging_mixin.py:115} INFO - [2023-02-21 06:20:46,825] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:20:46,852] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.103 seconds
+[2023-02-21 06:21:17,510] {processor.py:153} INFO - Started process (PID=66354) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:21:17,511] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:21:17,512] {logging_mixin.py:115} INFO - [2023-02-21 06:21:17,512] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:21:17,518] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:21:17,546] {logging_mixin.py:115} INFO - [2023-02-21 06:21:17,546] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:21:17,577] {logging_mixin.py:115} INFO - [2023-02-21 06:21:17,577] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:21:17,601] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.096 seconds
+[2023-02-21 06:21:48,366] {processor.py:153} INFO - Started process (PID=66384) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:21:48,369] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:21:48,370] {logging_mixin.py:115} INFO - [2023-02-21 06:21:48,370] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:21:48,376] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:21:48,404] {logging_mixin.py:115} INFO - [2023-02-21 06:21:48,404] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:21:48,437] {logging_mixin.py:115} INFO - [2023-02-21 06:21:48,437] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:21:48,465] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.105 seconds
+[2023-02-21 06:22:19,223] {processor.py:153} INFO - Started process (PID=66411) to work on /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:22:19,225] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py for tasks to queue
+[2023-02-21 06:22:19,226] {logging_mixin.py:115} INFO - [2023-02-21 06:22:19,226] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:22:19,233] {processor.py:651} INFO - DAG(s) dict_keys(['custom_operator']) retrieved from /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py
+[2023-02-21 06:22:19,260] {logging_mixin.py:115} INFO - [2023-02-21 06:22:19,260] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-21 06:22:19,290] {logging_mixin.py:115} INFO - [2023-02-21 06:22:19,290] {dag.py:2968} INFO - Setting next_dagrun for custom_operator to None, run_after=None
+[2023-02-21 06:22:19,323] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/04_custom_operator.py took 0.105 seconds

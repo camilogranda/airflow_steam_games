@@ -1,0 +1,32 @@
+[2023-02-21 05:25:59,606] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 05:25:59,617] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 05:25:59,618] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 05:25:59,618] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-21 05:25:59,618] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 05:25:59,653] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): save_data> on 2022-07-01 00:00:00+00:00
+[2023-02-21 05:25:59,658] {standard_task_runner.py:52} INFO - Started process 63855 to run task
+[2023-02-21 05:25:59,672] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'steam_dag', 'save_data', 'scheduled__2022-07-01T00:00:00+00:00', '--job-id', '1472', '--raw', '--subdir', 'DAGS_FOLDER/steam_dag.py', '--cfg-path', '/tmp/tmpto8xvqhm', '--error-file', '/tmp/tmpx9g19o_v']
+[2023-02-21 05:25:59,678] {standard_task_runner.py:80} INFO - Job 1472: Subtask save_data
+[2023-02-21 05:25:59,826] {task_command.py:371} INFO - Running <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-21 05:26:00,087] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=steam_dag
+AIRFLOW_CTX_TASK_ID=save_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-01T00:00:00+00:00
+[2023-02-21 05:26:00,100] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/milo/13-airflow/airflowhome/dags/steam_dag.py", line 24, in save_as_files
+    with open(f'files/new_games_{date}.json', mode='w', encoding='utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'files/new_games_2023-02-21.json'
+[2023-02-21 05:26:00,108] {taskinstance.py:1415} INFO - Marking task as FAILED. dag_id=steam_dag, task_id=save_data, execution_date=20220701T000000, start_date=20230221T102559, end_date=20230221T102600
+[2023-02-21 05:26:00,155] {standard_task_runner.py:92} ERROR - Failed to execute job 1472 for task save_data ([Errno 2] No such file or directory: 'files/new_games_2023-02-21.json'; 63855)
+[2023-02-21 05:26:00,200] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-02-21 05:26:00,236] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

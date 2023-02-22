@@ -1,0 +1,241 @@
+[2023-02-21 05:32:06,506] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 05:32:06,517] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 05:32:06,517] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 05:32:06,517] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2023-02-21 05:32:06,517] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 05:32:06,538] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): save_data> on 2022-07-01 00:00:00+00:00
+[2023-02-21 05:32:06,542] {standard_task_runner.py:52} INFO - Started process 64111 to run task
+[2023-02-21 05:32:06,548] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'steam_dag', 'save_data', 'scheduled__2022-07-01T00:00:00+00:00', '--job-id', '1474', '--raw', '--subdir', 'DAGS_FOLDER/steam_dag.py', '--cfg-path', '/tmp/tmpvy2cnowt', '--error-file', '/tmp/tmpdrwr4z35']
+[2023-02-21 05:32:06,550] {standard_task_runner.py:80} INFO - Job 1474: Subtask save_data
+[2023-02-21 05:32:06,630] {task_command.py:371} INFO - Running <TaskInstance: steam_dag.save_data scheduled__2022-07-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-21 05:32:06,840] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=steam_dag
+AIRFLOW_CTX_TASK_ID=save_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-01T00:00:00+00:00
+[2023-02-21 05:32:06,852] {logging_mixin.py:115} INFO - Saved as JSON!
+[2023-02-21 05:32:06,866] {logging_mixin.py:115} INFO - Saved as CSV!
+[2023-02-21 05:32:06,866] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,866] {logging_mixin.py:115} INFO - Name: Atomic Heart
+[2023-02-21 05:32:06,866] {logging_mixin.py:115} INFO - Tags: Horror, Mystery, Puzzle, FPS
+[2023-02-21 05:32:06,866] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,866] {logging_mixin.py:115} INFO - Name: My Dream Setup
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Tags: Design & Illustration, Simulation, Relaxing, Casual
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Name: Selene ~Apoptosis~
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Tags: Sexual Content, Nudity, Visual Novel, Horror
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Name: WILD HEARTS™
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Tags: Action, Adventure, Multiplayer, Co-op
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Name: Returnal™
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Tags: Action, Singleplayer, Roguelike, Action Roguelike
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Name: Returnal™
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Tags: Action, Singleplayer, Roguelike, Action Roguelike
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,867] {logging_mixin.py:115} INFO - Name: Tower Escape
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Tags: Roguelike, Creature Collector, Tower Defense, Deckbuilding
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Name: SkyIsland
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Tags: Action, Adventure, Action-Adventure, Exploration
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Name: Labyrinth of Galleria: The Moon Society
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Tags: RPG, Strategy, Adventure, Dungeon Crawler
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Name: Missing Hiker
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Tags: Horror, Free to Play, Thriller, Psychological Horror
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Name: United heist
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Tags: Co-op Campaign, Puzzle, Adventure, Mystery
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,868] {logging_mixin.py:115} INFO - Name: Hogwarts Legacy
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Tags: Magic, Fantasy, Open World, Singleplayer
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Name: Gloria Victis: Medieval MMORPG
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Tags: MMORPG, Medieval, Open World, Massively Multiplayer
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Name: Your Only Move Is HUSTLE
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Tags: 2D Fighter, Turn-Based Strategy, Action, Strategy
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Name: X Invader: Prologue
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Tags: Action, Roguelike, Shooter, Action Roguelike
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Name: Treason
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Tags: FPS, PvP, Investigation, Mystery
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Name: HELLCARD: Prologue
+[2023-02-21 05:32:06,869] {logging_mixin.py:115} INFO - Tags: Card Battler, Dungeon Crawler, Roguelite, Turn-Based
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Name: Bloody Hell
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Tags: Metroidvania, Bullet Hell, Twin Stick Shooter, Indie
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Name: Dead Space
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Tags: Horror, Third-Person Shooter, Sci-fi, Space
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Name: Dead Space
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Tags: Horror, Third-Person Shooter, Sci-fi, Space
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Name: Crosshair V2
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Tags: Utilities
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Name: Pizza Tower
+[2023-02-21 05:32:06,870] {logging_mixin.py:115} INFO - Tags: 2D Platformer, Great Soundtrack, Cartoony, Action
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Name: Hi-Fi RUSH
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Tags: Rhythm, Action, Hack and Slash, Singleplayer
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Name: Pets Hotel: Prologue
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Tags: Simulation, Family Friendly, Realistic, Relaxing
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Name: Monster Girl2
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Tags: Sexual Content, Nudity, Hentai, Mature
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Name: WooLoop
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Tags: Casual, Puzzle, 2.5D, Colorful
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Name: ONE PIECE ODYSSEY
+[2023-02-21 05:32:06,871] {logging_mixin.py:115} INFO - Tags: Open World, Anime, Turn-Based Combat, JRPG
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Name: Die in the Dungeon: PROLOGUE
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Tags: Roguelike Deckbuilder, Card Game, Card Battler, Roguelike
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Name: I commissioned some bees 0
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Tags: Casual, Singleplayer, 2D, Abstract
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Name: SCP: Labrat
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Tags: Horror, VR, Multiplayer, Singleplayer
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Name: Antimatter Dimensions
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Tags: Strategy, Idler, Clicker, Casual
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Name: Outpath: First Journey
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Tags: Base Building, Resource Management, Crafting, Clicker
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,872] {logging_mixin.py:115} INFO - Name: Melatonin
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Tags: Indie, Rhythm, Action, Hand-drawn
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Name: Chicken Invaders Universe
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Tags: Shooter, Shoot 'Em Up, Top-Down Shooter, Action
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Name: Buriedbornes - Dungeon RPG
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Tags: Turn-Based Strategy, RPG, Dark Fantasy, Roguelike
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Name: High On Life
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Tags: FPS, Comedy, Singleplayer, Adventure
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Name: Kleebuu Craves Fruit Salad
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Tags: Puzzle Platformer, Atmospheric, Horror, Precision Platformer
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Name: The Final Matrix (CPC/Spectrum)
+[2023-02-21 05:32:06,873] {logging_mixin.py:115} INFO - Tags: Retro, Shoot 'Em Up, Top-Down Shooter, Puzzle
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Name: SpiderAttack
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Tags: Action, Arcade, 2D Platformer, 2D
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Name: Boundary Walls
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Tags: Casual, Platformer, 2D Platformer, 2D
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Name: GRADIENT
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Tags: Stylized, Arena Shooter, Open World, Exploration
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Name: Golgotha
+[2023-02-21 05:32:06,874] {logging_mixin.py:115} INFO - Tags: Simulation, First-Person, Realistic, Atmospheric
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Name: Size story
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Tags: Adventure, Action-Adventure, Puzzle, Roguelike
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Name: Bad Hop Baseball
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Tags: Casual, Sports, Arcade, Turn-Based Tactics
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Name: Connected Hearts: The Musketeers Saga Collector's Edition
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Tags: Inventory Management, Story Rich, Hidden Object, Puzzle
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Name: Classic Car Simulator: Car Driving
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Tags: Action, Simulation, Racing, Indie
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Name: How long can you survive
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Tags: Survival, 2D, Colorful, Pixel Graphics
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,875] {logging_mixin.py:115} INFO - Name: Hkons Beanrunner
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Tags: Action, Parkour, First-Person, Platformer
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Name: Roadkill Raceway
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Tags: Action, Casual, Racing, Automobile Sim
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Name: Role of Hex
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Tags: Roguelike, Tower Defense, Procedural Generation, Exploration
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Name: Atomic Heart
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Tags: Horror, Mystery, Puzzle, FPS
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Name: Atomic Heart
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Tags: Horror, Mystery, Puzzle, FPS
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Name: Vanessa
+[2023-02-21 05:32:06,876] {logging_mixin.py:115} INFO - Tags: Action, Adventure, Action-Adventure, Exploration
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Name: Traveler - The AI Story
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Tags: Adventure, Artificial Intelligence, Visual Novel, Exploration
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Name: Risnuch
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Tags: Action, Indie, Casual, Adventure
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Name: Risnuch
+[2023-02-21 05:32:06,877] {logging_mixin.py:115} INFO - Tags: Action, Indie, Casual, Adventure
+[2023-02-21 05:32:06,878] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,878] {logging_mixin.py:115} INFO - Name: Risnuch
+[2023-02-21 05:32:06,878] {logging_mixin.py:115} INFO - Tags: Action, Indie, Casual, Adventure
+[2023-02-21 05:32:06,878] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,878] {logging_mixin.py:115} INFO - Name: Back To Ashes
+[2023-02-21 05:32:06,878] {logging_mixin.py:115} INFO - Tags: Action, Indie, RPG, Adventure
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Name: Dawn Of Hell
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Tags: Action-Adventure, Medieval, 3D, Horror
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Name: Defend from Candyland!
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Tags: Strategy, Tower Defense, Casual, Clicker
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Name: Turtle Racer
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Tags: Racing, Education, Time Management, 3D
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,879] {logging_mixin.py:115} INFO - Name: Mythargia
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Tags: Adventure, RPG, Exploration, Investigation
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Name: The Test: Secrets of the Soul
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Tags: Simulation, Choices Matter, Multiple Endings, Choose Your Own Adventure
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Name: Stacks:Space!
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Tags: Casual, Card Game, Sci-fi, Crafting
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Name: Fight in the Arena
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Tags: Text-Based, CRPG, Turn-Based Combat, RPG
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Name: Johnny Lionface
+[2023-02-21 05:32:06,880] {logging_mixin.py:115} INFO - Tags: Action RPG, Dark Humor, Party-Based RPG, RPG
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Name: Flashback
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Tags: Anime, Strategy, Choices Matter, Roguelite
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Name: My Dream Setup
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Tags: Design & Illustration, Simulation, Relaxing, Casual
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Name: My Lovely Pets Collector's Edition
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Tags: Casual, Hidden Object, Realistic, Family Friendly
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Name: XXX_CYBERRAT_XXX
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Tags: Horror, Hacking, Psychological, Dark
+[2023-02-21 05:32:06,881] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,882] {logging_mixin.py:115} INFO - Name: Draw the Road
+[2023-02-21 05:32:06,882] {logging_mixin.py:115} INFO - Tags: Casual, Simulation, Racing, Sports
+[2023-02-21 05:32:06,882] {logging_mixin.py:115} INFO - Today Games:
+[2023-02-21 05:32:06,882] {logging_mixin.py:115} INFO - Name: Mimics the bots
+[2023-02-21 05:32:06,882] {logging_mixin.py:115} INFO - Tags: Casual, Board Game, Real Time Tactics, Third Person
+[2023-02-21 05:32:06,882] {python.py:173} INFO - Done. Returned value was: None
+[2023-02-21 05:32:06,892] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=steam_dag, task_id=save_data, execution_date=20220701T000000, start_date=20230221T103206, end_date=20230221T103206
+[2023-02-21 05:32:06,929] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-21 05:32:06,954] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,24 @@
+[2023-02-08 00:42:41,277] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 09_Xcoms.task_3_pull scheduled__2023-01-07T00:00:00+00:00 [queued]>
+[2023-02-08 00:42:41,291] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 09_Xcoms.task_3_pull scheduled__2023-01-07T00:00:00+00:00 [queued]>
+[2023-02-08 00:42:41,291] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-08 00:42:41,292] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-08 00:42:41,292] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-08 00:42:41,314] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): task_3_pull> on 2023-01-07 00:00:00+00:00
+[2023-02-08 00:42:41,318] {standard_task_runner.py:52} INFO - Started process 53006 to run task
+[2023-02-08 00:42:41,325] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '09_Xcoms', 'task_3_pull', 'scheduled__2023-01-07T00:00:00+00:00', '--job-id', '1299', '--raw', '--subdir', 'DAGS_FOLDER/09_xcoms.py', '--cfg-path', '/tmp/tmpms1v83vd', '--error-file', '/tmp/tmptg034fz4']
+[2023-02-08 00:42:41,326] {standard_task_runner.py:80} INFO - Job 1299: Subtask task_3_pull
+[2023-02-08 00:42:41,416] {task_command.py:371} INFO - Running <TaskInstance: 09_Xcoms.task_3_pull scheduled__2023-01-07T00:00:00+00:00 [running]> on host pc.
+[2023-02-08 00:42:41,522] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=09_Xcoms
+AIRFLOW_CTX_TASK_ID=task_3_pull
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-07T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-01-07T00:00:00+00:00
+[2023-02-08 00:42:41,531] {logging_mixin.py:115} INFO - 9
+[2023-02-08 00:42:41,531] {python.py:173} INFO - Done. Returned value was: None
+[2023-02-08 00:42:41,541] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=09_Xcoms, task_id=task_3_pull, execution_date=20230107T000000, start_date=20230208T054241, end_date=20230208T054241
+[2023-02-08 00:42:41,575] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-08 00:42:41,600] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

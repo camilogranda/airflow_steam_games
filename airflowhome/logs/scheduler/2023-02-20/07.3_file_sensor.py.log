@@ -1,0 +1,7 @@
+[2023-02-20 17:47:26,118] {processor.py:153} INFO - Started process (PID=50545) to work on /home/milo/13-airflow/airflowhome/dags/07.3_file_sensor.py
+[2023-02-20 17:47:26,119] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/07.3_file_sensor.py for tasks to queue
+[2023-02-20 17:47:26,119] {logging_mixin.py:115} INFO - [2023-02-20 17:47:26,119] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/07.3_file_sensor.py
+[2023-02-20 17:47:26,210] {processor.py:651} INFO - DAG(s) dict_keys(['07.3_file_sensor']) retrieved from /home/milo/13-airflow/airflowhome/dags/07.3_file_sensor.py
+[2023-02-20 17:47:26,571] {logging_mixin.py:115} INFO - [2023-02-20 17:47:26,570] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 17:47:26,793] {logging_mixin.py:115} INFO - [2023-02-20 17:47:26,793] {dag.py:2968} INFO - Setting next_dagrun for 07.3_file_sensor to None, run_after=None
+[2023-02-20 17:47:26,903] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/07.3_file_sensor.py took 0.852 seconds

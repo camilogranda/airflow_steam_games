@@ -1,0 +1,28 @@
+[2023-02-04 18:24:44,758] {processor.py:153} INFO - Started process (PID=10297) to work on /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-04 18:24:44,760] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py for tasks to queue
+[2023-02-04 18:24:44,772] {logging_mixin.py:115} INFO - [2023-02-04 18:24:44,771] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-04 18:24:45,036] {logging_mixin.py:115} INFO - [2023-02-04 18:24:44,972] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/0_primer_dag.py", line 2, in <module>
+    from airflow.operator import empty
+ModuleNotFoundError: No module named 'airflow.operator'
+[2023-02-04 18:24:45,037] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-04 18:24:45,315] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py took 0.562 seconds
+[2023-02-04 18:25:15,675] {processor.py:153} INFO - Started process (PID=10784) to work on /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-04 18:25:15,678] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py for tasks to queue
+[2023-02-04 18:25:15,679] {logging_mixin.py:115} INFO - [2023-02-04 18:25:15,679] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-04 18:25:15,710] {logging_mixin.py:115} INFO - [2023-02-04 18:25:15,706] {dagbag.py:321} ERROR - Failed to import: /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/milo/13-airflow/airflowhome/dags/0_primer_dag.py", line 2, in <module>
+    from airflow.operator import empty
+ModuleNotFoundError: No module named 'airflow.operator'
+[2023-02-04 18:25:15,711] {processor.py:653} WARNING - No viable dags retrieved from /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-04 18:25:15,804] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py took 0.135 seconds

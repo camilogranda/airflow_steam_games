@@ -1,0 +1,7 @@
+[2023-02-20 17:47:33,771] {processor.py:153} INFO - Started process (PID=50565) to work on /home/milo/13-airflow/airflowhome/dags/05.3_orchestration_monthly.py
+[2023-02-20 17:47:33,772] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/05.3_orchestration_monthly.py for tasks to queue
+[2023-02-20 17:47:33,773] {logging_mixin.py:115} INFO - [2023-02-20 17:47:33,773] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/05.3_orchestration_monthly.py
+[2023-02-20 17:47:33,821] {processor.py:651} INFO - DAG(s) dict_keys(['orchestration_3']) retrieved from /home/milo/13-airflow/airflowhome/dags/05.3_orchestration_monthly.py
+[2023-02-20 17:47:33,884] {logging_mixin.py:115} INFO - [2023-02-20 17:47:33,884] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 17:47:33,953] {logging_mixin.py:115} INFO - [2023-02-20 17:47:33,953] {dag.py:2968} INFO - Setting next_dagrun for orchestration_3 to None, run_after=None
+[2023-02-20 17:47:34,017] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/05.3_orchestration_monthly.py took 0.251 seconds

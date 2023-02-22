@@ -1,0 +1,25 @@
+[2023-02-08 02:05:39,413] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 10_branching.branch scheduled__2022-07-24T00:00:00+00:00 [queued]>
+[2023-02-08 02:05:39,425] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 10_branching.branch scheduled__2022-07-24T00:00:00+00:00 [queued]>
+[2023-02-08 02:05:39,425] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-08 02:05:39,425] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-08 02:05:39,425] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-08 02:05:39,455] {taskinstance.py:1397} INFO - Executing <Task(BranchPythonOperator): branch> on 2022-07-24 00:00:00+00:00
+[2023-02-08 02:05:39,458] {standard_task_runner.py:52} INFO - Started process 56070 to run task
+[2023-02-08 02:05:39,465] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '10_branching', 'branch', 'scheduled__2022-07-24T00:00:00+00:00', '--job-id', '1439', '--raw', '--subdir', 'DAGS_FOLDER/10_branchpythonoperator.py', '--cfg-path', '/tmp/tmpawmc0701', '--error-file', '/tmp/tmp71chmv1n']
+[2023-02-08 02:05:39,467] {standard_task_runner.py:80} INFO - Job 1439: Subtask branch
+[2023-02-08 02:05:39,567] {task_command.py:371} INFO - Running <TaskInstance: 10_branching.branch scheduled__2022-07-24T00:00:00+00:00 [running]> on host pc.
+[2023-02-08 02:05:39,674] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=10_branching
+AIRFLOW_CTX_TASK_ID=branch
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-24T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-24T00:00:00+00:00
+[2023-02-08 02:05:39,675] {python.py:173} INFO - Done. Returned value was: start_15_june
+[2023-02-08 02:05:39,676] {skipmixin.py:140} INFO - Following branch start_15_june
+[2023-02-08 02:05:39,676] {skipmixin.py:175} INFO - Skipping tasks ['finish_14_june']
+[2023-02-08 02:05:39,735] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=10_branching, task_id=branch, execution_date=20220724T000000, start_date=20230208T070539, end_date=20230208T070539
+[2023-02-08 02:05:39,797] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-08 02:05:39,853] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,34 @@
+[2023-02-07 22:48:14,759] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 09_Xcoms.task_1_source scheduled__2022-12-07T00:00:00+00:00 [queued]>
+[2023-02-07 22:48:14,770] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 09_Xcoms.task_1_source scheduled__2022-12-07T00:00:00+00:00 [queued]>
+[2023-02-07 22:48:14,770] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 22:48:14,770] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-07 22:48:14,770] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 22:48:14,791] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task_1_source> on 2022-12-07 00:00:00+00:00
+[2023-02-07 22:48:14,795] {standard_task_runner.py:52} INFO - Started process 48754 to run task
+[2023-02-07 22:48:14,801] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '09_Xcoms', 'task_1_source', 'scheduled__2022-12-07T00:00:00+00:00', '--job-id', '1036', '--raw', '--subdir', 'DAGS_FOLDER/09_xcoms.py', '--cfg-path', '/tmp/tmpjmh2d7p7', '--error-file', '/tmp/tmpsu6118v4']
+[2023-02-07 22:48:14,802] {standard_task_runner.py:80} INFO - Job 1036: Subtask task_1_source
+[2023-02-07 22:48:14,888] {task_command.py:371} INFO - Running <TaskInstance: 09_Xcoms.task_1_source scheduled__2022-12-07T00:00:00+00:00 [running]> on host pc.
+[2023-02-07 22:48:14,980] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=09_Xcoms
+AIRFLOW_CTX_TASK_ID=task_1_source
+AIRFLOW_CTX_EXECUTION_DATE=2022-12-07T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-12-07T00:00:00+00:00
+[2023-02-07 22:48:14,981] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-07 22:48:14,982] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'sleep 5 && $((5 * 3))']
+[2023-02-07 22:48:14,990] {subprocess.py:85} INFO - Output:
+[2023-02-07 22:48:20,139] {subprocess.py:92} INFO - bash: line 1: 15: command not found
+[2023-02-07 22:48:20,140] {subprocess.py:96} INFO - Command exited with return code 127
+[2023-02-07 22:48:20,153] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/milo/13-airflow/airflowhome/airflowenv/lib/python3.9/site-packages/airflow/operators/bash.py", line 194, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 127.
+[2023-02-07 22:48:20,157] {taskinstance.py:1415} INFO - Marking task as FAILED. dag_id=09_Xcoms, task_id=task_1_source, execution_date=20221207T000000, start_date=20230208T034814, end_date=20230208T034820
+[2023-02-07 22:48:20,176] {standard_task_runner.py:92} ERROR - Failed to execute job 1036 for task task_1_source (Bash command failed. The command returned a non-zero exit code 127.; 48754)
+[2023-02-07 22:48:20,206] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-02-07 22:48:20,257] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

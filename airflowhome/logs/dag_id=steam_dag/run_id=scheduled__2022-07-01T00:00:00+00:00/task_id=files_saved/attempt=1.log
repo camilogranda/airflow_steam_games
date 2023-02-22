@@ -1,0 +1,28 @@
+[2023-02-21 06:14:36,379] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.files_saved scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 06:14:36,390] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: steam_dag.files_saved scheduled__2022-07-01T00:00:00+00:00 [queued]>
+[2023-02-21 06:14:36,391] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 06:14:36,391] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-21 06:14:36,391] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-21 06:14:36,414] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): files_saved> on 2022-07-01 00:00:00+00:00
+[2023-02-21 06:14:36,419] {standard_task_runner.py:52} INFO - Started process 65949 to run task
+[2023-02-21 06:14:36,425] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'steam_dag', 'files_saved', 'scheduled__2022-07-01T00:00:00+00:00', '--job-id', '1482', '--raw', '--subdir', 'DAGS_FOLDER/steam_dag.py', '--cfg-path', '/tmp/tmpcem2wdvw', '--error-file', '/tmp/tmpokk4vkhp']
+[2023-02-21 06:14:36,426] {standard_task_runner.py:80} INFO - Job 1482: Subtask files_saved
+[2023-02-21 06:14:36,507] {task_command.py:371} INFO - Running <TaskInstance: steam_dag.files_saved scheduled__2022-07-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-21 06:14:36,723] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=steam_dag
+AIRFLOW_CTX_TASK_ID=files_saved
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-01T00:00:00+00:00
+[2023-02-21 06:14:36,724] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-21 06:14:36,725] {subprocess.py:74} INFO - Running command: ['bash', '-c', "echo 'File saved as .csv and .JSON!'"]
+[2023-02-21 06:14:36,734] {subprocess.py:85} INFO - Output:
+[2023-02-21 06:14:36,736] {subprocess.py:92} INFO - File saved as .csv and .JSON!
+[2023-02-21 06:14:36,737] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-21 06:14:36,767] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=steam_dag, task_id=files_saved, execution_date=20220701T000000, start_date=20230221T111436, end_date=20230221T111436
+[2023-02-21 06:14:36,798] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-21 06:14:36,824] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

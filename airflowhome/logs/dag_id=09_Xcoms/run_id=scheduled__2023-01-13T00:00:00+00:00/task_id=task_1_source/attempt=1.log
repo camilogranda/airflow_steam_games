@@ -1,0 +1,28 @@
+[2023-02-08 00:44:08,171] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 09_Xcoms.task_1_source scheduled__2023-01-13T00:00:00+00:00 [queued]>
+[2023-02-08 00:44:08,185] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 09_Xcoms.task_1_source scheduled__2023-01-13T00:00:00+00:00 [queued]>
+[2023-02-08 00:44:08,185] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-08 00:44:08,185] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-08 00:44:08,185] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-08 00:44:08,207] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task_1_source> on 2023-01-13 00:00:00+00:00
+[2023-02-08 00:44:08,210] {standard_task_runner.py:52} INFO - Started process 53082 to run task
+[2023-02-08 00:44:08,216] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '09_Xcoms', 'task_1_source', 'scheduled__2023-01-13T00:00:00+00:00', '--job-id', '1315', '--raw', '--subdir', 'DAGS_FOLDER/09_xcoms.py', '--cfg-path', '/tmp/tmp9oc6gvmj', '--error-file', '/tmp/tmpgm4gxak8']
+[2023-02-08 00:44:08,217] {standard_task_runner.py:80} INFO - Job 1315: Subtask task_1_source
+[2023-02-08 00:44:08,306] {task_command.py:371} INFO - Running <TaskInstance: 09_Xcoms.task_1_source scheduled__2023-01-13T00:00:00+00:00 [running]> on host pc.
+[2023-02-08 00:44:08,405] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=09_Xcoms
+AIRFLOW_CTX_TASK_ID=task_1_source
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-13T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-01-13T00:00:00+00:00
+[2023-02-08 00:44:08,406] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-08 00:44:08,407] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'sleep 5 && echo $((5 * 3))']
+[2023-02-08 00:44:08,416] {subprocess.py:85} INFO - Output:
+[2023-02-08 00:44:13,419] {subprocess.py:92} INFO - 15
+[2023-02-08 00:44:13,419] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-08 00:44:13,450] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=09_Xcoms, task_id=task_1_source, execution_date=20230113T000000, start_date=20230208T054408, end_date=20230208T054413
+[2023-02-08 00:44:13,489] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-08 00:44:13,555] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

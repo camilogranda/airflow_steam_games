@@ -1,0 +1,8 @@
+[2023-02-20 17:47:41,553] {processor.py:153} INFO - Started process (PID=50584) to work on /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-20 17:47:41,553] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py for tasks to queue
+[2023-02-20 17:47:41,554] {logging_mixin.py:115} INFO - [2023-02-20 17:47:41,554] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-20 17:47:41,561] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag', 'second_dag']) retrieved from /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py
+[2023-02-20 17:47:41,592] {logging_mixin.py:115} INFO - [2023-02-20 17:47:41,592] {dag.py:2420} INFO - Sync 2 DAGs
+[2023-02-20 17:47:41,622] {logging_mixin.py:115} INFO - [2023-02-20 17:47:41,622] {dag.py:2968} INFO - Setting next_dagrun for first_dag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-02-20 17:47:41,622] {logging_mixin.py:115} INFO - [2023-02-20 17:47:41,622] {dag.py:2968} INFO - Setting next_dagrun for second_dag to 2022-08-23T00:00:00+00:00, run_after=2022-08-23T00:00:00+00:00
+[2023-02-20 17:47:41,642] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/0_primer_dag.py took 0.095 seconds

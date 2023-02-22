@@ -1,0 +1,28 @@
+[2023-02-07 19:41:03,059] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.1_external_dag.external_task_1 scheduled__2023-02-01T00:00:00+00:00 [queued]>
+[2023-02-07 19:41:03,073] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.1_external_dag.external_task_1 scheduled__2023-02-01T00:00:00+00:00 [queued]>
+[2023-02-07 19:41:03,073] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:41:03,073] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-07 19:41:03,073] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:41:03,095] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): external_task_1> on 2023-02-01 00:00:00+00:00
+[2023-02-07 19:41:03,098] {standard_task_runner.py:52} INFO - Started process 42666 to run task
+[2023-02-07 19:41:03,104] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '07.1_external_dag', 'external_task_1', 'scheduled__2023-02-01T00:00:00+00:00', '--job-id', '695', '--raw', '--subdir', 'DAGS_FOLDER/07.1_external_task.py', '--cfg-path', '/tmp/tmpxl9tp5r7', '--error-file', '/tmp/tmpfmtbqc91']
+[2023-02-07 19:41:03,106] {standard_task_runner.py:80} INFO - Job 695: Subtask external_task_1
+[2023-02-07 19:41:03,196] {task_command.py:371} INFO - Running <TaskInstance: 07.1_external_dag.external_task_1 scheduled__2023-02-01T00:00:00+00:00 [running]> on host pc.
+[2023-02-07 19:41:03,291] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=07.1_external_dag
+AIRFLOW_CTX_TASK_ID=external_task_1
+AIRFLOW_CTX_EXECUTION_DATE=2023-02-01T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-02-01T00:00:00+00:00
+[2023-02-07 19:41:03,292] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-07 19:41:03,293] {subprocess.py:74} INFO - Running command: ['bash', '-c', "sleep 10 && echo 'external task executed!'"]
+[2023-02-07 19:41:03,302] {subprocess.py:85} INFO - Output:
+[2023-02-07 19:41:13,305] {subprocess.py:92} INFO - external task executed!
+[2023-02-07 19:41:13,306] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-07 19:41:13,336] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=07.1_external_dag, task_id=external_task_1, execution_date=20230201T000000, start_date=20230208T004103, end_date=20230208T004113
+[2023-02-07 19:41:13,361] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-07 19:41:13,386] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

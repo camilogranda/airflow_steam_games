@@ -1,0 +1,7 @@
+[2023-02-20 17:47:28,195] {processor.py:153} INFO - Started process (PID=50548) to work on /home/milo/13-airflow/airflowhome/dags/07.2_external_task_sensor.py
+[2023-02-20 17:47:28,196] {processor.py:641} INFO - Processing file /home/milo/13-airflow/airflowhome/dags/07.2_external_task_sensor.py for tasks to queue
+[2023-02-20 17:47:28,197] {logging_mixin.py:115} INFO - [2023-02-20 17:47:28,197] {dagbag.py:508} INFO - Filling up the DagBag from /home/milo/13-airflow/airflowhome/dags/07.2_external_task_sensor.py
+[2023-02-20 17:47:28,263] {processor.py:651} INFO - DAG(s) dict_keys(['07.2_external_task_sensor']) retrieved from /home/milo/13-airflow/airflowhome/dags/07.2_external_task_sensor.py
+[2023-02-20 17:47:28,355] {logging_mixin.py:115} INFO - [2023-02-20 17:47:28,355] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-02-20 17:47:28,479] {logging_mixin.py:115} INFO - [2023-02-20 17:47:28,479] {dag.py:2968} INFO - Setting next_dagrun for 07.2_external_task_sensor to None, run_after=None
+[2023-02-20 17:47:28,505] {processor.py:161} INFO - Processing /home/milo/13-airflow/airflowhome/dags/07.2_external_task_sensor.py took 0.316 seconds

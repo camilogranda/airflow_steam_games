@@ -1,0 +1,28 @@
+[2023-02-07 19:36:06,361] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.2_external_task_sensor.task-2 scheduled__2023-01-07T00:00:00+00:00 [queued]>
+[2023-02-07 19:36:06,380] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: 07.2_external_task_sensor.task-2 scheduled__2023-01-07T00:00:00+00:00 [queued]>
+[2023-02-07 19:36:06,380] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:36:06,380] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2023-02-07 19:36:06,380] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-07 19:36:06,405] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): task-2> on 2023-01-07 00:00:00+00:00
+[2023-02-07 19:36:06,409] {standard_task_runner.py:52} INFO - Started process 42455 to run task
+[2023-02-07 19:36:06,415] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', '07.2_external_task_sensor', 'task-2', 'scheduled__2023-01-07T00:00:00+00:00', '--job-id', '657', '--raw', '--subdir', 'DAGS_FOLDER/07.2_external_task_sensor.py', '--cfg-path', '/tmp/tmpptfw117l', '--error-file', '/tmp/tmpubf4gmwd']
+[2023-02-07 19:36:06,417] {standard_task_runner.py:80} INFO - Job 657: Subtask task-2
+[2023-02-07 19:36:06,528] {task_command.py:371} INFO - Running <TaskInstance: 07.2_external_task_sensor.task-2 scheduled__2023-01-07T00:00:00+00:00 [running]> on host pc.
+[2023-02-07 19:36:06,637] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=07.2_external_task_sensor
+AIRFLOW_CTX_TASK_ID=task-2
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-07T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-01-07T00:00:00+00:00
+[2023-02-07 19:36:06,640] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-02-07 19:36:06,641] {subprocess.py:74} INFO - Running command: ['bash', '-c', "sleep 5 && echo 'DAG 2 ended'"]
+[2023-02-07 19:36:06,653] {subprocess.py:85} INFO - Output:
+[2023-02-07 19:36:11,653] {subprocess.py:92} INFO - DAG 2 ended
+[2023-02-07 19:36:11,654] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-02-07 19:36:11,687] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=07.2_external_task_sensor, task_id=task-2, execution_date=20230107T000000, start_date=20230208T003606, end_date=20230208T003611
+[2023-02-07 19:36:11,728] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-02-07 19:36:11,753] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
