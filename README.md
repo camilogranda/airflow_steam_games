@@ -3,7 +3,7 @@ Data pipeline with airflow that fetch steam new realeases and save them as .JSON
 
 HOW TO RUN:
 
-1. Activate virtual environment and launch Airflow webserver exexuting the file *run_airflow.sh*:
+1. Activate virtual environment and launch Airflow webserver exexuting the file *run_airflow.sh* with the command:
   **source run_airflow.sh**
   
 2. Open in Browser http://localhost:8080
