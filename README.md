@@ -10,4 +10,4 @@ HOW TO RUN:
 
 3. On Airflow Webserver, run "steam_dag.py" DAG
 
-4. See in the logs of the task number three (save_files) the latests releases of Steam Store
+4. See in the logs of the task number three (save_data) the latests releases of Steam Store
