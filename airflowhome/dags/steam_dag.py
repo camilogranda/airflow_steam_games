@@ -1,12 +1,15 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.operators.bash import BashOperator
-from datetime import datetime, timedelta
+from airflow.operators.email import EmailOperator
+from datetime import datetime
 import steam_new_releases as scraper
 import time
 import json
 import pandas as pd
 
+
+date = time.strftime("%Y-%m-%d")
 
 def fetch_games(ti):
     """ 
@@ -21,8 +24,7 @@ def save_as_files(ti):
     Save steam games as JSON and CSV files
     """
     games = ti.xcom_pull(key="games_list", task_ids="fetch_games")
-    
-    date = time.strftime("%Y-%m-%d")
+        
     with open(f'/home/milo/13-airflow/airflowhome/files/new_games_{date}.json', mode='w', encoding='utf-8') as f:
         json.dump(games, f, ensure_ascii=False)
     print('Saved as .JSON!')
@@ -34,6 +36,8 @@ def save_as_files(ti):
     print('Today New Games:')
     for game in games:
         print(game['game'] + ' ' + '[' + game['tags'] + ']')
+    print('')
+    print('Visit the official Steam Store to see more: https://store.steampowered.com/explore/new/')
         
 
 with DAG(dag_id="steam_dag",
@@ -42,8 +46,6 @@ with DAG(dag_id="steam_dag",
          end_date=datetime(2022,7,2),
          schedule_interval="@once"
          ) as dag:
-    ...
-
 
     fetch_games = PythonOperator(task_id="fetch_games",
                            python_callable=fetch_games)
@@ -57,5 +59,9 @@ with DAG(dag_id="steam_dag",
     message_2 = BashOperator(task_id="files_saved",
                            bash_command="echo 'File saved as .csv and .JSON!'")
     
+    notification = EmailOperator(task_id="notification",
+                                 to="camilo.granda96@gmail.com",
+                                 subject="Check the latests releases on Steam Store!",
+                                 files=f"/home/milo/13-airflow/airflowhome/files/*{date}.json")
     
     fetch_games >> message_1 >> save_files >> message_2
